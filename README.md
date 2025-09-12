@@ -22,7 +22,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/oth
 
 ## Community
 
-- [PerilPlanet Discord]() - The official Peril Planet Discord
+- [PerilPlanet Discord](https://discord.gg/tyRnfF9u3H) - The official Peril Planet Discord
 - [Action Tales FB Group](https://www.facebook.com/groups/actiontalesrpg/) - The Action Tales Facebook Group
 - [Freeform Universal Facebook Group](https://www.facebook.com/groups/freeformuniversal) - The FU Facebook Group
 
