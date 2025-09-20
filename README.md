@@ -46,8 +46,8 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/oth
 
 ## Translations
 - [Deutsch](https://fu-rollenspiel.de) - FU: Das freie und universelle Rollenspiel
-- (italian)
-- (french)
+- [Italian](https://artikid.itch.io/fu-gdr-ita) - FU: The Freeform Universal RPG, edizione italiana
+- [French](https://www.rolis.net/catalogue/jeu/8/freeform-universal-fu) - La page Rolis de FU
 
 
 
