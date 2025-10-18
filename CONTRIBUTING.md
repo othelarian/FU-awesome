@@ -1,4 +1,8 @@
-# Contributing guidelines
+---
+title: Contributing guidelines
+layout: page
+permalink: /contributing
+---
 
 Ensure your pull request adheres to the following guidelines:
 
