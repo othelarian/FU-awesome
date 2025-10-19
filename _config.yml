@@ -24,8 +24,8 @@ description: >-
   This website is an awesome page to help find awesome resources for the FU and
   Action Tales ttrpg system. Feel free to join the Peril Planet discord to
   help maintain, or share new links to the community.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/FU-awesome/" # the subpath of your site, e.g. /blog
+url: "https://othelarian.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  othelarian
 
 # Build settings
