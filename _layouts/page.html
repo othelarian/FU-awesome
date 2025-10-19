@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+{% if page.toc %}
+  <article class="post post-toc">
+
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+    </header>
+
+    <div class="toc">
+      <h2>{{ page.tocName }}</h2>
+      {% include toc.html html=content %}
+    </div>
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+
+  </article>
+{% else %}
+  <article class="post">
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title | escape }}</h1>
+    </header>
+
+    <div class="post-content">
+      {{ content }}
+    </div>
+
+  </article>
+{% endif %}

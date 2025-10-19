@@ -31,6 +31,7 @@ github_username:  othelarian
 # Build settings
 theme: minima
 plugins:
+#  - jekyll-toc
 #  - jekyll-feed
 
 # Exclude from processing.
