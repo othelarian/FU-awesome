@@ -44,6 +44,9 @@ $toc-disappear: 800px !default;
 @media screen and (max-width: $toc-disappear) {
   .toc { display:none; }
 }
+@media print {
+  .toc { display: none; }
+}
 
 // Use media queries like this:
 // @include media-query($on-palm) {
@@ -57,6 +60,7 @@ $toc-disappear: 800px !default;
     @content;
   }
 }
+
 
 @mixin relative-font-size($ratio) {
   font-size: $base-font-size * $ratio;

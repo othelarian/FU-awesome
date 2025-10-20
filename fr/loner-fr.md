@@ -128,7 +128,99 @@ ces trois éléments sont étroitement liés à l'histoire et il est donc consei
 
 - **L'Objectif** définit ce vers quoi le Protagoniste se dirige activement.
 - **La Motivation** explique pourquoi il poursuit l'Objectif.
-- **La Némésis** ??
+- **La Némésis** est ce qui se dresse sur votre chemin, il peut s'agir d'une personne, mais aussi d'une organisation ou même d'une force plus abstraite.
+
+Puisque *Loner* est un jeu au gameplay émergent, ces éléments devraient être choisi **en se basant sur l'univers, le ton, et les premiers moments de jeu**, plutôt que générés aléatoirement.
+
+✅ **Si décidé au fil de l'histoire :**
+- L'histoire se déroule naturellement, et l'Objectif est définit par les événements en jeu.
+- La motivation est plus impactante car elle émerge des décisions prises.
+- La Némésis se développe en un antagoniste fort avec des enjeux personnels.
+
+❌ **Si choisi aléatoirement :**
+- Le Protagoniste pourrait avoir un Objectif qui semble déconnecté de l'univers.
+- La Motivation peut paraître confuse ou peu intégré à l'histoire.
+- La Némésis donne le sentiment de ne pas correspondre à l'univers, affaiblissant la tension de l'histoire.
+
+| **Approche** | **Résultat** |
+|--------------|--------------|
+| ✅ **au fil de l'histoire** | L'Objectif, la Motivation et la Némésis évoluent naturellement via les événements en jeu, créant une plus grande immersion et donnant plus de sens à l'histoire. |
+| ❌ **Aléatoirement** | Ces éléments paraissent déconnectés de l'histoire, affaiblissant la portée du Protagoniste et les enjeux narratifs. |
+
+## 📌 Exemple
+
+> **Zahra Nakajima**
+> **Concept :** Chat de gouttière pleine d'esprit
+> **Compétences :** Connaissance de la rue, Preste
+> **Fragilité :** Miséricordieuse
+> **Équipement :** Couteau, Cartouche d'O2
+> **Objectif :** Mettre la main sur une technologie inconnue pour sauver sa planète
+> **Motivation :** Elle se sent responsable de la survie de son monde
+> **Némésis :** L'Ordre des Naturaliste, un groupe d'extrêmistes qui veulent éradiquer toute évolution technologique
+> **Chance :** 6
+
+Ici, l'Objectif et la Némésis de Zahra ne sont pas arbitraire, ils viennent du monde dans lequel l'histoire prend place. Sa Motivation est liée à sa personnalité, créant un **enjeu émotionnel** donnant du sens à son aventure.
+
+Si vous n'êtes pas sûr de l'Objectif, la Motivation, ou de la Némésis, commencez à jouer ! Laissez les premières scènes mettre à jour ces éléments au lieu de les décider dès le début.
+
+# Tout est personnage !
+
+Dans *Loner* tout ce qui joue un rôle important dans l'histoire — que ce soit une personne, un vaisseau, ou une ancienne malédiction — est traité comme un **personnage**. Ça signifie que la même approche descriptive utilisé pour le **Protagoniste** s'applique à tout ce qui revêt de l'importance.
+
+## Personnages vivants (PNJ, Ennemis, Organisations)
+
+??
+
+## 📌 Exemple
+
+??
+
+## Personnages non vivants (Objets, Véhicules, Malédictions)
+
+??
+
+## 📌 Exemple
+
+> **L'archeciel du siècle**
+> - **Concept :** un vaisseau spacial en mauvais état
+> - **Compétence :** Système de sauts hyperspacial, Circuits de camouflage
+> - **Fragilité :** Messager d'un autre âge
+> - **Chance :** 6
+
+# Tags descriptifs
+
+Les Tags sont **de courtes phrases** qui décrivent et façonnent l'univers dans lequel le Protagoniste évolue. Ce ne sont pas des nombres ou des stats, mais **des mots qui comptent** en jeu.
+
+Tout dans *Loner* — personnages, lieux, objets, événements — peut avoir des Tags. Ces Tags servent à déterminer le contexte d'une scène, et comment la situation est **avantageuse ou désavantageuse**.
+
+## Types de Tags
+
+??
+
+
+## Les Tags en jeu
+
+
+??
+
+# Avant votre aventure
+
+??
+
+## Une toile de connexions
+
+??
+
+## Suivre le monde
+
+??
+
+
+# Débuter la partie
+
+Toutes les grandes aventures démarrent **quelque part**. Dans *Loner*, vous définissez la **scène de début** en décidant où le Protagoniste est **maintenant**, et quels sont les difficultés auxquelles il doit faire face.
+
+## **1. Au cœur de l'action (scène dramatique)**
 
 ??
 
@@ -146,19 +238,74 @@ ces trois éléments sont étroitement liés à l'histoire et il est donc consei
 
 
 
+## 📌 Exemple : Infiltration
+
+> Zahra souhaite **forcer une trappe de sécurité** sans déclencher l'alarme.
+> Elle demande à l'Oracle : **"Est-ce que Zahra arrive à forcer la trappe ?"**
+>
+> 🎲 Jet : **Dé de Chance (5), Dé de Risque (4)**
+>
+> ✅ **le Dé de Chance est le plus haut** → La réponse est **Oui** (*elle y arrive*).
+> ✅ **Les deux dés sont >= 4** → On ajoute **Et ...** (*un truc en plus vient l'aider*).
+>
+> **Résultat :**
+> Zahra force la trappe **sans déclencher l'alarme**, et **elle trouve également un plan du bâtiment**.
+
+Si le Dé de Risque avait donné **3** au lieu de **4**, la réponse aurait été juste **Oui**, sans d'autres avantages.
+
 ## Avantage et Désavantage
 
 De temps en temps la situation ou un **Tag** va donner un **Avantage** ou un **Désavantage** lorsque vous consulterez l'Oracle, ceci afin de refléter la manière dont les circonstances affectent **positivement ou négativement* les efforts du Protagoniste.
 
 ## **Comment ça marche**
 
--
+- **Avantage** → Ajouter un **Dé de Chance supplémentaire** 🎲 (circonstances positives, Compétence utile, conditions favorables).
+- **Désavantage** → Ajouter un **Dé de Risque supplémentaire** 🎲 (handicaps, complications, conditions difficiles).
+- Dans les deux cas, **lancez tous les dés et gardez le plus haut résultat uniquement**.
+
+📌 **Exemple d'Avantage :**
+> Zahra tente de **charmer un marchand suspicieux** pour qu'il lui révèle son arrière boutique de produits illégaux. Elle a le **Tag "Maîtresse de l'esbrouffe"**, elle fait donc un **jet avec Avantage** (2 Dé de Chance, 1 Dé de Risque).
+
+📌 **Exemple de Désavantage :**
+> Zahra essaie de **hacker la databank d'une grosse corporation**, en plein milieu d'un territoire ennemi, sans expertise en informatique, et alors que la sécurité est renforcée. Elle fait un **jet avec Désavantage** (1 Dé de Chance, 2 Dé de Risque).
+
+## **Important !**
+
+
 
 ??
 
 
 
 
+
+
+
+
+
+
+
+
+??
+
+## L'Oracle en tant qu'outil narratif
+
+✅ **Ne considérez pas la Réponse de l'Oracle de manière binaire :** essayez d'apporter de la nuance dans votre jeu.
+✅ **Utilisez toujours le contexte pour votre interprétation :** un *"Non, et ..."* lors d'une scène de combat se vivra différemment que nors d'une conversation diplomatique.
+✅ **Expérimentez avec différentes méthodes :** utilisez l'Oracle comme un **générateur d'intensité, de momentum, ou de Twists**, pour garder l'histoire vivante et dynamique.
+
+## Réponse sibylline
+
+Parfois la Réponse de l'Oracle **ne fera aucun sens** dans le contexte de la scène en cours. Au lieu de rester coincé, suivez les étapes suivantes pour faire avancer l'histoire.
+
+## Comment gérer une Réponse sibylline
+
+1. **Ne creusez pas trop :** évitez de reposer plein de questions pour forcer un résultat "logique". Trois questions fermées est déjà amplement suffisant, et si vous n'êtes toujours pas sûr, allez de l'avant.
+2. **Recader la Réponse :** essayez de prendre du recul sur la situation. Est-ce que la Réponse pourrait **introduire une complication cachée**, ou **suggérer une vérité plus complexe** ?
+3. **Utilisez une question ouverte :** si vous êtes quand même bloqué, faites un jet sur la **table d'inspiration** ou posez une question comme :
+  - *"Qu'est-ce qui pourrait avoir un impact inconnu ?"*
+  - *"Qu'est-ce que ça révèle que je n'ai pas considéré ?"*
+4. **Par défaut, faites un "Oui, mais ..." :** si rien ne semble correspondre, traitez la Réponse comme si c'était un "Oui, mais .." et introduisez une **complication mineure** qui fait sens dans le contexte.
 
 ## 📌 Exemple : Gérer une Réponse Étrange
 
@@ -174,21 +321,6 @@ De temps en temps la situation ou un **Tag** va donner un **Avantage** ou un **D
 
 > **Interpretation finale :**
 > La taupe n'est plus là, **et ... le barman vous évite nerveusement, suggérant une entourloupe.** Maintenant l'histoire avance **et l'intrigue s'épaissit**.
-
-## 📌 Exemple : S'introduire
-
-> Zahra souhaite **forcer une trappe de sécurité** sans déclencher l'alarme.
-> Elle demande à l'Oracle : **"Est-ce que Zahra arrive à forcer la trappe ?"**
->
-> 🎲 Jet : **Dé de Chance (5), Dé de Risque (4)**
->
-> ✅ **le Dé de Chance est le plus haut** → La réponse est **Oui** (*elle y arrive*).
-> ✅ **Les deux dés sont >= 4** → On ajoute **Et ...** (*un truc en plus vient l'aider*).
->
-> **Résultat :**
-> Zahra force la trappe **sans déclencher l'alarme**, et **elle trouve également un plan du bâtiment**.
-
-Si le Dé de Risque avait donné **3** au lieu de **4**, la réponse aurait été juste **Oui**, sans d'autres avantages.
 
 # Compteur de Twists
 
@@ -258,3 +390,52 @@ Un **Conflit** apparaît dès que **deux forces ou plus entre en opposition**, q
 
 
 ??
+
+# Appencide B : Matrice de résolution
+
+| Risque \ Chance | 1 | 2 | 3 | 4 | 5 | 6 |
+|:---------------:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **1**
+| **2**
+| **3**
+| **4**
+| **5** |
+| **6** | ??
+
+??
+
+# Appendice C : Loner CheatSheet
+
+??
+
+
+
+
+### **📖 Déterminer la prochaine scène**
+
+- 🎭 **1-3** → Scène dramatique (augmentation les enjeux).
+- 🌿 **4-5** → Scène calme (récupération, faire un plan).
+- 🎥 **6** → Scène "pendant ce temps" (changement de perspective).
+
+## **🏁 Quand l'histoire s'achève**
+
+- **🏆 La fin arrive** quand **l'Objectif est réalisé**, qu'une **révélation majeure survient**, ou que le **momentum ralentit**.
+- **Après  l'aventure :**
+  - 🆕 **Gagnez une nouvelle Compétence, Équipement, ou Fragilité** reflétant les derniers événements.
+  - 🔧 **Modifiez un trait existant** (ie. améliorer une expertise).
+  - 😈 **Introduisez une nouvelle Némésis**, si ça fait sens.  
+- 🗂️ **Mettez à jour les PNJ, les lieux, et les événements** pour les prochaines histoires.  
+
+## **🎲 Questions ouvertes**
+
+- 🎲 Faites un jet de **1d6 sur chaque table** (Verbe, Nom, Adjectif) pour vous réaliser votre interprétation.
+
+# Licence
+
+Loner v.3.0
+
+© 2025 Roberto Bisceglie
+
+Ce texte est sous licence Creative Commons Attribution-ShareAlike 4.0 International License. Pour voir une copie de cette licence, vous pouvez vous rendre sur http://creativecommons.org/licenses/by-sa/4.0/ ou envoyer une lettre à Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+Cette traduction est également sous cette même licence.
