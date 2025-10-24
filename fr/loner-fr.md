@@ -47,15 +47,15 @@ Le but de *Loner* est de vous faire vivre une grande aventure, et non de vous fo
 
 # Ce dont vous avez besoin pour jouer
 
-Pour jouer à *Loner*, vous avez besoin de :
+Pour jouer à *Loner*, vous avez besoin :
 
-- **4 dés à 6 faces (d6) :** deux paires de couleurs différentes.
-- **quoi écrire :** un bout de papier et un crayon c'est parfait, des cartes vierges et des post-its sont un plus.
-- **fiche de personnage :** vous pouvez utilisez celle fournie dans le livre, ou une simple feuille.
+- **de 4 dés à 6 faces (d6) :** deux paires de couleurs différentes.
+- **De quoi écrire :** un bout de papier et un crayon c'est parfait, des cartes vierges et des post-its sont un plus.
+- **d'une fiche de personnage :** vous pouvez utilisez celle fournie dans le livre, ou une simple feuille.
 
-Vous pourriez également avoir besoin de :
+Vous pourriez également avoir besoin :
 
-- **journal :** *Loner* n'est pas un jdr de type journaling, mais vous pourriez ressentir le besoin de coucher sur papier des notes sur les personnages, les lieux, les éléments d'histoire importants. Si vous jouez souvent à la même aventure ça vous aidera à garder une meilleure cohérence.
+- **d'un journal :** *Loner* n'est pas un jdr de type journaling, mais vous pourriez ressentir le besoin de coucher sur papier des notes sur les personnages, les lieux, les éléments d'histoire importants. Si vous jouez souvent à la même aventure ça vous aidera à garder une meilleure cohérence.
 
 Et c'est tout ! Aucun livre de règles à mémoriser, pas de matériel en pagaille, juste une poignée de dés et votre imagination.
 
@@ -169,15 +169,33 @@ Dans *Loner* tout ce qui joue un rôle important dans l'histoire — que ce soit
 
 ## Personnages vivants (PNJ, Ennemis, Organisations)
 
-??
+Toute personne, créature, ou faction, qui possède un **rôle distinct** dans l'histoire suit une procédure similaire à celle du Protagoniste :
+
+- Elle possède **un Concept** qui définit son identité.
+- Elle peut posséder **des Compétences et des Fragilités**, comme le Protagoniste.
+- Elle peut posséder **des Objectifs, des Motivations ou des Némésis**.
+- Elle intéragit avec le monde via des **Tags**, influençant par ce biais la manière dont une scène se déroule.
 
 ## 📌 Exemple
 
-??
+> **Caine Trask**
+> **Concept :** Homme de loi impitoyable
+> **Compétences :** Traque, Fou de la gâchette
+> **Fragilité :** Suit un code d'Honneur
+> **Équipement :** Revolver à plasma, Drone de surveillance haut de gamme
+> **Objectif :** Capturer les fugitifs et les criminels à tout prix
+> **Motivation :** Croit que la justice est absolue, aucune négotiation possible
+> **Némésis :** Le Syndicat de l'Ombre, un réseau criminel qui n'arrête pas de lui glisser entre les doigts
+> **Chance :** 6
 
 ## Personnages non vivants (Objets, Véhicules, Malédictions)
 
-??
+Parfois ce qui n'est pas vivant **influence quand même activement l'histoire**, et est donc traité comme un personnage. Contrairement aux personnages vivants :
+
+- Ça possède **un Concept**, **des Compétences** et des **Fragilités**.
+- **Ça n'a pas d'Objectif, de Motivation ou de Némésis**.
+- C'est défini par **sa fonction et son impact** sur l'histoire.
+- Ça utilise quand même les **Tags** pour représenter leur usage, ou le défi que ça représente.
 
 ## 📌 Exemple
 
@@ -195,37 +213,121 @@ Tout dans *Loner* — personnages, lieux, objets, événements — peut avoir de
 
 ## Types de Tags
 
-??
+Les Tags peuvent être regroupé en trois catégories :
 
+- **Traits de personnage :** décrit **les compétences, les défauts, les objectifs et les motivations** d'un personnage, définissant ce à quoi ils excellent et ce qui les bloque.
+*📌 Exemples : sniper vétéran, hanté par son passé, en quête de vengeance*
+
+- **Détails :** c'est **l'environnement, les objets ou les éléments situationnels**, tous ces petits détails qui peut influencer l'histoire.
+*📌 Exemples : couloir mal éclairé, coffre-fort de haute sécurité, pont en ruine*
+
+- **Conditions :** réprésente **les effets, temporaires ou permanents** qui changent la manière dont un personnage agit ou ce qu'il doit surmonter.
+*📌 Exemples : entorse à la cheville, crainte par les locaux, recherché par la police*
 
 ## Les Tags en jeu
 
+Les Tags donne **do contexte**, pas des maths. Ils ne fonctionnent pas comme des stats ou des bonus, mais servent à déterminer si le Protagoniste **a l'avantage** ou s'il **est en mauvaise posture** dans une situation donnée. Si un Tag fait sens, il peut donner **un Avantage ou un Désavantage** à un jet.
 
-??
+✅ **Usage pertinent des Tags :**
+- Le tag *Coffre-fort de haute sécurité* montre clairement que ça va être compliqué de le crocheter, vous lancez les dés **avec un Désavantage**.
+- Le Protagoniste a la Compétence **Sniper vétéran**, lors d'un duel il aura donc **un Avantage**.
+
+❌ **Ce que les Tags NE FONT PAS :**
+- Valeur numérique (*+2 en Force* n'est pas un Tag).
+- Un trait qui n'aurait aucun impact en jeu (*Personne gentille* n'est pas un Tag impactant sauf si son usage est fréquent pour justifier un élément important de l'histoire).
+
+Voyez les Tags comme des **panneaux de signalisation narratifs**, permettant de guider l'aventure par leur impact.
 
 # Avant votre aventure
 
-??
+À peine votre Protagoniste défini vous pouvez commencer à jouer, mais il peut être intéressant avant de prendre un peu de temps pour **mettre en place le décor**, dans le but de rendre votre aventure plus immersive et cohérente.
 
 ## Une toile de connexions
 
-??
+- **Votre Némésis est un PNJ :** si vous avez défini la Némésis du Protagoniste, vous avez déjà créé un Personnage Non Joueur (ou PNJ) clé. Vous devriez lui faire une fiche de personnage, puisque vous allez très probablement la rencontrer de nouveau.
+- **Alliés et Contacts :** est-ce que le Protagoniste a des amis, des mentors, des rivaux ? Listez-les tous avec une courte description pour chacun, il vous sera ensuite beaucoup plus facile de vous les remémorer lorsqu'ils pourront apparaître lors de l'histoire.
+
+Préparer en avance ce genre d'éléments vous aidera à avoir un univers qui vous semblera plus vivant et plus réaliste, dans lequel vous vous plongerez plus aisément.
 
 ## Suivre le monde
 
-??
+Au-delà des personnages, vous devriez prendre note :
+- **des lieux importants :** les endroits que vous avez visité et sur lesquels le Protagoniste va probablement revenir, comme la cachette des criminels, un temple secret, ou une ville ravagée par la guerre.
+- **des événements majeurs :** tout ce qui est suffisamment significatif pour avoir un impact fort sur l'histoire du Protagoniste, comme une rébellion locale ou un désastre imminent.
 
+Pas besoin d'y mettre trop de détails, juste quelques mots pour vous permettre de l'utiliser par la suite pour faire prendre des directions imprévues au récit.
+
+Un peu de préparation aménera à un univers plus riche, ayant une vie propre en parallèle de votre aventure.
 
 # Débuter la partie
 
 Toutes les grandes aventures démarrent **quelque part**. Dans *Loner*, vous définissez la **scène de début** en décidant où le Protagoniste est **maintenant**, et quels sont les difficultés auxquelles il doit faire face.
 
+Il y a **deux grandes manières** de faire :
+
 ## **1. Au cœur de l'action (scène dramatique)**
+
+Démarrez **au milieu de l'action**, votre Protagoniste est déjà sur le point de **s'échapper, se battre, négotier, ou découvrir un secret**.
+
+✅ **Construisez du momentum immédiatement :** l'histoire à **déjà commencée**.
+✅ **C'est plus facile d'improviser :** la scène va d'elle-même orienter les prochaines actions les plus logiques.
+
+📌 **Exemple :**
+> Votre Protagoniste **court dans une allée éclairée par des néons**, des balles sifflantes dans son dos. Un chasseur de prime concurrent se rapproche, **est-ce qu'il trouvera de quoi se mettre à couvert à temps ?**
+
+Cette technique est empruntée à la littérature et au cinéma, où **débuter in media res** permet d'accrocher l'audience dès les premières secondes. Pensez à Indiana Jones et l'Arche d'Alliance, dès le début le héros **est déjà dans le temple** à éviter les pièges. **C'est bien plus engageant que s'il avait été à lire un livre chez lui !**
+
+💡 **Astuce :** une scène d'ouverture dramatique n'a pas besoin d'être une scène de combat, seulement de tension, d'un sentiment d'urgence, ou d'un **conflit clair qui doit être résolu**.
+
+## **2. Poser le cadre de l'aventure d'abord**
+
+Si vous préférez un peu plus de structure, vous pouvez utilisez la méthodes des 5 questions (Qui, Quoi, Pourquoi, Où, Comment, plus Obstacle). Cette manière de faire va vous donner **un cadre de mission** avant de vous lancer dans l'histoire.
+
+Posez les questions suivantes :
+- **Qui ?** *(Qui a déclenché l'aventure ?)*
+- **Quoi ?** *(Quelle mission ou tâche est en cours/attendu ?)*
+- **Pourquoi ?** *(Pourquoi le Protagoniste le fait ?)*
+- **Où ?** *(Où l'aventure se déroule-t-elle ?)*
+- **Comment ?** *(Comment l'histoire commence ? Quels en sont les événements d'origine ?)*
+- **Obstacle ?** *(Qu'est-ce qui se dresse sur le chemin immédiatement ?)*
+
+| D6 | **Qui
+
+
+
+??
+
+## **Laquelle choisir ?**
+
+
+
+??
+
+
+## Laisser l'histoire avancer
 
 ??
 
 
 
+![](diagrams/debuter.svg)
+{: .diagram}
+
+## Garder l'action en mouvement
+
+Une partie de *Loner* est constitué d'une série de scènes, chacune représentant un moment différent dans le temps, un moment durant lequel quelque chose d'important a lieu.
+
+Chaque scène a un objectif à court terme, qui doit correspondre à une action précise, un défi qui doit être résolu dans la scène si possible pour permettre à l'histoire d'aller de l'avant ensuite.
+
+## Une scène en 3 étapes
+
+Toute scène suit un rythme naturel :
+
+1. **Mise en place des enjeux :** ??
+
+
+
+??
 
 
 # Identifier vos attentes

@@ -1,0 +1,19 @@
+digraph debuter {
+    label = "DÉBUTER";
+    labelloc="t";
+    //fontname="Permanent Marker";
+    node [shape="plain", style = "rounded", 
+    /*fontname="Permanent Marker",*/ fontsize=12]
+    st1 [label = "CHOISISSEZ UN THÈME, \n GENRE, OU UNIVERS"];
+    st2 [label = "CHERCHEZ DES\n TROPES PERTINENTS"];
+    id1 [label = "DECRIVEZ LA SCÈNE"];
+    pg1 [label = "CREEZ LE PROTAGONISTE"];
+    pg2 [label = "JETEZ UN ŒIL À \n L'OBJECTIF ET LA NÉMÉSIS"];
+    id2 [label = "JOUEZ LA SCÈNE"];
+
+    st1, st2 -> pg1;
+    pg1 -> id1, st1;
+    pg1 -> pg2 [style = "dotted"];
+    pg2 -> id1 [style = "dotted"];
+    id1 -> id2;
+}
