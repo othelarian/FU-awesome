@@ -1,0 +1,35 @@
+digraph consulting_oracle {
+    label = "CONSULTER L'ORACLE";
+    labelloc="t";
+    /*fontname="Permanent Marker";*/
+    node [shape="rect", style = "",
+    /*fontname="Permanent Marker",*/ fontsize=12];
+    edge [shape="rect", /*fontname="Permanent Marker",*/ fontsize=12];
+    //splines=false;
+
+    id1[label = "LE PROTAGONISTE AGIT"];
+    id2[label = "RESOLVEZ L'ACTION \n DIÉGÉTIQUEMENT"];
+    id3[label = "DEMANDEZ À L'ORACLE"];
+    id4[label = "JET: \n  2 DÉS DE CHANCE \n ET 1 DÉ DE RISQUE"];
+    id5[label = "JET: \n  1 DÉ DE CHANCE \n ET 2 DÉ DE RISQUE"];
+    id6[label = "JET: \n  1 DÉ DE CHANCE \n ET 1 DÉ DE RISQUE"];
+    id7[label = "EST-CE QUE LA RÉPONSE EST CLAIRE ?"];
+    id8[label = "RESOLVEZ L'ACTION"];
+    id9[label = "REDEMANDEZ \n (Max 3)"];
+    id10[label = "QUESTION OUVERTE"];
+
+    id1 -> id2 [xlabel = "Évident"] ;
+    id2 -> id1 [label = "Action suivante"];
+    id1 -> id3 [label = "Incertain/\nÉvident"];
+    id3 -> id4 [xlabel = "Avantage"];
+    {rank=same;id4 -> id6 -> id5 [style="invis"]};
+    id3 -> id6;
+    id3 -> id5 [label = "Désadvantage"];
+    id4, id6, id5 -> id7;
+    id7 -> id8 [label = "OUI"] ;
+    id7 -> id9 [label = "NON"];
+    id9 -> id8 [label = "Claire"];
+    id9 -> id10 [xlabel = "Confuse"];
+    id10 -> id8;
+    id8 -> id1 [xlabel="Action suivante"];
+}

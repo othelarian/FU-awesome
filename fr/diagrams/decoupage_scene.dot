@@ -1,0 +1,47 @@
+digraph scene_breakdown {
+    label = "DECOUPAGE D'UNE SCÈNE";
+    labelloc="t";
+    //fontname="Permanent Marker";
+    node [shape="rect", style = "", 
+    /*fontname="Permanent Marker",*/ fontsize=12];
+    edge [shape="rect", /*fontname="Permanent Marker",*/ fontsize=12];
+
+    subgraph cluster_0 {
+        label = "1. IDENTIFIEZ VOS ATTENTES";
+        cs01 [label = "REGARDEZ LES TRAITS DU PROTAGONISTE"];
+        cs02 [label = "DETERMINEZ LES ACTIONS DU PROTAGONISTE"];
+        cs03 [label = "FAITES REAGIR LE MONDE"];
+        cs04 [style = "invis"];
+
+        cs01 -> cs02 -> cs03;
+        cs03 -> cs04 [style="invis"];
+
+    }
+    subgraph cluster_1 {
+        label = "2. TESTEZ VOS ATTENTES";
+        cs11 [label = "INCERTAIN OU ÉVIDENT ?"];
+        cs12 [label = "DEMANDEZ A L'ORACLE"];
+        cs13 [label = "FAITES SELON LE CONTEXTE"];
+        cs14 [label = "REGARDEZ LES TAGS QUI S'APPLIQUENT"];
+        cs15 [label = "AVANTAGE"];
+        cs16 [label = "DÉSADVANTAGE"];
+
+        cs11 -> cs12 [label="Oui"];
+        cs11 -> cs13 [label="Non"];
+        cs12 -> cs14;
+        cs14 -> cs15 [label = "Plutôt \n positifs"];
+        cs14 -> cs16 [label = "Plutôt \n négatifs"];
+    }
+    subgraph cluster_3 {
+        label = "3. INTERPRETEZ LE RÉSULTAT";
+        cs31 [label = "EST-CE QUE ÇA CORRESPOND A VOS ATTENTES ?"];
+        cs32 [label = "CONSIDÉREZ LE CONTEXTE"];
+        cs33 [label = "EXAMINEZ LA RÉPONSE"];
+        cs34 [label = "CHANGEZ LES ATTENTES"];
+        cs35 [label = "SUIVEZ LES ATTENTES"];
+
+        cs32 -> cs33 -> cs31;
+        cs31 -> cs35 [label = "Oui"];
+        cs31 -> cs34 [label = "Non"];
+    }
+}

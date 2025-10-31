@@ -1,0 +1,18 @@
+digraph interpret_result {
+    label = "INTERPRÉTEZ LE RESULTAT";
+    labelloc="t";
+    /*fontname="Permanent Marker";*/
+    node [shape="rect", style = "", 
+    /*fontname="Permanent Marker",*/ fontsize=12];
+    edge [shape="rect", /*fontname="Permanent Marker",*/ fontsize=12];
+
+    cs31 [label = "LA RÉPONSE CORRESPOND À VOS ATTENTES ?"];
+    cs32 [label = "CONSIDÉREZ LE CONTEXTE"];
+    cs33 [label = "EXAMINEZ LA RÉPONSE"];
+    cs34 [label = "CHANGEZ VOS ATTENTES"];
+    cs35 [label = "SUIVEZ VOS ATTENTES"];
+
+    cs32 -> cs33 -> cs31;
+    cs31 -> cs35 [label = "Oui"];
+    cs31 -> cs34 [xlabel = "Non"];
+}
