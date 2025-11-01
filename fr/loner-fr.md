@@ -226,7 +226,7 @@ Les Tags peuvent être regroupé en trois catégories :
 
 ## Les Tags en jeu
 
-Les Tags donne **do contexte**, pas des maths. Ils ne fonctionnent pas comme des stats ou des bonus, mais servent à déterminer si le Protagoniste **a l'avantage** ou s'il **est en mauvaise posture** dans une situation donnée. Si un Tag fait sens, il peut donner **un Avantage ou un Désavantage** à un jet.
+Les Tags donne **du contexte**, pas des maths. Ils ne fonctionnent pas comme des stats ou des bonus, mais servent à déterminer si le Protagoniste **a l'avantage** ou s'il **est en mauvaise posture** dans une situation donnée. Si un Tag fait sens, il peut donner **un Avantage ou un Désavantage** à un jet.
 
 ✅ **Usage pertinent des Tags :**
 - Le tag *Coffre-fort de haute sécurité* montre clairement que ça va être compliqué de le crocheter, vous lancez les dés **avec un Désavantage**.
@@ -291,24 +291,43 @@ Posez les questions suivantes :
 - **Comment ?** *(Comment l'histoire commence ? Quels en sont les événements d'origine ?)*
 - **Obstacle ?** *(Qu'est-ce qui se dresse sur le chemin immédiatement ?)*
 
-| D6 | **Qui
+| D6 | **Qui ?**<br />Initiateur | **Quoi ?**<br />Mission | **Pourquoi ?**<br />Incitation | **Où ?**<br />Cible | **Comment ?**<br />Origine | **Obstacle ?**<br />Complication |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | Autorité | Secourir | Aide | Personne | Rencontre informelle | Opposition |
+| 2 | Organisation | Protection | Fortune | Groupe | Vieille connaissance | Tromperie |
+| 3 | Allié | Exploiter | Cœrcition | Trésor | Rumeurs | Environnement |
+| 4 | Mentor | Explorer | Impulsion | Lieu | Capture | Déguisement |
+| 5 | Personne en détresse | Fuite | Ambition | McGuffin | Incident | Temps |
+| 6 | Maitre-chanteur | Poursuite | Revanche | Confession | Objet | Espace |
 
+✅ **Poser les bases :** le Protagoniste a un **Objectif** dès le début.
+✅ **Donner une structure :** vous connaissez **les enjeux** avant même le début de la première scène.
 
-
-??
+> **Qui ?** Mentor
+> **Quoi ?** Exploiter
+> **Why ?** Aide
+> **Où ?** McGuffin
+> **Comment ?** Rumeurs
+> **Obstacle ?** Temps
+>
+> Tobias Wethern a pris Zahra sous son aile à la mort de ses parents. C'est pourquoi elle ne peut rien lui refuser. Tobias veut que Zahra **vole un datapad** d'une filiale de la Corporation Leton. Il ne sait pas exactement ce qu'il contient, mais **dans 24 heures, il sera déplacé ailleurs**. Plus de temps à perdre.
 
 ## **Laquelle choisir ?**
 
+📌 **Scène dramatique :** à choisir si vous voulez **sauter directement dans l'action** et découvrir l'histoire en jouant.
+📌 **Poser le cadre :** à choisir si vous préférez **un objectif de mission structuré et structurant** avant le début de l'aventure.
 
+Vous **n'avez pas à choisir l'un ou l'autre**, vous pouvez aussi **combiner les deux** :
+1. **Posez le cadre de la mission ...**
+2. **... et débutez par une scène dramatique !**
 
-??
+📌 **Exemple :** vous **déterminez** la mission (*voler le disque dur d'un hacker rival*), mais au lieu de démarrer par une préparation de l'action, vous **sautez dedans** (*le Protagoniste est déjà à l'intérieur de l'appartement du hacker, et les alarmes résonnent !*).
 
+Les deux méthodes servent **différents style de jeu**, mais ensemble elles offrent **un ouverture éclatante dans l'aventure**.
 
 ## Laisser l'histoire avancer
 
-??
-
-
+Une fois que vous avez mis en place **la première scène**, commencez à jouer ! L'Oracle va vous guider dans ce qui va se passer ensuite, apportant de la surprise et des Twists sur le chemin.
 
 ![](diagrams/debuter.svg)
 {: .diagram}
@@ -323,22 +342,83 @@ Chaque scène a un objectif à court terme, qui doit correspondre à une action 
 
 Toute scène suit un rythme naturel :
 
-1. **Mise en place des enjeux :** ??
+1. **Mise en place des enjeux :** quel est l'objectif du Protagoniste ? Regardez **ses traits, son Objectif, sa Motivation** et déterminez ses prochaines actions. Comment pensez-vous que le monde va réagir ?
+2. **Tester l'évidence :** si la suite des événements semble flou (où si la confiance excessive tente le Destin), consultez l'Oracle avec une **question fermée (oui/non)**. Utilisez les **Tags** pour déterminer si le Protagoniste est [avantagé ou non](#avantage-et-désavantage).
+3. **Interprétation du résultat :** la réponse de l'Oracle peut confirmer les attentes, ou les modifier. Comment le résultat redessine la scène ? Quelles nouvelles possibilités ont émergé ?
 
+Au début vous pourriez trouvez cette structure contraignante, mais avec le temps elle va devenir une seconde nature, permettant à l'histoire d'avancer naturellement.
 
-
-??
-
+![](diagrams/decoupage_scene.svg)
 
 # Identifier vos attentes
 
-??
+Les **traits, Objectif et Motivation** du Protagoniste définissent comment il intéragit avec le monde. Dans chaque scène, et basé sur ses éléments, des attentes **qui font sens** vont émerger.
 
+Les attentes aident à guider l'histoire, mais elles ne nécessitent pas forcément de jet de dés. Si e résultat d'une action **est évident et logique**, alors c'est ce qui se passe. Cependant, en cas **d'hésitation, de risque, ou s'il y a une chance d'être surpris**, c'est qu'il est venu le temps de vérifier ces attentes en consultant l'Oracle.
 
+## Quand consulter l'Oracle
 
+- **Si le résultat est évident →** pas besoin de faire un jet, la scène se déroule comme attendu.
+- **Si le résultat est incertain ou risqué →** consultez l'Oracle avec une question fermée (oui/non).
+- **Si vous voulez un Twist inattendu →** demandez même si vous êtes confiant, parfois le monde agit d'une manière inattendu !
 
+## 📌 Exemple 1 : aucun jet requis
 
+> Zahra s'infiltre dans la filiale de Leton Corporation. Grâce à ses repérages préalable elle sait que la sécurité est **plus légère la nuit**. Puisque c'est logique avec les attentes, la scène se déroule sans problème : Zahra **s'introduit sans être détectée** sans avoir besoin de consultez l'Oracle.
 
+## 📌 Exemple 2 : consulter l'Oracle pour l'incertitude
+
+> Zarha rampe dans les conduits de ventilation, s'attendant à ce qu'ils soient dépourvu de surveillance. Mais est-ce qu'il n'y aurait pas **une alarme de sécurité** cachée à l'intérieur ? C'est incertain, elle demande donc à l'Oracle :
+>
+> **Est-ce qu'il y a une alarme dans les conduits ?**
+
+## 📌 Exemple 3 : consulter l'Oracle pour un Twist inattendu
+
+> Zahra arrive à se faufiler jusqu'à la salle serveur. Elle **sait**, grâce à les plans volés, que la porte **requiert juste une seule surcharge**, mais si elle se trompait ? Elle consulte l'Oracle :
+>
+> **"Est-ce que le système de sécurité est comme attendu ?"**
+>
+> La réponse est **Non, mais ...** la serrure a été **mise à jour récemment**, avec une **reconnaissance biométrique**, et la vraie surprise ? Les agents de sécurité viennent de débuter leur patrouille de minuit.
+
+# Consulter l'Oracle
+
+Dès que vous faites face à **une incertitude** dans votre aventure, vous allez consulter **l'Oracle** en posant **une question fermée (oui/non)** et en jetant les dés pour déterminer le résultat.
+
+## Ce dont vous avez besoin
+
+Vous avez besoin :
+✅ **de 2d6 d'une couleur** (*les Dés de Chance*)
+✅ **de 2d6 d'une couleur différente** (*les Dés de Risque*)
+
+## Comment faire un jet
+
+Quand vous consultez **l'Oracle**, faites un jet de dés avec **1 Dé de Chance et 1 Dé de Risque**, et suivez ensuite les étapes suivantes :
+
+## **Étape 1 : comparez les dés**
+
+🔹 **Le Dé de Chance est le plus haut ?** → **Oui** (*Succès*)
+🔹 **Le Dé de Risque est le plus haut ?** → **Non** (*Échec*)
+🔹 **Les deux dés sont égaux ?** → **Oui, mais ...** (*Succès mais avec une complication, +1 au Compteur de Twists*)
+
+## **Étape 2 : vérifiez les modificateurs**
+
+📉 **Les deux dés sont inférieurs ou égal à 3 ?**
+➝ Ajoutez **mais ...** (*Quelque chose se passe mal ou ajoute de la tension*)
+
+📈 **Les deux dés sont supérieurs ou égal à 4 ?**
+➝ Ajouter un **et ...** (*Quelque chose de positif arrive en plus*)
+
+## **Découpage de la résolution**
+
+🟢 **Dé de Chance > Dé de Risque → "Oui"**
+✅ **Les deux dés <= 3 → "Oui, mais ..."** *(Succès avec complication)*
+✅ **Les deux dés >= 4 → "Oui, et ..."** *(Succès avec un petit plus)*
+
+🔴 **Dé de Risque > Dé de Chance → "Non"**
+❌ **Les deux dés <= 3 → "Non, mais ..."** *(Échec, mais quelque chose de positif arrive)*
+❌ **Les deux dés >= 4 → "Non, et ..."** *(Échec avec des conséquence en plus)*
+
+⚖️ **Les deux dés sont égaux → "Oui, mais ..."** *(+1 au Compteur de Twists !)*
 
 ## 📌 Exemple : Infiltration
 
@@ -373,22 +453,88 @@ De temps en temps la situation ou un **Tag** va donner un **Avantage** ou un **D
 
 ## **Important !**
 
+️⚠️️️️ **Les Tags ne sont pas des nombres !** Utilisez **intuitivement**, et non comme des bonus ou malus. L'objectif est de **garder le jeu fluide**, et pas de suranalyser chaque situation.
 
+
+
+??
+
+
+
+## **Règles pour plusieurs Tags**
+
+⚠️ **Tags
+??
+
+
+## **📌 Exemple : hacker le datapad**
+
+
+??
+
+
+### **Evaluer l'Avantage et le Désavantage**
+
+
+??
+
+
+### **Le jet de dés**
+
+
+??
+
+
+### **Pourquoi ce système fonctionne**
+
+
+
+??
+
+
+# Interpréter l'Oracle
+
+
+??
+
+
+## Rendre le résultat intéressant
+
+
+??
+
+
+## Méthodes pour interpréter l'Oracle
+
+
+??
+
+
+### 1. L'Oracle en tant qu'Intensité
 
 ??
 
 
 
 
+### 2. L'Oracle en tant que générateur de Twist
+
+??
 
 
 
+### 3. L'Oracle en tant que Contrôle du Momentum
+
+??
 
 
 
+## 📌 Exemple : étendre l'histoire avec l'interprétation
 
 
 ??
+
+
 
 ## L'Oracle en tant qu'outil narratif
 
@@ -486,6 +632,19 @@ Le **Compteur de Twists** sert à alimenter *Loner* en **Surprises**, assurant q
 # Conflits
 
 Un **Conflit** apparaît dès que **deux forces ou plus entre en opposition**, que ce soit par **le combat, la compétition, la persuasion ou la résistance**.
+
+Les conflits ne sont pas limités aux **combats physiques**, ils incluent également :
+
+- **Les joutes verbales** (*intimidation, négociations, débats*)
+- **Les compétitions tactiques** (*chasses, sabotages, casses*)
+- **Les luttes mentales** (*résister à une influence psychique, supporter une torture*)
+- **Les batailles de véhicules** (*combats aérien, combats navaux*)
+
+## Différentes manières de résoudre un conflit
+
+Il y a trois approches pour résoudre un conflit, suivant le niveau de détail attendu :
+
+1. **Simple question oui/non :** ??
 
 
 
