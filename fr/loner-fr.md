@@ -149,14 +149,14 @@ Puisque *Loner* est un jeu au gameplay émergent, ces éléments devraient être
 
 ## 📌 Exemple
 
-> **Zahra Nakajima**
-> **Concept :** Chat de gouttière pleine d'esprit
-> **Compétences :** Connaissance de la rue, Preste
-> **Fragilité :** Miséricordieuse
-> **Équipement :** Couteau, Cartouche d'O2
-> **Objectif :** Mettre la main sur une technologie inconnue pour sauver sa planète
-> **Motivation :** Elle se sent responsable de la survie de son monde
-> **Némésis :** L'Ordre des Naturaliste, un groupe d'extrêmistes qui veulent éradiquer toute évolution technologique
+> **Zahra Nakajima**  
+> **Concept :** Chat de gouttière pleine d'esprit  
+> **Compétences :** Connaissance de la rue, Preste  
+> **Fragilité :** Miséricordieuse  
+> **Équipement :** Couteau, Cartouche d'O2  
+> **Objectif :** Mettre la main sur une technologie inconnue pour sauver sa planète  
+> **Motivation :** Elle se sent responsable de la survie de son monde  
+> **Némésis :** L'Ordre des Naturaliste, un groupe d'extrêmistes qui veulent éradiquer toute évolution technologique  
 > **Chance :** 6
 
 Ici, l'Objectif et la Némésis de Zahra ne sont pas arbitraire, ils viennent du monde dans lequel l'histoire prend place. Sa Motivation est liée à sa personnalité, créant un **enjeu émotionnel** donnant du sens à son aventure.
@@ -178,14 +178,14 @@ Toute personne, créature, ou faction, qui possède un **rôle distinct** dans l
 
 ## 📌 Exemple
 
-> **Caine Trask**
-> **Concept :** Homme de loi impitoyable
-> **Compétences :** Traque, Fou de la gâchette
-> **Fragilité :** Suit un code d'Honneur
-> **Équipement :** Revolver à plasma, Drone de surveillance haut de gamme
-> **Objectif :** Capturer les fugitifs et les criminels à tout prix
-> **Motivation :** Croit que la justice est absolue, aucune négotiation possible
-> **Némésis :** Le Syndicat de l'Ombre, un réseau criminel qui n'arrête pas de lui glisser entre les doigts
+> **Caine Trask**  
+> **Concept :** Homme de loi impitoyable  
+> **Compétences :** Traque, Fou de la gâchette  
+> **Fragilité :** Suit un code d'Honneur  
+> **Équipement :** Revolver à plasma, Drone de surveillance haut de gamme  
+> **Objectif :** Capturer les fugitifs et les criminels à tout prix  
+> **Motivation :** Croit que la justice est absolue, aucune négotiation possible  
+> **Némésis :** Le Syndicat de l'Ombre, un réseau criminel qui n'arrête pas de lui glisser entre les doigts  
 > **Chance :** 6
 
 ## Personnages non vivants (Objets, Véhicules, Malédictions)
@@ -269,7 +269,7 @@ Il y a **deux grandes manières** de faire :
 
 Démarrez **au milieu de l'action**, votre Protagoniste est déjà sur le point de **s'échapper, se battre, négotier, ou découvrir un secret**.
 
-✅ **Construisez du momentum immédiatement :** l'histoire à **déjà commencée**.
+✅ **Construisez du momentum immédiatement :** l'histoire à **déjà commencée**.  
 ✅ **C'est plus facile d'improviser :** la scène va d'elle-même orienter les prochaines actions les plus logiques.
 
 📌 **Exemple :**
@@ -300,21 +300,21 @@ Posez les questions suivantes :
 | 5 | Personne en détresse | Fuite | Ambition | McGuffin | Incident | Temps |
 | 6 | Maitre-chanteur | Poursuite | Revanche | Confession | Objet | Espace |
 
-✅ **Poser les bases :** le Protagoniste a un **Objectif** dès le début.
+✅ **Poser les bases :** le Protagoniste a un **Objectif** dès le début.  
 ✅ **Donner une structure :** vous connaissez **les enjeux** avant même le début de la première scène.
 
-> **Qui ?** Mentor
-> **Quoi ?** Exploiter
-> **Why ?** Aide
-> **Où ?** McGuffin
-> **Comment ?** Rumeurs
-> **Obstacle ?** Temps
->
+> **Qui ?** Mentor  
+> **Quoi ?** Exploiter  
+> **Why ?** Aide  
+> **Où ?** McGuffin  
+> **Comment ?** Rumeurs  
+> **Obstacle ?** Temps  
+>  
 > Tobias Wethern a pris Zahra sous son aile à la mort de ses parents. C'est pourquoi elle ne peut rien lui refuser. Tobias veut que Zahra **vole un datapad** d'une filiale de la Corporation Leton. Il ne sait pas exactement ce qu'il contient, mais **dans 24 heures, il sera déplacé ailleurs**. Plus de temps à perdre.
 
 ## **Laquelle choisir ?**
 
-📌 **Scène dramatique :** à choisir si vous voulez **sauter directement dans l'action** et découvrir l'histoire en jouant.
+📌 **Scène dramatique :** à choisir si vous voulez **sauter directement dans l'action** et découvrir l'histoire en jouant.  
 📌 **Poser le cadre :** à choisir si vous préférez **un objectif de mission structuré et structurant** avant le début de l'aventure.
 
 Vous **n'avez pas à choisir l'un ou l'autre**, vous pouvez aussi **combiner les deux** :
@@ -325,7 +325,7 @@ Vous **n'avez pas à choisir l'un ou l'autre**, vous pouvez aussi **combiner les
 
 Les deux méthodes servent **différents style de jeu**, mais ensemble elles offrent **un ouverture éclatante dans l'aventure**.
 
-## Laisser l'histoire avancer
+# Laisser l'histoire avancer
 
 Une fois que vous avez mis en place **la première scène**, commencez à jouer ! L'Oracle va vous guider dans ce qui va se passer ensuite, apportant de la surprise et des Twists sur le chemin.
 
@@ -349,12 +349,13 @@ Toute scène suit un rythme naturel :
 Au début vous pourriez trouvez cette structure contraignante, mais avec le temps elle va devenir une seconde nature, permettant à l'histoire d'avancer naturellement.
 
 ![](diagrams/decoupage_scene.svg)
+{: .diagram}
 
 # Identifier vos attentes
 
 Les **traits, Objectif et Motivation** du Protagoniste définissent comment il intéragit avec le monde. Dans chaque scène, et basé sur ses éléments, des attentes **qui font sens** vont émerger.
 
-Les attentes aident à guider l'histoire, mais elles ne nécessitent pas forcément de jet de dés. Si e résultat d'une action **est évident et logique**, alors c'est ce qui se passe. Cependant, en cas **d'hésitation, de risque, ou s'il y a une chance d'être surpris**, c'est qu'il est venu le temps de vérifier ces attentes en consultant l'Oracle.
+Les attentes aident à guider l'histoire, mais elles ne nécessitent pas forcément de jet de dés. Si le résultat d'une action **est évident et logique**, alors c'est ce qui se passe. Cependant, en cas **d'hésitation, de risque, ou s'il y a une chance d'être surpris**, c'est qu'il est venu le temps de vérifier ces attentes en consultant l'Oracle.
 
 ## Quand consulter l'Oracle
 
@@ -368,8 +369,8 @@ Les attentes aident à guider l'histoire, mais elles ne nécessitent pas forcém
 
 ## 📌 Exemple 2 : consulter l'Oracle pour l'incertitude
 
-> Zarha rampe dans les conduits de ventilation, s'attendant à ce qu'ils soient dépourvu de surveillance. Mais est-ce qu'il n'y aurait pas **une alarme de sécurité** cachée à l'intérieur ? C'est incertain, elle demande donc à l'Oracle :
->
+> Zarha rampe dans les conduits de ventilation, s'attendant à ce qu'ils soient dépourvu de surveillance. Mais est-ce qu'il n'y aurait pas **une alarme de sécurité** cachée à l'intérieur ? C'est incertain, elle demande donc à l'Oracle :  
+>  
 > **Est-ce qu'il y a une alarme dans les conduits ?**
 
 ## 📌 Exemple 3 : consulter l'Oracle pour un Twist inattendu
@@ -386,9 +387,9 @@ Dès que vous faites face à **une incertitude** dans votre aventure, vous allez
 
 ## Ce dont vous avez besoin
 
-Vous avez besoin :
-✅ **de 2d6 d'une couleur** (*les Dés de Chance*)
-✅ **de 2d6 d'une couleur différente** (*les Dés de Risque*)
+Vous avez besoin :  
+✅ **de 2d6 d'une couleur** (*les Dés de Chance*)  
+✅ **de 2d6 d'une couleur différente** (*les Dés de Risque*)  
 
 ## Comment faire un jet
 
@@ -396,41 +397,42 @@ Quand vous consultez **l'Oracle**, faites un jet de dés avec **1 Dé de Chance 
 
 ## **Étape 1 : comparez les dés**
 
-🔹 **Le Dé de Chance est le plus haut ?** → **Oui** (*Succès*)
-🔹 **Le Dé de Risque est le plus haut ?** → **Non** (*Échec*)
+🔹 **Le Dé de Chance est le plus haut ?** → **Oui** (*Succès*)  
+🔹 **Le Dé de Risque est le plus haut ?** → **Non** (*Échec*)  
 🔹 **Les deux dés sont égaux ?** → **Oui, mais ...** (*Succès mais avec une complication, +1 au Compteur de Twists*)
 
 ## **Étape 2 : vérifiez les modificateurs**
 
 📉 **Les deux dés sont inférieurs ou égal à 3 ?**
+
 ➝ Ajoutez **mais ...** (*Quelque chose se passe mal ou ajoute de la tension*)
 
 📈 **Les deux dés sont supérieurs ou égal à 4 ?**
+
 ➝ Ajouter un **et ...** (*Quelque chose de positif arrive en plus*)
 
 ## **Découpage de la résolution**
 
-🟢 **Dé de Chance > Dé de Risque → "Oui"**
-✅ **Les deux dés <= 3 → "Oui, mais ..."** *(Succès avec complication)*
-✅ **Les deux dés >= 4 → "Oui, et ..."** *(Succès avec un petit plus)*
+🟢 **Dé de Chance > Dé de Risque → "Oui"**  
+✅ **Les deux dés <= 3 → "Oui, mais ..."** *(Succès avec complication)*  
+✅ **Les deux dés >= 4 → "Oui, et ..."** *(Succès avec un petit plus)*  
 
-🔴 **Dé de Risque > Dé de Chance → "Non"**
-❌ **Les deux dés <= 3 → "Non, mais ..."** *(Échec, mais quelque chose de positif arrive)*
-❌ **Les deux dés >= 4 → "Non, et ..."** *(Échec avec des conséquence en plus)*
+🔴 **Dé de Risque > Dé de Chance → "Non"**  
+❌ **Les deux dés <= 3 → "Non, mais ..."** *(Échec, mais quelque chose de positif arrive)*  
+❌ **Les deux dés >= 4 → "Non, et ..."** *(Échec avec des conséquence en plus)*  
 
 ⚖️ **Les deux dés sont égaux → "Oui, mais ..."** *(+1 au Compteur de Twists !)*
 
 ## 📌 Exemple : Infiltration
 
-> Zahra souhaite **forcer une trappe de sécurité** sans déclencher l'alarme.
-> Elle demande à l'Oracle : **"Est-ce que Zahra arrive à forcer la trappe ?"**
+> Zahra souhaite **forcer une trappe de sécurité** sans déclencher l'alarme.  
+> Elle demande à l'Oracle : **"Est-ce que Zahra arrive à forcer la trappe ?"**  
 >
-> 🎲 Jet : **Dé de Chance (5), Dé de Risque (4)**
+> 🎲 Jet : **Dé de Chance (5), Dé de Risque (4)**  
+> ✅ **le Dé de Chance est le plus haut** → La réponse est **Oui** (*elle y arrive*).  
+> ✅ **Les deux dés sont >= 4** → On ajoute **Et ...** (*un truc en plus vient l'aider*).  
 >
-> ✅ **le Dé de Chance est le plus haut** → La réponse est **Oui** (*elle y arrive*).
-> ✅ **Les deux dés sont >= 4** → On ajoute **Et ...** (*un truc en plus vient l'aider*).
->
-> **Résultat :**
+> **Résultat :**  
 > Zahra force la trappe **sans déclencher l'alarme**, et **elle trouve également un plan du bâtiment**.
 
 Si le Dé de Risque avait donné **3** au lieu de **4**, la réponse aurait été juste **Oui**, sans d'autres avantages.
@@ -455,91 +457,155 @@ De temps en temps la situation ou un **Tag** va donner un **Avantage** ou un **D
 
 ️⚠️️️️ **Les Tags ne sont pas des nombres !** Utilisez **intuitivement**, et non comme des bonus ou malus. L'objectif est de **garder le jeu fluide**, et pas de suranalyser chaque situation.
 
-
-
-??
-
-
+Au lieu de traité les Tags comme des modificateurs numériques, **pensez narratif** :
+- *Est-ce que la situation profite ou défavorise le personnage ?*
+- *Est-ce que le personnage peut faire appel à une compétence, un trait, ou une circonstance avantageuse ?*
+- *Est-ce qu'un obstacle, un défaut, ou un facteur environnemental impose un désavantage ?*
 
 ## **Règles pour plusieurs Tags**
 
-⚠️ **Tags
-??
+⚠️ **Il n'est pas possible de lancer plus de <u>deux</u> Dés de Chance ou <u>deux</u> Dés de Risque par jet.**
 
+✅ **Si plusieurs Tags positifs ou négatifs peuvent s'appliquer, ils ne s'accumulent pas.**  
+✅ **Si les deux types de Tags, positifs et négatifs, sont présents, ils s'annulent mutuellement.**  
+
+| **Tag** | **Jet** |
+| **Un ou plusieurs Tags positifs (sans Tags négatifs)** | **Avantage** (jet avec 2 Dés de Chance, 1 Dé de Risque) |
+| **Un ou plusieurs Tags négatifs (sans Tags positifs)** | **Désavantage** (jet avec 1 Dé de Chance, 2 Dés de Risque) |
+| **Tags positifs et négatifs qui s'annulent** | **Neutre** (jet avec 1 Dé de Chance et 1 Dé de Risque) |
 
 ## **📌 Exemple : hacker le datapad**
 
-
-??
-
+> Zahra essaie de **hacker une banque de données sécurisée** pour **retrouver des informations classifiées**. Cependant, **elle n'est pas une hackeuse compétente**, et **le système de sécurité est très avancé**.
 
 ### **Evaluer l'Avantage et le Désavantage**
 
+🔹 **Tags positifs :** aucun (*elle n'a aucune compétence en hacking, ni aucun outil*)  
+🔹 **Tags négatifs :**  
+- *elle n'est pas une hackeuse compétente*
+- *Système de sécurité très avancé*
 
-??
-
+- **Total : 2 Tags négatifs → elle fait un jet avec désavantage**
+- **Le désavantage signifie un jet avec 1 Dé de Chance et 2 Dés de Risque**
 
 ### **Le jet de dés**
 
+🎲 **Dé de Chance (5)**  
+🎲 **Dés de Risque (3), (4) → On garde le meilleur (4)**
 
-??
+📌 **Résultat :**
+- ✅ **Dé de Chance (5) > Dé de Risque (4)** → **Oui** (*Succès !*)
+- ✅ **Les deux dés sont égaux ou supérieurs à 4** → Ajoutez **Et ...** (*Quelque chose en plus vient aider Zahra !*).
 
+🚀 **Résultat final :**
+> Zahra réussit à hacker la banque de données **et ...** elle tombe également sur une **transmission chiffrée** révélant une prochaine **opération corporatiste illégale**.
 
 ### **Pourquoi ce système fonctionne**
 
+✅ **Garder le jet simple :** pas besoin de suivre des modificateurs.  
+✅ **Encourager la narration :** au lieu de se focaliser sur des nombres, les Tags décrivent une situation, et si elle est compliqué ou non.  
+✅ **Empêcher l'accumulation excessive :** un seul Avantage ou Désavantage est largement suffisant pour avoir un impact important sur le résultat.
 
-
-??
-
+![](diagrams/consulter_oracle.svg)
+{: .diagram}
 
 # Interpréter l'Oracle
 
+L'Oracle donne **une réponse simple**, mais **votre interprétation** est ce qui la rend impactante. Ne traitez pas l'Oracle comme juste une mécanique de jeu, utilisez-la **comme incitation narrative** pour faire avancer l'histoire.
 
-??
-
+| **Réponse** | **Résultat** |
+|---|---|
+| **Oui, et ...** | Vous obtenez ce que vous voulez, **+ un petit extra** |
+| **Oui ...** | Vous réussissez votre action |
+| **Oui, mais ...** | Votre réussite **à un coût** |
+| **Non, mais ...** | Vous échouez, **mais** vous avez une compensation |
+| **Non ...** | Vous échouez |
+| **Non, et ...** | Vous échouez **+ et quelque chose fait empirer la situation** |
 
 ## Rendre le résultat intéressant
 
+✅ **Les réponse directes** (*Oui/Non*) sont pratique mais peuvent paraître un peu fade, utilisez-les quand l'aventure a besoin de momentum.  
+✅ **Les modificateurs** (*et .../mais ...*) ajoutent une couche de complexité et poussent la scène **vers de nouvelles directions**.  
+✅ **Liez la réponse à un élément de l'histoire**, les personnages, les lieux, les pistes non résolues.
 
-??
-
+En **interprétant activement les résultats de l'Oracle**, plutôt que juste les utiliser tel quel, vous faites en sorte que chaque jet **ajoute de la tension, de la profondeur, ou de l'intrigue dans le jeu**.
 
 ## Méthodes pour interpréter l'Oracle
 
-
-??
-
+Il n'y a pas juste une seule façon d'interpréter les réponses de l'Oracle. Suivant **le contexte de la scène**, vous pouvez **interpréter le résultat de diverses manières**.
 
 ### 1. L'Oracle en tant qu'Intensité
 
-??
+Au lieu de lire le résultat comme un **succès ou un échec binaire**, traitez-le comme **une mesure de à quel point les choses se passent bien, ou mal** :
 
+| **Réponse** | **Intensité** |
+|---|---|
+| **Oui, et ...** | **Succès majeur** (avantage important, bonus inattendu) |
+| **Oui ...** | **Succès modéré** (résultat standard, les choses se passent comme attendu) |
+| **Oui, mais ...** | **Succès avec un coût** (victoire partielle, complication inattendue) |
+| **Non, mais ...** | **Échec avec compensation** (objectif non atteint, mais quelque chose d'utile arrive) |
+| **Non ...** | **Échec modéré** (ça se passe mal, comme prévu) |
+| **Non, et ...** | **Échec majeur** (erreur catastrophique, revers inattendu) |
 
-
+📌 **Exemple :** Zahra essaie de passer un point de contrôle sans se faire repérer.
+- 🎲 **Oui, et ...** → *non seulement elle se passe inaperçu, mais elle trouve également une clé d'accès sur le sol.*
+- 🎲 **Oui ...** → *elle passe le point de contrôle inaperçue.*
+- 🎲 **Oui, mais ...** → *elle passe, mais les gardes commencent soudainement à patrouiller la zone.*
+- 🎲 **Non, mais ...** → *elle se fait attraper, mais les gardes pensent qu'elle est perdue, plutôt qu'en train de s'infiltrer.*
+- 🎲 **Non ...** → *elle est découverte, et l'alarme résonne.*
+- 🎲 **Non, et ...** → *elle est capturée, et enfermée à double tour.*
 
 ### 2. L'Oracle en tant que générateur de Twist
 
-??
+Au lieu d'une lecture succès/échec, laissez l'Oracle **introduire de nouveaux éléments** qui ne faisaient pas partie des attentes initiales.
 
 
+📌 **Exemple :** Zahra essaie de hacker le mainframe de la corporation.  
+- 🎲 **Oui, mais ...** → *elle déverrouille l'accès, mais les fichiers sont chiffrés, nécessitant une nouvelle étape.*
+- 🎲 **Non, mais ...** → *elle échoue le hack, mais elle découvre que le mainframe est vulnérable à une faille externe.*
+- 🎲 **Non, et ...** → *non seulement elle n'y arrive pas, mais elle déclenche en plus une alarme silencieuse, alertant la sécurité.*
 
 ### 3. L'Oracle en tant que Contrôle du Momentum
 
-??
+Vous pouvez également vous servir de l'Oracle pour déterminer **si la tension d'une scène évolue, montant, chutant, ou au contraire reste stable** :
 
+| **Réponse** | **Momentum de scène** |
+|---|---|
+| **Oui, et ...** | **Pousse la scène en avant avec un développement majeur** |
+| **Oui ...** | **Fait avancer l'histoire dans une direction prévisible** |
+| **Oui, mais ...** | **Ajoute une complication qui ralentit la progression** |
+| **Non, mais ...** | **Change le focus vers un chemin alternatif** |
+| **Non ...** | **Amène la scène à un blocage** |
+| **Non, et ...** | **Fait monter les enjeux significativement** |
 
+📌 **Exemple :** Zahra interroge un indic.
+- 🎲 **Oui, et ...** → *l'indic craque et raconte tout, et offre même son aide.*
+- 🎲 **Oui ...** → *il donne à Zahra l'information qu'elle veut.*
+- 🎲 **Oui, mais ...** → *il parle, mais certains détails semblent faux ou manquants.*
+- 🎲 **Non, mais ...** → *il refuse de parler, mais sa réaction montre qu'il sait quelque chose de crucial.*
+- 🎲 **Non ...** → *il refuse de parler.*
+- 🎲 **Non, et ...** → *il se ferme et donne l'alerte de la présence de Zahra.*
+
+Cette forme d'interprétation aide à **contrôler le rythme**, *Oui, et ...* fait avancer l'histoire rapidement, tandis que *Non, et ...* force un changement dramatique.
 
 ## 📌 Exemple : étendre l'histoire avec l'interprétation
 
+📌 **Scénario :** Zahra essaie de s'introduire dans un centre de recherche.  
+📌 **Question :** *"Est-ce qu'elle arrive à passer inaperçue ?"*  
+📌 🎲 **Réponse de l'Oracle : Non, mais ...**
 
-??
+Au lieu d'un **échec simple**, voilà différentes interprétations possibles :
 
+✅ **Intensité :** elle est vue, mais **seulement par un seul garde, et non l'intégralité de l'équipe**.  
+✅ **Twist :** elle est attrapée, **mais la personne qui l'a trouvé est un ancien allié et non un ennemi**.  
+✅ **Contrôle du Momentum :** elle est détecté, **mais au lieu de déclencher une alarme, les gardes partent à sa recherche, lui laissant une un peu de temps pour se cacher**.
 
+💡 **En utilisant différentes interprétations, l'Oracle n'impose pas ce qui arrive, elle guide l'histoire vers de nouvelles directions.**
 
 ## L'Oracle en tant qu'outil narratif
 
-✅ **Ne considérez pas la Réponse de l'Oracle de manière binaire :** essayez d'apporter de la nuance dans votre jeu.
-✅ **Utilisez toujours le contexte pour votre interprétation :** un *"Non, et ..."* lors d'une scène de combat se vivra différemment que nors d'une conversation diplomatique.
+✅ **Ne considérez pas la Réponse de l'Oracle de manière binaire :** essayez d'apporter de la nuance dans votre jeu.  
+✅ **Utilisez toujours le contexte pour votre interprétation :** un *"Non, et ..."* lors d'une scène de combat se vivra différemment que nors d'une conversation diplomatique.  
 ✅ **Expérimentez avec différentes méthodes :** utilisez l'Oracle comme un **générateur d'intensité, de momentum, ou de Twists**, pour garder l'histoire vivante et dynamique.
 
 ## Réponse sibylline
@@ -557,17 +623,17 @@ Parfois la Réponse de l'Oracle **ne fera aucun sens** dans le contexte de la sc
 
 ## 📌 Exemple : Gérer une Réponse Étrange
 
-> **Question :** *"Est-ce que la taupe est toujours au bar ?"*
+> **Question :** *"Est-ce que la taupe est toujours au bar ?"*  
 > 🎲 **Réponse de l'Oracle : Non, et ...**
 >  
 > ❌ Ça n'a pas de sens — pourquoi elle s'en irait subitement ? Au lieu de rester coincer :
 >  
-> ✅ **Recadrer la Réponse :**
-> - *Peut-être que quelqu'un l'a prévenu du danger ?*
-> - *Peut-être a-t-elle été kidnappée ?*
-> - *Peut-être "Non, et ..." ne veut pas dire qu'elle est partie — peut-être qu'elle n'a jamais été là ?*
+> ✅ **Recadrer la Réponse :**  
+> - *Peut-être que quelqu'un l'a prévenu du danger ?*  
+> - *Peut-être a-t-elle été kidnappée ?*  
+> - *Peut-être "Non, et ..." ne veut pas dire qu'elle est partie — peut-être qu'elle n'a jamais été là ?*  
 
-> **Interpretation finale :**
+> **Interpretation finale :**  
 > La taupe n'est plus là, **et ... le barman vous évite nerveusement, suggérant une entourloupe.** Maintenant l'histoire avance **et l'intrigue s'épaissit**.
 
 # Compteur de Twists
@@ -583,7 +649,7 @@ Si le Compteur est **inférieur à 3**, considérait le résultat comme un **"Ou
 
 > Zahra essaie de **décrypter les fichiers volés** pour obtenir des preuves contre la puissante corporation. Elle demande à l'Oracle :
 >
-> **"Est-ce que les fichiers contiennent des preuves d'activités illégales ?"**
+> **"Est-ce que les fichiers contiennent des preuves d'activités illégales ?"**  
 > 🎲 Jet : **(4) [4] → Double !**
 
 ✅ La réponse est **"Oui, mais ..."** → Les fichiers contiennent bien des activités illégales ...
@@ -593,7 +659,7 @@ Si le Compteur est **inférieur à 3**, considérait le résultat comme un **"Ou
 
 🎲 Jet de Twist : **(1, 5) → "Un tiers" + "Changes l'objectif"**
 
-> **Interprétation :** Zahra met la main sur une preuve — quand soudain, **un agent de la corporation la contacte pour lui faire une offre** :
+> **Interprétation :** Zahra met la main sur une preuve — quand soudain, **un agent de la corporation la contacte pour lui faire une offre** :  
 > *"Vous pouvez tout révéler ... Ou accepter un deal qui changera votre vie."*
 
 # Déterminer un Twist
@@ -613,20 +679,20 @@ Interprétez le **double résultat** dans le contexte de la scène actuelle. Un 
 
 ## **📌 Exemple : Comment un Twist peut changer l'histoire**  
 
-> **Scénario :** Zahra est en cours d'infiltration dans un laboratoire high-tech pour voler des secrets industriels.
-> Elle demande : **"Est-ce qu'elle peut atteindre le serveur sécurisé sans se faire repérer ?"**
-> 🎲 Jet : **(3) [3] → Doubles !** → **Le Compteur de Twists atteint 3 → Un Twist est déclenché !**
-> 
-> 🎲 Jet de Twist : **(4, 2) → "un événement physique" + "change le lieu"**
->
-> **Interpretation :** Alors que Zahra s'approchait de la pièce du serveur, **une explosion fait trembler le bâtiment**. Les alarmes résonnent, la sécurité se réveille — **et la mission change !**. Au lieu de s'infiltrer, elle doit désormais **s'échapper de la structure qui s'effondre, avec toutes les données qu'elle peut récupérer**.
+> **Scénario :** Zahra est en cours d'infiltration dans un laboratoire high-tech pour voler des secrets industriels.  
+> Elle demande : **"Est-ce qu'elle peut atteindre le serveur sécurisé sans se faire repérer ?"**  
+> 🎲 Jet : **(3) [3] → Doubles !** → **Le Compteur de Twists atteint 3 → Un Twist est déclenché !**  
+>  
+> 🎲 Jet de Twist : **(4, 2) → "un événement physique" + "change le lieu"**  
+>  
+> **Interpretation :** Alors que Zahra s'approchait de la pièce du serveur, **une explosion fait trembler le bâtiment**. Les alarmes résonnent, la sécurité se réveille — **et la mission change !**. Au lieu de s'infiltrer, elle doit désormais **s'échapper de la structure qui s'effondre, avec toutes les données qu'elle peut récupérer**.  
 
 ## Pourquoi le Compteur de Twists est important
 
 Le **Compteur de Twists** sert à alimenter *Loner* en **Surprises**, assurant qu'il n'y est pas deux histoires similaires.
 
-✅ **Construire naturellement de la tension** — le plus de doubles vous avez, plus proche est l'arrivée d'un Twist.
-✅ **Empêcher la prédictabilité de la narration** — forçant le monde à évoluer à chaque instant.
+✅ **Construire naturellement de la tension** — le plus de doubles vous avez, plus proche est l'arrivée d'un Twist.  
+✅ **Empêcher la prédictabilité de la narration** — forçant le monde à évoluer à chaque instant.  
 ✅ **Encourager l'interpretation** — chaque Twist redéfinit l'aventure de manière inattendue.
 
 # Conflits
