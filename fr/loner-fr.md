@@ -10,6 +10,15 @@ tocName: "Table des matières"
 
 Bonjour sur cette traduction du Document de Référence du Système de Loner 3ème édition. Vous pouvez retrouver [la version originale ici](https://loner.zotiquestgames.com/#/en/loner-en).
 
+# Accès rapide
+
+Comme le sommaire de *Loner* est un peu long, voici un moyen d'accéder rapidement à certaines parties du document.
+
+- [Loner à plusieurs](#loner-à-plusieurs)
+- [Appendix A : Loner sans dé](#appendix-a--loner-sans-dé)
+- [Appendix B : Matrice de résolution](#appendix-B--matrice-de-résolution)
+- [Appendix C : Loner CheatSheet](#appendix-c--loner-cheatsheet)
+
 # Qu'est-ce que *Loner* ?
 
 *Loner* est un jeu de rôles solo minimaliste. Il est conçu pour vous faire jouer un seul personnage — votre Protagoniste — et lui faire vivre des histoires par la force de vos choix et les décisions aléatoire d'un Oracle.
@@ -297,7 +306,7 @@ Posez les questions suivantes :
 | 2 | Organisation | Protection | Fortune | Groupe | Vieille connaissance | Tromperie |
 | 3 | Allié | Exploiter | Cœrcition | Trésor | Rumeurs | Environnement |
 | 4 | Mentor | Explorer | Impulsion | Lieu | Capture | Déguisement |
-| 5 | Personne en détresse | Fuite | Ambition | McGuffin | Incident | Temps |
+| 5 | Personne en détresse | Fuite | Ambition | (MacGuffin)[https://fr.wikipedia.org/wiki/MacGuffin] | Incident | Temps |
 | 6 | Maitre-chanteur | Poursuite | Revanche | Confession | Objet | Espace |
 
 ✅ **Poser les bases :** le Protagoniste a un **Objectif** dès le début.  
@@ -306,7 +315,7 @@ Posez les questions suivantes :
 > **Qui ?** Mentor  
 > **Quoi ?** Exploiter  
 > **Why ?** Aide  
-> **Où ?** McGuffin  
+> **Où ?** MacGuffin  
 > **Comment ?** Rumeurs  
 > **Obstacle ?** Temps  
 >  
@@ -710,33 +719,275 @@ Les conflits ne sont pas limités aux **combats physiques**, ils incluent égale
 
 Il y a trois approches pour résoudre un conflit, suivant le niveau de détail attendu :
 
-1. **Simple question oui/non :** ??
+1. **Simple question oui/non :** consultez l'Oracle pour savoir si le Protagoniste réussit, ou échoue.
+2. **Série de questions oui/non :** découpez le conflit en plusieurs actions clés et faites un jet pour chaque, une par une.
+3. **Chance & Dégâts :** suivez l'évolution de votre Chance pour déterminer quand un personnage est battu.
 
+⚠️ **Le Compteur de Twist ne s'applique pas pour Chance & Dégâts !** L'Oracle s'occupe toujours des résultats inattendus, mais les conflits basés sur la Chance reposent directement sur les jets de dés.
+
+![](diagrams/conflit.svg)
+{: .diagram}
+
+## Résoudre les conflits avec des actions clés
+
+??
+
+
+## **Comment ça marche**
+
+
+??
+
+
+### **📌 Exemple : incendie dans une usine abandonnée**
+
+
+??
+
+
+
+## Pourquoi utiliser cette méthode ?
+
+
+??
+
+
+## Quand l'utiliser
+
+
+??
 
 
 
 
 ??
 
-# Appencide B : Matrice de résolution
+
+
+📌
+
+## 📌 Exemple : ??
+
+> Zahra a récupéré le datapad et l'a donné aux autorités, **compromettant à la fois Wethern et la Corporation Leton**. Wethern est arrêté maiss maintenant elle a **un puissant ennemi dans les ombres**.  
+>  
+> **Mise à jour d'après jeu :**  
+> - **Compétence** acquise : *Hacker débutante* (*Melina Reade pourrait devenir son mentor !*)  
+> - Nouvelle **Némésis** : *la Corporation Leton* (*ils ne vont pas oublier ça ...*)
+
+## Vers de prochaines aventures
+
+Même si l'histoire se termine, l'aventure du Protagoniste **n'est peut-être pas finie**. Utilisez le personnage, avec ses dernières évolutions, pour commencer une nouvelle session avec :
+
+- **une nouvelle mission liée aux événements passés.**
+- **un désir de revanche ou une conséquence persistante.**
+- **un nouvel univers, avec les alliés et les ennemis du précédent.**
+
+Ces éléments permettent de faire en sorte que l'aventure **est un impact dans le temps**, enrichissant les futures histoires, et les connectant entre elles.
+
+# Loner à plusieurs
+
+Même si *Loner* a été conçu pour du **jeu solo**, ses mécaniques peuvent être adaptées pour des **session de groupe**. Comme le jeu dérive de **Freeform Universal**, rien ne vous empêche de jouer à plusieurs si vous le voulez.
+
+Il y a deux principales façons de jouer à *Loner* en groupe :
+
+## **1. Sans Maître de Jeu (Mode Sans MJ)**
+
+- Chaque joueur contrôle son **propre Protagoniste** et pose des questions à **l'Oracle**, comme en solo.
+- **Les réponse de l'Oracle et les réactions du monde** sont interprété par le joueur qui a posé la question.
+- Un **facilitateur** (chacun à tour de rôle ou une seule personne fixe) aide à **modérer**, **rappeler les règles**, et **trancher en cas de dispute** si besoin.
+- Les questions affectant **l'ensemble du groupe** doivent être discutées collectivement.
+
+## **2. Avec un Maître de Jeu**
+
+- Le **MJ ne lance aucun dé**, il n'y a que les joueurs qui consultent l'Oracle.
+- Le MJ interprète les réponses de l'Oracle et indique au joueurs **comment le monde réagit**.
+- Le MJ agit aussi en tant que **facilitateur**, guidant l'histoire et aidant à résoudre les questions.
+
+## Devriez-vous jouer à *Loner* en group ?
+
+??
+
+
+
+
+# Le Générateur d'Aventures
+
+??
+
+
+
+
+
+## Table 3 : Objets
+
+
+??
+
+
+## Table 4 : Actions
+
+
+??
+
+
+## Table 5 : Oppositions
+
+
+??
+
+
+
+# Conclusion
+
+
+??
+
+
+# Crédits
+
+- [Recluse Engine](https//gravenutterance.itch.io/recluse) (CC BY 4.0) par Graven Utterance et Tiny Solitary Soldier Oracle pour le système de résolution et la mécanique de scène.
+- [Freeform Universal Roleplaying Game](https://www.perilplanet.com/freeform-universal/) (CC BY 4.0) par Nathan Russel pour l'inspiration globale et les traits de personnage.
+- Mécanique de dégâts de [6Q System](https://chaosmeister.itch.io/6-q-system) (CC BY 4.0) par Marcus Burggraf.
+- Tana Pigeon pour [Mythic](https://www.wordmillgames.com/mythic.html) et sa clarification des mécaniques d'attentes et de tests.
+- S. John Ross pour [Risus](https://www.risusrpg.com/) et m'avoir enseigné la beauté des clichés et que tous les conflits ne sont pas des combats.
+- Le Générateur d'Aventures est inspiré de *The Instat Game* par Animalball Partners (2007). Aucun contenu utilisé ici n'en provient.
+
+Un grand remerciement à :  
+- Shane Conner pour la relecture et la révision du test de la 1ère édition.
+- Le groupe Facebook de Loner et r/LonerRPG pour m'avoir (l'auteur) poussé à améliorer et étendre Loner avec de nouvelles idées et concepts.
+- Ruolatori Solitari pour son support dans le développement de la 2nde édition.
+
+# Appendix A : Loner sans dé
+
+Cette version de *Loner* enlève les dés du processus de résolution, reposant à la place sur **les capacités des personnages, les circonstances narratives, et les ressources** pour déterminer les résultats. En appliquant un **matrice de résolution structurée**, vous vous assurez d'une résolution **consistante et logique** sans aléatoire.
+
+## Comment ça fonctionne
+
+### 1. Mise en place
+
+Avant de résoudre l'action, établissez les critères qui vont influencer le résultat :
+- **Est-ce que le personnage possède une compétence ou une capacité adéquate ?**
+- **Est-ce que les circonstances sont favorables/défavorables ?**
+- **Est-ce que le personnage a préparé/rassemblé des ressources ?**
+
+Ces facteurs vont déterminer le résultat via une **matrice de décision** au lieu de lancer les dés.
+
+### 2. Processus de résolution
+
+🟢 **Étape 1 : Poser une question**  
+Le joueur pose une **question fermée** nécessitant une résolution.  
+📌 *📌 Exemple :* *"Est-ce que la porte est verrouillée ?*
+
+🟡 **Étape 2 : Evaluer les facteurs**  
+Prenez en compte **mes traits du personnage, le contexte de la situation, et les ressources à disposition** :  
+- **Est-ce que le personnage possède une compétence adéquate ?**
+- **Est-ce que les circonstances sont favorables/défavorables ?**
+- **Est-ce que le personnage a rassemblé des outils spécialisés, ou des connaissances adaptées ?**
+
+🔴 **Étape 3 : Appliquer la matrice de décision**  
+Utilisez les éléments de la 2ème étape pour déterminer avec la **matrice de décision** le résultat final.
+
+⚠️ **Étape 4 : compter les Twists**  
+Si la réponse est **"Oui, mais ..."** ajoutez **1 point au Compteur de Twists**, comme d'habitude.
+
+### 3. La matrice de décision
+
+| **Facteur/Action** | **Influence** | **Résultat** |
+|---|---|---|
+|
+
+
+??
+
+
+### 4
+
+
+??
+
+
+### 5.
+
+
+??
+
+
+
+### 6. Pourquoi utilisez un Oracle sans dé ?
+
+??
+
+
+
+# Appendix B : Matrice de résolution
 
 | Risque \ Chance | 1 | 2 | 3 | 4 | 5 | 6 |
 |:---------------:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **1**
-| **2**
-| **3**
-| **4**
-| **5** |
-| **6** | ??
+| **1** | 🔄 Oui, mais ... +1 Twist | ⚠️ Oui, mais ...                  | ⚠️ Oui, mais ...                  | ✅ Oui                           | ✅ Oui                           | ✅ Oui                           |
+| **2** | ⚠️ Non, mais ...                   | 🔄 Oui, mais ... +1 Twist         | ⚠️ Oui, mais ...                  | ✅ Oui                           | ✅ Oui                           | ✅ Oui                           |
+| **3** | ⚠️ Non, mais ...                   | ⚠️ Non, mais ...                   | 🔄 Oui, mais ... +1 Twist         | ✅ Oui                           | ✅ Oui                           | ✅ Oui                           |
+| **4** | ❌ Non                           | ❌ Non                           | ❌ Non                           | 🔄 Oui, mais ... +1 Twist         | ⭐ Oui, et ...                   | ⭐ Oui, et ...                   |
+| **5** | ❌ Non                           | ❌ Non                           | ❌ Non                           | ⭐ Non, et ...                    | 🔄 Oui, mais ... +1 Twist         | ⭐ Oui, et ...                   |
+| **6** | ❌ Non                           | ❌ Non                           | ❌ Non                           | ⭐ Non, et ...                    | ⭐ Non, et ...                    | 🔄 Oui, mais ... +1 Twist         |
 
-??
+# Appendix C : Loner CheatSheet
 
-# Appendice C : Loner CheatSheet
+## **🎲 Mécaniques de base**  
 
-??
+- Consultez **l'Oracle** ❓ Question oui/non pour résoudre l'incertitude.  
+- Jet de **1 Dé de Chance 🎲 & 1 Dé de Risque 🎲**:  
+  - ✅ **Chance > Risque → Oui**  
+  - ❌ **Risque > Chance → Non**  
+  - ⚠️ **Les deux < 4 → Oui, mais ... / Non, mais ...**  
+  - ⭐ **Les deux > 3 → Oui, et ... / Non, et ...**  
+  - 🔄 **Égaux → Oui, but ... +1 au Compteur de Twists**  
 
+### **🛠️ Création de personnage**  
 
+1. **📛 Nom & Concept :** Qui est-il, en une courte phrase. (*Chasseur de prime*).  
+2. **💡 2 Compétences :** des talents uniques ou des expertises. (*Expert en infiltration, Sniper*).  
+3. **⚡ 1 Fragilité :** – un défaut ou une faiblesse. (*hanté par son passé*).  
+4. **🎒 2 Équipement :** équipment spécialisé. (*Pistolet Plasma, outils de crochetage*).  
+5. **🎯 Objectif & Motivation :** Qu'est-ce qu'il recherche et pourquoi. (*Retrouver une relique perdu et retrouver son honneur*).  
+6. **👿 Nemesis (Optionel) :** l'opposition principale. (*Le Syndicat*).  
+7. **🍀 Chance = 6** Un moyen d'encaisser l'échec (se remet à 6 après un conflit).  
 
+### **⚖️ Avantage & Désavantage**  
+
+- **⬆️ Avantage** → Lancez **2 Dés de Chance**, gardez le plus haut.  
+- **⬇️ Désavantage** → Lancez **2 Dés de Risque**, gardez le plus haut.  
+- **🚫 Ne lancez jamais plus de 2 Dés de Chance ou 2 Dés de Risque.**  
+
+### **🎬 Scènes & Déroulement du jeu**  
+
+1. **📍 Décrivez la scène** → Où êtes-vous ? Que se passe-t-il ?  
+2. **❓ Posez une question oui/non** → Consultez l'Oracle.  
+3. **🧐 Interprétez la réponse** → Ajustez l'histoire à partir du résultat.  
+4. **🔁 Répetez le processus jusqu'à arriver à un conflit, ou à la fin de la scène**.  
+
+### **🔄 Compteur de Twists**  
+
+- 🎲 **un double sur un jet d'Oracle** → +1 au Compteur de Twists.  
+- **À 3, un Twist arrie !** Lancez **2d6** :  
+  - 1️⃣ **Un tiers** → Apparaît  
+  - 2️⃣ **Le hero** → modifie le lieu  
+  - 3️⃣ **Une rencontre** → aide le héro  
+  - 4️⃣ **Un événement physique** → handicape le héro  
+  - 5️⃣ **Un événement dramatique** → change l'objectif  
+  - 6️⃣ **Un objet** → termine la scène  
+
+### **⚔️ Conflits**  
+
+- **⚡ Option 1 : consultez l'Oracle** → posez une seule question oui/non pour l'intégralité du conflit.  
+- **🎭 Option 2 : Oracle et actions clés** → posez plusieurs questions oui/non pour chaque étape clé du conflit.  
+- **❤️‍🔥 Option 3 : Chance & Dégâts**:  
+  - ✅ **Oui, et ...** → inflige **3** dégats.  
+  - ✅ **Oui ...** → inflige **2** dégats.  
+  - ✅ **Oui, mais ...** → inflige **1** dégat.  
+  - ❌ **Non, mais ...** → subit **1** dégat.  
+  - ❌ **Non ...** → subit **2** dégats.  
+  - ❌ **Non, et ...** → subit **3** dégats.  
+  - **🩸 À 0 Chance → le conflit est perdu**, interprétez les conséquences.  
 
 ### **📖 Déterminer la prochaine scène**
 
