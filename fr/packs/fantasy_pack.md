@@ -8,13 +8,13 @@ exclude: true
 
 ## Informations sur le setting
 
-- Cet univers est le royaume de mystères ancestraux et de mythes vivants, où les forêts enchantée se métamorphosent dans la nuit, et les échos des dieux anciens s’attardent dans le vent. Des lieux oubliés s’agitent avec détermination , et la magie se glisse dans chaque ombre et chaque lueur.
-- L’époque ressemble à la fin de l’age médiéval mêlé de fantaisie, elle est marquée par des empires en déclin, des luttes de dynasties, et le retour lent de forces qu’on croyait enfouis. Des châteaux sont dressés sur des collines hantées par les dragons, et les reliques du passée réécrivent le présent.
-- La région est un royaume fragmenté nommé **Aldorath**, un pays de collines arrondies, de ruines maudites, de marais éclairés par la lune et de chaînes de montagnes déchiquetées. Le pouvoir est partagé entre d’anciennes maisons, chacune dirigeant sa province depuis des forteresses où règnent les intrigues. La capitale, **Eldrida**, est à la fois un parangon d’ordre et un nid de secrets.
+- Cet univers est le royaume de mystères ancestraux et de mythes vivants, où les forêts enchantée se métamorphosent dans la nuit, et les échos des dieux anciens s’attardent dans le vent. Des lieux oubliés s’agitent avec détermination, et la magie se glisse dans chaque ombre et chaque lueur.
+- L’époque ressemble à la fin de l’age médiéval mêlé de fantaisie, elle est marquée par des empires en déclin, des luttes de dynasties, et le retour lent de forces qu’on croyait enfouies. Des châteaux sont dressés sur des collines hantées par les dragons, et les reliques du passée réécrivent le présent.
+- La région est un royaume fragmenté nommé **Aldorath**, un pays de collines arrondies, de ruines maudites, de marais éclairés par la lune et de chaînes de montagnes déchiquetées. Le pouvoir est partagé entre d’anciennes Maisons, chacune dirigeant sa province depuis des forteresses où règnent les intrigues. La capitale, **Eldrida**, est à la fois un parangon d’ordre et un tourbillon de secrets.
 -  Les gens d’Aldorath incluent des humains, des elfes, des nains, des halfelins, et des peuples étranges touchés par la magie millénaire. Les tensions montent alors que les frontières s’estompent, les vieilles alliance s’épuisent, et les anciens pactes s’effritent. Chaque peuple se s’accroche à des traditions en voie de disparition, ou s’engage dans de nouvelles voies dangereuses.
-- La magie est primitive, magnifique et volatile. Elle est canalisée par les mages, les sorcières, et les mystiques des bois, et régulée mollement par l’**Académie des Mages**, une autorité toujours plus divisée, qui s’accroche à sa pertinence tout en réprimant des menaces obscures.
-- Le royaume fait face à des périls grandissants : des agents étrangers attisent la révolte, des hors-la-loi rodent sur les routes, et la magie noire suinte des failles souterraines.  Les mythes autrefois murmurés marchent aujourd’hui en plaine lumière.
-- Ce sont les factions en compétitions qui façonnent le destin du royaume : la monarchie fracturée, les maisons nobles ambitieuses, l’Académie des Mages paranoïaque, les cultes hors la loi, les héritiers exilés, et les ordres secrets qui complotent pour éveiller ce qui devrait rester oublié.
+- La magie est primitive, magnifique et volatile. Elle est canalisée par les mages, les sorcières et les mystiques des bois, et régulée mollement par l’**Académie des Mages**, une autorité toujours plus divisée, qui s’accroche à ce qui lui reste de pertinence tout en réprimant des menaces obscures.
+- Le royaume fait face à des périls grandissants : des agents étrangers attisent la révolte, des hors-la-loi rodent sur les routes, et la magie noire suinte des failles souterraines. Les mythes autrefois murmurés marchent aujourd’hui en plaine lumière.
+- Ce sont les factions en compétitions qui façonnent le destin du royaume : la monarchie fracturée, les Maisons nobles ambitieuses, l’Académie des Mages paranoïaque, les cultes hors la loi, les héritiers exilés, et les ordres secrets qui complotent pour éveiller ce qui devrait rester oublié.
 
 ## Traits pour le Protagoniste
 
@@ -48,7 +48,7 @@ exclude: true
 | 1   | Fier        | Peu fiable     | Indécis     | Perfectionniste       | Célèbre  | Tête brûlée    |
 | 2   | Timide | Paresseux       | Crédule       | Méfiant         | Vindicatif   | Secret     |
 | 3   | Avide     | Égoïste   | Apathique      | Malveillant            | Excessivement indulgent | Nerveux     |
-| 4   | Envieux      | Obstiné      | Blunt           | Autoritaire         | Luxurieux    | Imprudent      |
+| 4   | Envieux      | Obstiné      | Brutal           | Autoritaire         | Luxurieux    | Imprudent      |
 | 5   | Possessif   | Téméraire           | Vantard        | Intransigeant        | Paresseux       | Étroit d'esprit |
 | 6   | Trompeur    | Naïf          | Cynique         | Peu sûr de lui            | Arrogant   | Intolérant       |
 
