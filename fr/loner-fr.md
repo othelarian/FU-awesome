@@ -15,6 +15,7 @@ Bonjour sur cette traduction du Document de Référence du Système de Loner 3è
 Comme le sommaire de *Loner* est un peu long, voici un moyen d'accéder rapidement à certaines parties du document.
 
 - [Loner à plusieurs](#loner-à-plusieurs)
+- [Le Générateur d'Aventures](#le-générateur-daventures)
 - [Appendix A : Loner sans dé](#appendix-a--loner-sans-dé)
 - [Appendix B : Matrice de résolution](#appendix-B--matrice-de-résolution)
 - [Appendix C : Loner CheatSheet](#appendix-c--loner-cheatsheet)
@@ -758,15 +759,150 @@ Il y a trois approches pour résoudre un conflit, suivant le niveau de détail a
 ??
 
 
+## Gérer un conflit avec plusieurs adversaires
+
+??
+
+
+## **Option 1 : voir les adversaires comme une seule entité**
 
 
 ??
 
 
 
-📌
+## **Option 2 : gérer les adversaire séparemment**
+
+
+??
+
+## 📌 Exemple : combat contre une équipe de mercenaires
+
+
+??
+
+
+## Pourquoi utiliser ces méthodes ??
+
+
+??
+
+
+# Chance & Dégâts
+
+??
+
+
+## Comment fonctionne les Dégâts
+
+
+??
+
+
+## 📌 Exemple : combat de rue
+
+
+??
+
+
+## Pourquoi utiliser Chance & Dégâts ?
+
+
+??
+
+
+
+## **La Chance et les conséquences narrative**
+
+??
+
+
+## Qu'est-ce qui arrive quand un personnage n'a plus de Chance ?
+
+
+??
+
+
+
+## 📌 Exemple : à bout de Chance
+
+
+??
+
+
+
+## **Voir la Chance comme une mécanique narrative**
+
+
+??
+
+
+
+# Déterminer l'ambiance de la prochaine scène
+
+
+??
+
+
+
+## Explication sur les types de scènes
+
+
+??
+
+
+
+## 📌 Exemple : un Twist narratif
+
+
+??
+
+
+## Pourquoi utilisez ce système ?
+
+
+??
+
+
+# Questions ouvertes & Inspiration
+
+
+??
+
+
 
 ## 📌 Exemple : ??
+
+
+??
+
+
+
+# Quand l'histoire se termine
+
+Toute aventure finit par atteindre **une conclusion naturelle**, mais comment savoir quand il est temps de conclure ?
+
+## **Les signes de la fin de l'histoire**
+
+✅ **Le Protagoniste a atteind (ou échoué à atteindre) son objectif.**
+✅ **Une révélation majeure a tout changé.** (Victoire, défaite, ou un nouveau status quo.)
+✅ **Le conflit a atteint un niveau satisfaisant de résolution.** (Un ennemi est défait, un mystère est résolu, un voyage se termine.)
+✅ **Le momentum de l'histoire ralentit.** (S'il devient difficile de trouver la prochaine grosse scène, c'est qu'il est peut-être temps d'arrêter l'aventure.)
+
+Maintenant que l'histoire se termine, le Protagoniste va évoluer pour refléter l'expérience accumulée.
+
+## Évolution du personnage
+
+À la fin de l'aventure, **modifiez le Protagoniste** pour montrer ce qu'il a appris. Vous pouvez :
+
+- **Ajouter une nouvelle Compétence, un nouvel Équipement, un une nouvelle Faiblesse**, en lien avec les événements de l'histoire.
+- **Introduire une nouvelle Némésis** si l'aventure se termine avec des ennemis persistants.
+- **Modifier un trait existant** pour représenter l'évolution ou la transformation.
+
+📌 **Mettez aussi à jour :**  
+- **PNJ, Lieux, et Événements** qui pourraient faire leur retour dans de prochaines aventures.
+
+## 📌 Exemple : évolution par le conflit
 
 > Zahra a récupéré le datapad et l'a donné aux autorités, **compromettant à la fois Wethern et la Corporation Leton**. Wethern est arrêté maiss maintenant elle a **un puissant ennemi dans les ombres**.  
 >  
@@ -832,16 +968,22 @@ Il y a deux principales façons de jouer à *Loner* en groupe :
 
 ## Table 5 : Oppositions
 
-
-??
-
-
+| 1 | 2 | 3 | 4 | 5 | 6 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | Sorciers des ténèbres | Bêtes sauvages | Esprits mauvais | Nobles arrogants | Pièges dangereux | Bandits impitoyables |
+| 2 | Armées de morts-vivants | Politiciens corrompus | Organisations sinistres | Monstres vicieux | Terrains traîtres | Dirigeants despotiques |
+| 3 | Artefacts puissants | Assassins sans merci | Créatures dangereuses | Anciennes malédictions | Puzzles complexes | Sorts puissants |
+| 4 | Mercenaires sanguinaires | Forces obscures | Terribles secrets | Complots insidieux | Prédateurs vicieux | Éléments impardonnables |
+| 5 | Poison mortels | Anciennes prophéties | Tentations irrésistibles | Puissants enchantements | Seigneurs de guerre sans pitié | Dangers cachés |
+| 6 | Terribles malédictions | Pièges dévoyés | Conspirations secrètes |Illusions dangereuses | Entités malveillantes | Factions brutales |
 
 # Conclusion
 
+Cette 3ème édition de *Loner* garde **les mêmes** règles, mais elle bénéficie **d'une refonte de sa présentation**, pour les rendre **plus claires, plus accessibles, et avec des exemples**.
 
-??
+Cela marque **une amélioration significative** depuis le **ton ridige et très technique** des deux premières éditions. Même si ces dernières ont été très bien reçues et appréciées, certaines personnes avaient trouvé **la présentation un peu sèche et difficile à comprendre dans son ensemble**.
 
+Avec cette nouvelle édition, j'ai (l'auteur) bon espoir que **le paradigme narratif** de *Loner*, si différent des JDR traditionnels, s'avèrera **plus simple à comprendre, à intégrer et à apprécier.**
 
 # Crédits
 
@@ -894,37 +1036,63 @@ Si la réponse est **"Oui, mais ..."** ajoutez **1 point au Compteur de Twists**
 
 | **Facteur/Action** | **Influence** | **Résultat** |
 |---|---|---|
-|
+| **Compétence/Capacité adéquate présente** | **Elevée** | **Oui** |
+| **Compétence/Capacité adéquate absente** | **Faible** | **Non** |
+| **Circonstances favorables** | **Moyenne** | **Oui, mais ...** |
+| **Circonstances défavorables** | **Moyenne** | **Non, mais ...** |
+| **Ressources/Préparation exceptionnelles** | **Elevée** | **Oui, et ...** |
+| **Aucune Ressource/Préparation** | **Faible** | **Non, et ...** |
 
+✅ **Plus il y a de facteurs travaillant pour la réussite du personnage, plus le succès est important.**
+❌ **Plus il y a d'obstacles, plus il y a de chance de complications, ou d'échec.**
 
-??
+### 4. Conseils d'interprétation
 
+📌 **Étape 1 : voir s'il y a une Compétence ou une Capacité adéquate**  
+- Si le personnage **a une compétence adéquate**, alors c'est **Oui**.
+- S'il **n'en a pas**, alors c'est **Non**.
 
-### 4
+📌 **Étape 2 : établir les Circonstances**  
+- **Si les circonstances sont favorables**, alors c'est **Oui, mais ...**.
+- **Si ce n'est pas le cas**, alors c'est **Non, mais ...**.
 
+📌 **Étape 3 : considérer les Ressources et la Préparation**  
+- **Si le personnage a un outil spécial, un renseignement, ou un allié**, alors c'est **Oui, et ...**.
+- **Si au contraire il n'est pas préparé ou dans l'urgence**, alors c'est **Non, et ...**.
 
-??
+### 5. 📌 Exemple de résolution
 
+🔍 **Scenario :** Zahra essaie de crocheter **la porte du laboratoire de la Corporation**, alors que la sécurité la cherche.  
 
-### 5.
+🗣️ **Question :** *"Est-ce que la porte est vérrouillée ?"*  
 
+✅ **Évaluation des facteurs :**  
+- **Facteur de personnage :** Zahra **N'A PAS de compétence en crochetage** (*Aucune compétence adéquate* ❌).  
+- **Circontances :** La porte est **renforcée et de haute sécurité** (*Circonstances défavorables* ⚠️).  
+- **Ressources/Preparation :** Elle a **des outils de base mais aucun équipement spécialisé en hack** (*Aucune ressource exceptionelle* ❌).  
 
-??
+🎯 **Résultat de la matrice de décision :**  
+- *Aucune compétence adéquate* → **Non**  
+- *Circonstances défavorables* → **Non, mais ...**  
+- *Aucune ressource* → **Non, et ...**  
 
-
+📌 **Décision finale :** *"Non, et ..."*  
+> Zahra **échoue à déverrouiller la porte, et ... un drone de sécurité s'active, détectant sa présence.**
 
 ### 6. Pourquoi utilisez un Oracle sans dé ?
 
-??
+✅ **Enlever l'aléatoire :** les résultats sont entièrement basés sur **les choix des personanges et de l'univers**.  
+✅ **Encourager la réflexion :** il faut **planifier**, et utiliser les compétences et les ressources intelligemment.  
+✅ **Mettre en avant la narration :** pas besoin de dés, seulement **l'application de la logique pour avancer**.  
 
-
+Cette approche permet à *Loner* d'être jouer **de manière entièrement narrative**, faisant de chaque défi **une conséquence directe des choix passées** plutôt que le résultat de l'aléatoire.
 
 # Appendix B : Matrice de résolution
 
 | Risque \ Chance | 1 | 2 | 3 | 4 | 5 | 6 |
 |:---------------:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **1** | 🔄 Oui, mais ... +1 Twist | ⚠️ Oui, mais ...                  | ⚠️ Oui, mais ...                  | ✅ Oui                           | ✅ Oui                           | ✅ Oui                           |
-| **2** | ⚠️ Non, mais ...                   | 🔄 Oui, mais ... +1 Twist         | ⚠️ Oui, mais ...                  | ✅ Oui                           | ✅ Oui                           | ✅ Oui                           |
+| **1** | 🔄 Oui, mais ... +1 Twist | ⚠️ Oui, mais ... | ⚠️ Oui, mais ... | ✅ Oui | ✅ Oui | ✅ Oui |
+| **2** | ⚠️ Non, mais ...                   | 🔄 Oui, mais ... +1 Twist | ⚠️ Oui, mais ... | ✅ Oui                           | ✅ Oui                           | ✅ Oui                           |
 | **3** | ⚠️ Non, mais ...                   | ⚠️ Non, mais ...                   | 🔄 Oui, mais ... +1 Twist         | ✅ Oui                           | ✅ Oui                           | ✅ Oui                           |
 | **4** | ❌ Non                           | ❌ Non                           | ❌ Non                           | 🔄 Oui, mais ... +1 Twist         | ⭐ Oui, et ...                   | ⭐ Oui, et ...                   |
 | **5** | ❌ Non                           | ❌ Non                           | ❌ Non                           | ⭐ Non, et ...                    | 🔄 Oui, mais ... +1 Twist         | ⭐ Oui, et ...                   |
