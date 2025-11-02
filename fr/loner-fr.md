@@ -956,9 +956,9 @@ Mais si vous voulez vraiment utiliser *Loner* pour un groupe, allez-y. Soyez sim
 
 Parfois, vous pourriez **avoir du mal à trouver l'inspiration** ou vouloir **expérimenter avec un univers inattendus**. Le **Générateur d'Aventures** va vous aider à générer **un monde unique et le début d'une aventure** avec quelques jets de dés.
 
-Utilisez cet outil si :
-✅ Vous **n'avez aucune idée en tête** et voulez quelque chose de nouveau, d'aléatoire.
-✅ Vous voulez **vous mettre en difficulté** en jouant dans un genre ou un thème que vous n'auriez pas tenter sinon.
+Utilisez cet outil si :  
+✅ Vous **n'avez aucune idée en tête** et voulez quelque chose de nouveau, d'aléatoire.  
+✅ Vous voulez **vous mettre en difficulté** en jouant dans un genre ou un thème que vous n'auriez pas tenter sinon.  
 ✅ Vous avez besoin **de quelque chose rapidement** avant de plonger dans votre session de *Loner*.
 
 ## Comment utiliser les tables
@@ -973,15 +973,17 @@ Utilisez cet outil si :
 ### Générer le début d'une aventure
 
 🎲 **Faites un jet sur ces tables pour créer l'ossature de votre aventure :**  
-1. 
+1. **Oppositions** → pour identifier **l'antagoniste principal ou la difficulté**.
+2. **Actions** (faites deux jets) → pour déterminer **qu'est-ce qui doit être fait**.
+3. **Éléments** → pour ajouter quelque choses *d'unique, de mystérieux, de surprenant** au mélange final.
 
-
-
-??
+📌 **Important :** le **début de l'aventure n'est pas la scène de départ**, il s'agit juste **d'un cadre** pour l'histoire. Vous devez quand même définir comment ça commence au début de votre partie.
 
 ### 📌 Exemple : Générer une aventure
 
-🎲
+🎲 **Jets :**  
+1. **Univers :** ??
+
 
 ??
 
