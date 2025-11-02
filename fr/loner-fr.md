@@ -951,20 +951,67 @@ Il y a deux principales façons de jouer à *Loner* en groupe :
 ??
 
 
+## Comment utiliser les tables
+
+### Générer un univers
+
+??
 
 
+### Générer le début d'une aventure
 
-## Table 3 : Objets
+??
+
+### 📌 Exemple : Générer une aventure
 
 
 ??
 
+
+### Pourquoi utiliser le Générateur d'Aventure ?
+
+
+??
+
+## Table 1 : Univers
+
+
+??
+
+
+## Table 2 : Ambiances
+
+??
+
+
+## Table 3 : Éléments
+
+
+?? (table 1)
+
+
+
+?? (table 2)
+
+| 1 | 2 | 3 | 4 | 5 | 6 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | Civilisation perdue | Métropole en ruine | Horreur gothique | Frontière de l'Ouest sauvage | Cyberguerre futuriste | Exploration spatiale |
+| 2 | Contestation politique | Forme de vie artificielle | Mercenaires et assassins | Voyage dans le temps | Mission d'espionnage | Invasion alien |
+| 3 | Aventure sous-marine | Siège épique | Capacités magiques | Anomalies temporelles | Réalité alternative | Cauchemar virtuel |
+| 4 | Conspiration | Insurrection de mutants | Améliorations cybernétiques | Utopie futuriste | Réécriture historique | Rébellion cyberpunk |
+| 5 | Développement du monde | Monstre inarrêtable | Royaume enchanté | La dernière frontière | Révolution robotique | Secret des anciens |
+| 6 | Scénarios de fin du monde | Capacités psioniques | Champs de bataille futuristes | Portails interdimensionnels | Technomancie | Diplomatie superhéroïque |
 
 ## Table 4 : Actions
 
-
-??
-
+| 1 | 2 | 3 | 4 | 5 | 6 |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | Jeter | Se battre | Libérer | Explorer | Mettre à jour | Piloter |
+| 2 | Déchiffrer | Rechercher | Infiltrer | Compléter | Joindre | Révéler |
+| 3 | Trouver | Maîtriser | Dompter | Harnacher | Gagner | Dénouer |
+| 4 | Interroger | Naviguer | Survivre | Influencer | Dépasser | Endurer |
+| 5 | Deviner | Poursuivre | Résoudre | Accomplir | Acquérir | Embarquer |
+| 6 | Anticiper | Développer | S'allier | Étendre | Devenir | Abattre |
 
 ## Table 5 : Oppositions
 

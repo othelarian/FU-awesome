@@ -20,7 +20,7 @@ exclude: true
 
 ### Concepts
 
-|     | 1                     | 2                      | 3                     | 4                     | 5                      | 6                        |
+| | 1 | 2 | 3                     | 4                     | 5                      | 6                        |
 | --- | --------------------- | ---------------------- | --------------------- | --------------------- | ---------------------- | ------------------------ |
 | 1   | Assassin silencieux | Guerrier marqué par les combats | Enchanteur errant | Coupeur de bourse agile | Bretteuse vaillante | Maîtresse de lame mélancolique |
 | 2   | Vétéran aguerri | Paladin lié par serment | Duelliste gracieuse | Berserker frénétique | Parle-sauvage solitaire | Faiseur de miracles zélé |
@@ -46,7 +46,7 @@ exclude: true
 |     | 1            | 2              | 3              | 4                   | 5          | 6             |
 | --- | ------------ | -------------- | -------------- | ------------------- | ---------- | ------------- |
 | 1   | Fier        | Peu fiable     | Indécis     | Perfectionniste       | Célèbre  | Tête brûlée    |
-| 2   | Timide | Paresseux       | Crédule       | M2fiant         | Vindicatif   | Secret     |
+| 2   | Timide | Paresseux       | Crédule       | Méfiant         | Vindicatif   | Secret     |
 | 3   | Avide     | Égoïste   | Apathique      | Malveillant            | Excessivement indulgent | Nerveux     |
 | 4   | Envieux      | Obstiné      | Blunt           | Autoritaire         | Luxurieux    | Imprudent      |
 | 5   | Possessif   | Téméraire           | Vantard        | Intransigeant        | Paresseux       | Étroit d'esprit |
