@@ -19,6 +19,7 @@ Comme le sommaire de *Loner* est un peu long, voici un moyen d'accéder rapideme
 - [Appendix A : Loner sans dé](#appendix-a--loner-sans-dé)
 - [Appendix B : Matrice de résolution](#appendix-B--matrice-de-résolution)
 - [Appendix C : Loner CheatSheet](#appendix-c--loner-cheatsheet)
+- [Packs d'Aventure](#les-packs-daventure)
 
 # Qu'est-ce que *Loner* ?
 
@@ -731,16 +732,22 @@ Il y a trois approches pour résoudre un conflit, suivant le niveau de détail a
 
 ## Résoudre les conflits avec des actions clés
 
-??
+Au lieu d'utiliser **Chance & Dégâts**, vous pouvez à la place résoudre les conflits par **une série de questions fermées posées à l'Oracle**, déterminant le résultat **de chaque action clé** de la scène.
 
+Cette méthode est **à cheval** entre :  
+✅ **une résolution via une seule question** (*"Est-ce que je gagne le combat ?"*), ce qui serait trop abrupt.  
+✅ **Chance & Dégâts**, qui est **un système de résolution par attrition** mais qui peut être un peu trop structurant.
 
 ## **Comment ça marche**
 
-
-??
-
+1️⃣ **Décrivez chaque action comme un moment unique** et consulter l'Oracle pour savoir si c'est un succès ou un échec.  
+2️⃣ **Utilisez le modificateurs ("mais ..."/"et ...")** pour introduire des twists et des conséquences.  
+3️⃣ **Laissez le résultat façonner la prochaine étape de la scène**, sans avoir à garder le compte de la Chance.  
 
 ### **📌 Exemple : incendie dans une usine abandonnée**
+
+> Zahra est au milieu d'une fusillade dans **une usine de produits chimiques**, échangeant des tirs avec un chasseur de prime. Au lieu d'utiliser Chance & Dégâts, on va y aller action par action :
+
 
 
 ??
@@ -941,34 +948,45 @@ Il y a deux principales façons de jouer à *Loner* en groupe :
 
 ## Devriez-vous jouer à *Loner* en group ?
 
-??
+Même si cette façon de jouer fonctionne, *Loner* est fondamentalement conçu pour **jouer en solo**. Si vous êtes en quête d'une expérience à plusieurs, peut-être que **Freeform Universal** est plus adapté pour ce que vous souhaitez faire.
 
-
-
+Mais si vous voulez vraiment utiliser *Loner* pour un groupe, allez-y. Soyez simplement préparé à devoir faire quelques ajustements.
 
 # Le Générateur d'Aventures
 
-??
+Parfois, vous pourriez **avoir du mal à trouver l'inspiration** ou vouloir **expérimenter avec un univers inattendus**. Le **Générateur d'Aventures** va vous aider à générer **un monde unique et le début d'une aventure** avec quelques jets de dés.
 
+Utilisez cet outil si :
+✅ Vous **n'avez aucune idée en tête** et voulez quelque chose de nouveau, d'aléatoire.
+✅ Vous voulez **vous mettre en difficulté** en jouant dans un genre ou un thème que vous n'auriez pas tenter sinon.
+✅ Vous avez besoin **de quelque chose rapidement** avant de plonger dans votre session de *Loner*.
 
 ## Comment utiliser les tables
 
 ### Générer un univers
 
-??
-
+🎲 **Faites un et un seul jet sur chacune de ces tables :**  
+1. **Univers** → pour définir **le thème ou l'environnement**.
+2. **Ambiance** → pour déterminer **l'atmosphère et le ton** de l'univers.
+3. **Éléments** (faites deux jets) → pour introduire des **éléments clés** qui vont façonner l'univers.
 
 ### Générer le début d'une aventure
+
+🎲 **Faites un jet sur ces tables pour créer l'ossature de votre aventure :**  
+1. 
+
+
 
 ??
 
 ### 📌 Exemple : Générer une aventure
 
+🎲
 
 ??
 
 
-### Pourquoi utiliser le Générateur d'Aventure ?
+### Pourquoi utiliser le Générateur d'Aventures ?
 
 
 ??
@@ -976,36 +994,49 @@ Il y a deux principales façons de jouer à *Loner* en groupe :
 ## Table 1 : Univers
 
 
+|   | 1 | 2 | 3 | 4 | 5 | 6 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ??
 
 
 ## Table 2 : Ambiances
 
+|   | 1 | 2 | 3 | 4 | 5 | 6 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ??
 
 
 ## Table 3 : Éléments
 
 
+|   | 1 | 2 | 3 | 4 | 5 | 6 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 ?? (table 1)
 
 
 
-?? (table 2)
+|   | 1 | 2 | 3 | 4 | 5 | 6 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | Désert post-apo | Paysage urbain steampunk | Cieux infestés de dragons | Manoir hanté | Métropole futuriste | Routes commerciales intergalactiques |
+| 2 | Cité d'or perdue | Intelligence artificielle | Cache pirate | Paradoxe temporel | Espionnage | Extraterrestres |
+| 3 | Royaume sous-marin | Voyage maritime épique | Pouvoirs superhéroïques | Boucles temporelles | Réalités alternatives | Simulation de réalité virtuelle |
+| 4 | Mystère | Soulèvement des mutants | Biotechnologie avancée | Société futuriste | Histoire alternative | Dystopie cyberpunk |
+| 5 | Lore étendu | Virus inarrêtable | Forêt enchantée | Frontières inconnues | Robotique avancée | Secrets de l'univers |
+| 6 | Scénarios de fin du monde | Télékinésie | Armes futuristes | Saut dimensionnel | Techno-sorcellerie | Conflit superhéroïque |
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|   | 1 | 2 | 3 | 4 | 5 | 6 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 1 | Civilisation perdue | Métropole en ruine | Horreur gothique | Frontière de l'Ouest sauvage | Cyberguerre futuriste | Exploration spatiale |
 | 2 | Contestation politique | Forme de vie artificielle | Mercenaires et assassins | Voyage dans le temps | Mission d'espionnage | Invasion alien |
-| 3 | Aventure sous-marine | Siège épique | Capacités magiques | Anomalies temporelles | Réalité alternative | Cauchemar virtuel |
+| 3 | Aventure sous-marine | Siège épique | Capacités magiques | Anomalies temporelles | Ligne temporelle alternative | Cauchemar virtuel |
 | 4 | Conspiration | Insurrection de mutants | Améliorations cybernétiques | Utopie futuriste | Réécriture historique | Rébellion cyberpunk |
 | 5 | Développement du monde | Monstre inarrêtable | Royaume enchanté | La dernière frontière | Révolution robotique | Secret des anciens |
-| 6 | Scénarios de fin du monde | Capacités psioniques | Champs de bataille futuristes | Portails interdimensionnels | Technomancie | Diplomatie superhéroïque |
+| 6 | Scénarios de fin d'une ère | Capacités psioniques | Champs de bataille futuristes | Portails interdimensionnels | Technomancie | Diplomatie superhéroïque |
 
 ## Table 4 : Actions
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|   | 1 | 2 | 3 | 4 | 5 | 6 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 1 | Jeter | Se battre | Libérer | Explorer | Mettre à jour | Piloter |
 | 2 | Déchiffrer | Rechercher | Infiltrer | Compléter | Joindre | Révéler |
 | 3 | Trouver | Maîtriser | Dompter | Harnacher | Gagner | Dénouer |
@@ -1015,8 +1046,8 @@ Il y a deux principales façons de jouer à *Loner* en groupe :
 
 ## Table 5 : Oppositions
 
-| 1 | 2 | 3 | 4 | 5 | 6 |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|   | 1 | 2 | 3 | 4 | 5 | 6 |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | 1 | Sorciers des ténèbres | Bêtes sauvages | Esprits mauvais | Nobles arrogants | Pièges dangereux | Bandits impitoyables |
 | 2 | Armées de morts-vivants | Politiciens corrompus | Organisations sinistres | Monstres vicieux | Terrains traîtres | Dirigeants despotiques |
 | 3 | Artefacts puissants | Assassins sans merci | Créatures dangereuses | Anciennes malédictions | Puzzles complexes | Sorts puissants |
@@ -1222,6 +1253,22 @@ Cette approche permet à *Loner* d'être jouer **de manière entièrement narrat
 ## **🎲 Questions ouvertes**
 
 - 🎲 Faites un jet de **1d6 sur chaque table** (Verbe, Nom, Adjectif) pour vous réaliser votre interprétation.
+
+# Les packs d'Aventure
+
+Cette partie a été ajouté à la traduction pour pouvoir les rendre accessibles.
+
+Les packs d'Aventures contiennent des tables aléatoires et des éléments d'inspiration supplémentaires et rangé par thème :
+
+- [Fantasy](packs/fantasy_pack)
+
+# L'équipe de traduction
+
+Cette version de *Loner* a été traduite par Othelarian.
+
+Le pack d'Aventure Fantasy a été traduit par Roca Bleu.
+
+Merci à la communauté ITA pour le soutien.
 
 # Licence
 

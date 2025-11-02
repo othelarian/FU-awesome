@@ -6,6 +6,8 @@ exclude: true
 
 # Pack d’Aventure - Fantasy
 
+[Retour vers Loner](../loner-fr)
+
 ## Informations sur le setting
 
 - Cet univers est le royaume de mystères ancestraux et de mythes vivants, où les forêts enchantée se métamorphosent dans la nuit, et les échos des dieux anciens s’attardent dans le vent. Des lieux oubliés s’agitent avec détermination , et la magie se glisse dans chaque ombre et chaque lueur.
