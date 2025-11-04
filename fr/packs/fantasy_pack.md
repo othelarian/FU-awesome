@@ -267,7 +267,7 @@ Un personnage peut canaliser sa **Chance** pour lancer un sort ou activer une ca
 - **Équipement :** Corset cervical doré, fiole d'ichor de Wyrm
 - **Objectif :** Accaparer le commerce des artefacts datant d'avant l'effondrement
 - **Motivation :** Maintenir son pouvoir dans la Congrégation des Hallebardiers de la Wyrm
-- **Némésis :** 
+- **Némésis :** Les Chasseurs de trésor à leur propre compte qui rejettent le monopole de la congrégation
 
 ### Mère Talia de l'Assemblée des Bruyères
 - **Concept :** Prophète de la forêt
