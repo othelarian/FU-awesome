@@ -289,7 +289,7 @@ Un personnage peut canaliser sa **Chance** pour lancer un sort ou activer une ca
 
 ## Monstres
 
-## Wyrm ancestrale
+### Wyrm Ancestrale
 - **Concept :** Ancien dragon du premier age
 - **Compétences :** Torrent de flamme, Vol ailé
 - **Fragilité :** Vulnérable aux armes froid-forgées et aux vieux rites de contrainte
@@ -298,8 +298,8 @@ Un personnage peut canaliser sa **Chance** pour lancer un sort ou activer une ca
 - **Motivation :** perdurer, survivre et régner sur les forteresses célestes oubliées
 - **Némésis :** Pillards sur les navires volants, les chasseurs de reliques, et les jeunes wyrms rebelles
 
-## Orc Croc-Sanglant
-- **Concept :** Seigneurs de guerre des steppes venteuses
+### Croc-Sanglant (Orc)
+- **Concept :** Seigneur de guerre des steppes venteuses
 - **Compétences :** Maitre des haches, Frénésie au combat
 - **Fragilité :** Peur superstitieuse des symboles divins
 - **Équipement :** Armure d'acier brut, Hache de guerre double, Totem d'os
@@ -307,47 +307,112 @@ Un personnage peut canaliser sa **Chance** pour lancer un sort ou activer une ca
 - **Motivation :** Conquérir pour nourrir les clans et briser les lignées nobles
 - **Némésis :** Paladins de la bordure, Guildes de mercenaires, Milices fluviales
 
-## 
-- **Concept :** 
-- **Compétences :** 
-- **Fragilité :**
-- **Équipement :**
-- **Objectif :**
-- **Motivation :**
-- **Némésis :** 
+### Bestial (Gobelin)
+- **Concept :** Récupérateur de reliques et Saboteur
+- **Compétences :** Tactiques de Guerilla, Art des pièges
+- **Fragilité :** Effrayé par les lumières vives et les sons très forts
+- **Équipement :** Pointe d'os, Kit de piège, ferrailles et rebuts volés
+- **Objectif :** Piller les ruines et les caravanes sans se faire voir
+- **Motivation :** Survie par le nombre, Malfaisant par instinct
+- **Némésis :** Garde urbaine, Clercs en voyage, Porteurs de lumière
 
-##
-- **Concept :** 
-- **Compétences :** 
-- **Fragilité :**
-- **Équipement :**
-- **Objectif :**
-- **Motivation :**
-- **Némésis :** 
+## Le Marche-Peste 
+- **Concept :** Coque vide mort-vivante contagieuse
+- **Compétences :** Corps immortel, Morsure pestilentielle et contagieuse
+- **Fragilité :** Feu, Sol consacré
+- **Équipement :** Chair pourrissante, Puanteur infecte
+- **Objectif :** Répandre le fléau nécrotique et servir un nécromancien
+- **Motivation :** Faim, ou Contraint par le nécromant
+- **Némésis :** Porteurs de flammes, Fossoyeurs, Tombeaux consacrés
 
-##
-- **Concept :** 
-- **Compétences :** 
-- **Fragilité :**
-- **Équipement :**
-- **Objectif :**
-- **Motivation :**
-- **Némésis :** 
+### Matrone Oeil-de-pierre (Médusa)
+- **Concept :** Prêtresse Gorgone isolée
+- **Compétences :** Regard pétrifiant, Agilité serpentine
+- **Fragilité :** Miroirs, Lumière directe du soleil
+- **Équipement :** Cheveux de serpents, Bracelets d'obsidienne, Jardin de statues
+- **Objectif :** Construire un sanctuaire de pierre et de silence
+- **Motivation :** Être adorée, laissée en paix et éternellement crainte 
+- **Némésis :** Briseurs de malédictions, Chevaliers miroir, Temple des inquisiteurs
 
-##
-- **Concept :** 
-- **Compétences :** 
-- **Fragilité :**
-- **Équipement :**
-- **Objectif :**
-- **Motivation :**
-- **Némésis :** 
+### Spectre Blanc
+- **Concept :**Mangeur d'âme des Cryptes Oubliées
+- **Compétences :** Évanescence, Drain de vie
+- **Fragilité :** Énergie radiante, Sceau et Sigils sacrés
+- **Équipement :** Lincuel du souvenir, Aura froide comme la mort
+- **Objectif :** Dévorer la chaleur des vivants
+- **Motivation :** Faim éternelle, ou le bon vouloir de son invocateur
+- **Némésis :** Porteur de reliques sacrées, Invocateurs de lumière, Lames de l'aube
 
-##
-- **Concept :** 
-- **Compétences :** 
-- **Fragilité :**
-- **Équipement :**
-- **Objectif :**
-- **Motivation :**
-- **Némésis :** 
+## Lieux
+
+### Elrida (Capitale de la Couronne d’Épines)
+- Le joyaux d'Aldorath, où les toits pointus et les domes s'élèvent derrière les murs fortifiés. Foyer de la **Couronne d’Épines**, du **Cercle Brisé**, et de ce qu'il reste des temples de la ** Flamme Creuse*. Ses rues sont bondées d'envoyés masqués, de trafiquants de reliques et d'espions murmurants.
+- Sous sa surface gisent des catacombes plus vielles que le royaume, scellées et oubliées par décret.
+- Rencontres possibles : le **Roi Vaélor**, le **Gardien Ysryn**, la **Magistère Syrenth** sous couverture, des agents de la **Voûte des Echos**
+
+### La Pointe du Dragon
+- Un pic déchiré soumis aux vents et aux tempêtes. C'est l'antre d'une **Wyrm Ancestrale**, son trésor y est enfoui sous un amas de pierre fondue et d'os. On raconte que c'était l'une des Sept Gardiennes qui autrefois régnaient sur le ciel des Premiers Ages.
+- Peu de gens atteignent le sommet. Encore moins en descendent.
+- Rencontres possibles : La **Wyrm Ancestrale**, des chevaliers avides de reliques de la **Congrégation des Hallebardiers de la Wyrm*, les échos maudits de challengeurs déchus.
+
+### La Forêt d'Ombracine
+- Des arbres tordus, à moitié animés, poussent sur des autels en ruine et des idoles couvertes de mousse. Ici, l'**Assemblée des Bruyères** murmure aux bêtes et aux esprits-racines. Les chemins se déplacent dans les profondeurs de la forêt, et le temps lui-même semble déréglé sous la canopée.
+- Beaucoup pensent que la forêt surveille les intrus. Certains disent qu'elle se souvient d'eux.
+- Rencontres possibles : la **Mère Talia**, **Médusa**, des **Spectres blancs**, des gobelins nomades, des pèlerins perdus
+
+### Le Castel du Val de Noirbois
+- Pas un château mais un **manoir fissuré et sombre** perché au-dessus d'un gouffre. Le Sieur de Noirbois est mort depuis longtemps, mais **sa lignée ne s'est jamais éteinte**, et son esprit pourrait parler aujourd'hui.
+- Le castel est à la fois une bâtisse hantée et une ruine politique
+- Rencontres possibles : **Descendants du pacte de Noirbois**, **Esprits**, des réunions secrètes du **Pacte des Sans-Épines**
+
+### Les Cercles Brisés (Académie des Mages)
+- Jadis la grande tour unifiait l'Académie, mais aujourd'hui elle est morcelée dans des salles dédiées à des arcanes rivales. Certaines sections interdites sont maintenues fermées par des fers, pendant que des golems magiques patrouillent sous les voûtes anciennes.
+- Le Synode Ombral a été banni des cercles, mais certains disent que leurs agents sont encore là.
+- Rencontres possibles : le **Successeur de l'Archimage Alaric**, des étudiants ambitieux, les gardiens discrets de la Voûte des Échos. 
+
+### Les Ruines Antiques de Rhygir
+- Loin dans les terres, envahie de végétation et effondrées, se tiennent les restes de la **civilisation d'avant l'Effondrement** qui régnait autrefois sur Aldorath. Certains quartiers sont encore illuminés, bien que les architectes soient morts depuis longtemps.
+- On raconte que même la **Voûte des Échos** craint ce qui gît en son centre.
+- Rencontres possibles : **Bande de guerriers Orcs**, **Le Marche-peste**, des agents de **Vel Hersseverre**, des pièges murmurants
+
+## Prémices d'aventure
+
+| D66 | Aventures |
+| --- | ----- |
+| 11 | Volez une relique de Sang-Wyrm dans le trésor de la Wyrm Ancestrale avant que les Hallerbardiers de la Wyrm arrivent.|
+| 12 | Enquêtez au village d'Ambrelac, où les gens du peuple se réveillent couverts de mousse et babilent des paroles incompréhensibles. |
+| 13 | Un enfant qui déclare être l'héritier perdu de la Flamme Creuse cherche une protection. Est-ce une prophète ou un pion ? |
+| 14 | Explorez une ruine submergée qui a fait surface après un tremblement de terre. Les locaux disent que les morts soupirent à travers les murs. |
+| 15 | Aidez le Roi Vaelor à se débarrasser d'une cour de noble secrète qui se réunit derrière les ruines de la chapelle de l'Ouest |
+| 16 | Une bande de guerriers orc a pris d'assaut un temple déchus. L'Assemblée des Bruyère offre son aide, mais cela aura un prix. |
+| 21 | Mère Talia offre de purifier un bosquet si vous récupérez une relique perdue dans la forêt d'Ombracine |
+| 22 | La Magistère Syrenth recherche un invocateur non enregistré par l'Académie. C'est votre mentor. Allez-vous vendre son secret ? |
+| 23 | La Voûte des Échos vous envoie pour retrouver une page déchirée d'un Tome Mémoriel... actuellement dans l'antre d'un Esprit. |
+| 24 | Une faille s'ouvre dans les catacombes d'Eldrida. Les Cercles Brisés sont silencieux. Le Synode ne l'est pas. |
+| 25 | Vous faites des repérages dans les ruines d'une forteresse où les étoile ne brillent jamais. Sous la lourde batisse, une lueur faible s'échappe des souterrains. |
+| 26 | Vel Herseverre vous offre de l'or pour saboter la caravane d'un rival. Mais la cargaison respire. |
+| 31 | Vous répétez le même rêve : une porte verrouillée, une voix qui appelle derrière. L'Assemblée des Bruyères vous prévient : ne répondez pas. |
+| 32 | Une société secrète vous offre un masque de cérémonie. Mais une fois porté, impossible de le retirer. |
+| 33 | La rumeur assure que l'antre du dragon est vide. Quelques braves osent entrer. Seuls les échos de leurs rires vous parviennent. |
+| 34 | Les habitant d'un hameau jurent que la nuit, les statuent les observent. certains assurent qu'elles bougent. L'une des statues n'a plus de visage. |
+| 35 | Une enfant du Castel de Noirbois dessine des glyphes qu'elle ne devrait pas connaitre. Les murs parlent tout bas quand il n'y a personne. |
+| 36 | Dans une clairière perdue dans la brume, vous trouvez une épée qui pousse dans un arbre. Elle vous appelle par votre nom. |
+| 41 | Une page des Annales Royales a disparu. Son absence distord les souvenirs, y compris les vôtres. |
+| 42 | Une caravane est déclarée disparue près de la frontière des Bruyères. Les traces s'arrêtent dans un lieu marqué par les ossements. |
+| 43 | Un fantôme vous supplie de prendre sa place avant l'aube. Vous avez jusqu'à minuit pour trouver son meutrier. |
+| 44 | Un noble demande protection contre un assassin. Mais vous reconnaissez son blason, il est ancré dans un souvenir sanglant. |
+| 45 | Vous explorez le manoir autrefois tenu par les Noirbois. Les portes se ferment derrière vous, et les tapisseries frémissent. |
+| 46 | Un jeune chevalier requiert votre aide pour brûler sa honte. Brûler quoi ? Son ancien groupe d'aventuriers. |
+| 51 | Une arche scellée des Cercles Brisés est sur le point de s'ouvrir. Vous n'êtes pas le seul à en avoir la clef. |
+| 52 | Une série de meurtres imite des rituels oubliés. La dernière victime a été enterrée sous un faux nom. |
+| 53 | Un marchand caravanier vous engage comme protection. Mais chaque arrêt semble être un guet-apens. |
+| 54 | Un tombeau luit faiblement à la nuit tombée. Il est plus vieux que le royaume. A l'intérieur est inscrit un nom semblable au votre. |
+| 55 | Des villageois rapportent avoir vu des morts-vivants. Mais aucun d'entre eux n'est mort récemment. Ils assurent que les corps sont ceux d'étrangers.  |
+| 56 | Une liche vous offre la vie éternelle... Si vous lui rapportez un souvenir qu'elle a perdu. |
+| 61 | Un culte vénère la statue d'un dieu pleurant. Elle pleure du sang quand vous vous en approchez. |
+| 62 | Un mage disgracié vous offre son esprit, littéralement, pour se cacher du Synode. Accepterez vous de l’héberger dans votre tête ? |
+| 63 | Un vampire hante la cour d'Eldrida, ne se nourrissant que de nobles. Vous devez le trouver avant qu'un héritier précieux ne meure. |
+| 64 | Des trolls émergent des profondeurs des vieilles mines d'argent. Ils ne cherchent pas de l'or, mais des noms. |
+| 65 | Un anneau maudit lie son porteur à la dernière personne à laquelle il a menti. Vous venez juste de l'accepter. |
+| 66 | La forêt d'Ombracine vole les voix. Pour parler à nouveau, vous devrez répondre à ses questions, murmurées dans votre sommeil. |
+
