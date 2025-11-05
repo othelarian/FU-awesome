@@ -887,66 +887,127 @@ La Chance ne fonctionne pas comme une **barre de point de vie**, elle représent
 
 📌 **Perdre toute sa Chance ne veut pas dire mort soudaine**, c'est un signal que l'aventure prend un tournant dramatique. L'Oracle et le contexte de l'histoire vont vous guider dans la suite des événements.
 
-- **En plein combat ?** → ??
+- **En plein combat ?** → le personnage peut être capturé, mis inconscient, ou forcé de fuir.
+- **En pleine poursuite ?** → il perd la trace de sa cible.
+- **En plein débat ?** → il est battu et doit concéder la défaite.
+- **En plein cambriolage ?** → il déclenche une alarme ou laisse derrière lui un indice crucial
 
-
-??
-
-
+Au moment où la Chance **atteint zéro**, ne faites plus de jet, **le conflit a atteint une conclusion**. Maintenant, posez-vous cette question : **qu'est-ce qui fait sens dans l'histoire ?**
 
 ## 📌 Exemple : à bout de Chance
 
+> Zahra est **en plein duel avec le chasseur de prime** au milieu des ruines d'une station abandonnée.  
+>  
+>  🎲 Le combat s'intensifie, et **la Chance de Zahra tombe à 0**. L'Oracle ne va plus déterminer la suite de l'échange, son destin est scellé.  
+>  
+> ✅ Au lieu de mourir, elle est **désarmée et clouée à une cloison**. Le chasseur de prime sourit, et la traîne jusqu'à son vaisseau, **et un nouveau défi commence : comment Zahra va-t-elle s'échapper ?**
 
-??
+🛑 **Gardez l'histoire vivante, ne la terminez pas sur un "vous avez perdu".** Arriver à court de Chance n'est pas la fin, c'est un tournant dans la narration.
 
+## **Voir la Chance en tant que mécanique narrative**
 
+**✅ La Chance garde le conflit dynamique.** Pas de blessure ni de points de vie, juste de la construction de tension jusqu'au **point de rupture**.  
+**✅ Elle évite que le conflit ne s'éternise.** Une fois que la Chance est épuisée, l'histoire change de direction.  
+**✅ Elle ouvre la porte à l'inattendu.** Perdre sa Chance ouvre la porte à **de nouveaux obstacles, des paris, ou des conséquences surprenantes**.  
 
-## **Voir la Chance comme une mécanique narrative**
-
-
-??
-
-
+Quand vous utilisez **Chance & Dégâts**, ne pensez pas en terme de **"Combien de dégâts ? Par qui ? Comment ?"**, mais plutôt en **"comment ce moment change l'histoire ?"**
 
 # Déterminer l'ambiance de la prochaine scène
 
+À la fun d'une scène, vous connaissez probablement la direction que prend l'histoire. Si vous n'en êtes pas sûr, lancez **1d6** pour déterminer **l'ambiance et le ton** de la prochaine scène.
 
-??
-
-
+| 🎲 **D6** | **Type de la prochaine scène** | **Ce que ça signifie** |
+|:-:|:-:|:-|
+| **1-3** | **Scène dramatique** | Faire monter la tension, ajouter de nouveaux obstacles ou dangers. |
+| **4-5** | **Scène tranquille** | Une pause pour récupérer, réfléchir, ou planifier. |
+| **6** | **Pendant ce temps ...** | Changement de focus sur une nouvelle perspective ou sous-intrigue. |
 
 ## Explication sur les types de scènes
 
+🔴 **Scène dramatique (1-3)**  
+**L'action et la tension continuent**. La situation empire, de nouveaux obstacles émergent, ou un événement inattendu force le Protagoniste à s'adapter.
 
-??
+✅ **Utilisez quand :**  
+- un ennemi majeur fait une action.
+- l'environnement est modifié avec un nouvau danger.
+- les plans du Protagoniste sont déjoués.
 
+🟢 **Scène tranquille (4-5)**  
+C'est **le calme avant la tempête**. Le Protagoniste peut **se reposer, se regrouper, et se préparer** pour ce qui va suivre. Les dialogues, le développement de personnage, et les petites découvertes sont au centre de l'attention.
 
+✅ **Utilisez quand :**  
+- Le Protagoniste a besoin d'être soigné, de trouver des renseignements, ou de faire un plan.
+- Les relations s'approfondissent, ou changent.
+- Le monde réagit aux événements récents sans conflit immédiat.
+
+🔄 **Scène "pendant ce temps (6)**  
+Le **focus change** et quitte le Protagoniste, pointant vers **le grand méchant, les alliées, ou une forces cachées**. Ça permet **d'ajouter de la profondeur au monde** et d'introduire **de nouvelles menaces ou opportunités** avant que le Protagoniste n'en est connaissance.
+
+✅ **Utilisez quand :**  
+- L'enemi agit de manière décisive (*un assassin qui prend ses ordre*)
+- Une sous-intrigue progresse (*la rébellion planifie sa prochaine attaque*)
+- Un changement important se produit dans le monde (*une tempête s'annonce à l'horizon*)
 
 ## 📌 Exemple : un Twist narratif
 
+> Zahra **accept l'offre d'un agent de la corporation**, mais que se passe-t-il ensuite ? Elle fait un jet **1d6 → 6** : **Pendant ce temps ...**  
+> Au lieu de suivre Zahra, la caméra se tourne vers **Tobias Wethern, son ancien mentor**, qui **engage un tueur à gage pour l'éliminer, elle**.
 
-??
-
+Une scène **"Pendant ce temps ..." ajoute de la tension**, Zahra ne sait pas qu'elle est désormais une cible, mais le **joueur le sait**. Ça crée une ironie dramatique et dessine les prochains conflits.
 
 ## Pourquoi utilisez ce système ?
 
-
-??
-
+✅ **Garder le rythme :** toutes les scènes n'ont pas besoin d'être bourrées d'actions ou au contraire lentes et plus détendue, il faut de la variété.  
+✅ **Ajouter de la profondeur au monde :** une scène "Pendant ce temps ..." va rendre le monde plus vivant, s'étendant bien au-delà des actions du Protagoniste.  
+✅ **Encourager la narration :** en suivant les jets, vous allez introduire de nouveau twists que vous n'auriez peut-être pas imaginer sinon.
 
 # Questions ouvertes & Inspiration
 
+Parfois il n'est pas possible de résoudre l'incertitude par **une question fermée (oui/non)**. Quand vous avez besoin d'inspiration ou d'inattendu, ou que vous souhaitez **générer de nouvelles idées**, faites un jet de **2d6 sur chacune des tables suivantes** (Verbe, Nom, et optionnellement Adjectif) pour créer un prompt.
 
-??
+Cette méthode est utile quand :  
+- vous avez besoin **d'un twist d'intrigue** mais n'avez aucune idée de ce que ça pourrait être.
+- l'Oracle vous donne une réponse vague, et vous voulez **approfondir**.
+- vous essayez de trouver **des connexions imprévues** entre différents éléments de l'histoire.
 
+🔹 **Faites au moins un jet sur Verbe et Nom.** Ajouter Adjectif pour plus de nuances.  
+🔹 **Interpréter librement.** Le résultat n'a pas à être littéral !
 
+| Verbe | 1 | 2 | 3 | 4 | 5 | 6 |
+|:----:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | Injecter | Passer | Posséder | Diviser | Enterrer | Emprunter |
+| 2 | Continuer | Apprendre | Demander | Multiplier | Recevoir | Imaginer |
+| 3 | Développer | Se comporter | Remplacer | Endommager | Collecter | Tourner |
+| 4 | Partager | Aider | Jouer | Expliquer | Améliorer | Tousser |
+| 5 | Faire face | Étendre | Trouver | Rassembler | Préférer | Dépendre |
+| 6 | Glisser | Vouloir | Manquer | Sécher | Employer | Détruire |
 
-## 📌 Exemple : ??
+| Adjectif | 1 | 2 | 3 | 4 | 5 | 6 |
+|:----:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | Fréquent | Faussé | Obscène | Rare | Rigide | Long terme |
+| 2 | Éthéré | Sophistiqué | Droit | Sachant | Étonnant | Ordinaire |
+| 3 | Descriptif | Insidieux | Pauvre | Fier | Réfléchissant | Amusant |
+| 4 | Soyeux | Sans valeur | Fixe | Relaché | Volontaire | Froid |
+| 5 | Silencieux | Tempêteux | Effrayant | Délirant | Inné | Tardif |
+| 6 | Magnifique | Arrogant | Malsain | Énorme | Truculent | Séduisant |
 
+| Noms | 1 | 2 | 3 | 4 | 5 | 6 |
+|:----:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | Cause | Scène | Changement | Poésie | Frisson | Repère |
+| 2 | Font | Événement | Maison | Sac | Mesure | Naissance |
+| 3 | Prose | Mouvement | Échange | Mémoire | Chance | Chute |
+| 4 | Instrument | Ami | Discussion | Liquide | Fait | Prix |
+| 5 | Mot | Matin | Limite | Chambre | Système | Camp |
+| 6 | Clé | Revenu | Usage | Humeur | Déclaration | Argument |
 
-??
+## 📌 Exemple : chercher de l'aide désespéremment
 
+> **Question :** *"Est-ce que Zahra peut compter sur des amis pour l'aider contre le tueur à gage ?"*  
+> 🎲 **Jet :** 2-4 (**multiplier**) et 3-2 (**mouvement**) → **mouvement multiple**  
 
+✅ Interprétation : Zahra **doit bouger et vite** pour rencontrer un contact de confiance avant qu'il se soit trop tard.
+
+> **Résultat final :** elle court voir **Melina Reade, une hackeuse notoire** qui pourrait lui fournir de précieux renseignements, mais arriver jusqu'à elle dans les temps ne va pas être facile !
 
 # Quand l'histoire se termine
 
