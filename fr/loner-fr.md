@@ -749,141 +749,265 @@ Cette méthode est **à cheval** entre :
 > Zahra est au milieu d'une fusillade dans **une usine de produits chimiques**, échangeant des tirs avec un chasseur de prime. Au lieu d'utiliser Chance & Dégâts, on va y aller action par action :
 
 
+🔹 **Première Action :**  
+🗣️ *"Est-ce que je peux m'abriter derrière ce mur ?"*  
+🎲 **Oui, mais ...**  
+✅ *Elle atteint le couvert, mais sa vue est obstruée, lui donnant un Désavantage.*  
 
-??
+🔹 **Seconde Action :**  
+🗣️ *"Je vise un opposant, est-ce que je peux l'avoir en premier ?"*  
+🎲 **Non, mais ...**  
+❌ *Elle rate, mais le chasseur de prime est obligé de se mettre à couvert, bloquant sa propre ligne de tir.* (Maintenant Zahra a l'Avantage.)  
 
+🔹 **Action finale :**  
+🗣️ *"Je tire sur un conteneur au-dessus de lui. Est-ce que j'y arrive ?"*  
+🎲 **Oui, et ...**  
+✅ *Le tir est parfait, le conteneur s'écrase sur le chasseur de prime, le mettant KO.*  
 
+### Pourquoi utiliser cette méthode ?
 
-## Pourquoi utiliser cette méthode ?
+✅ **Créer des scènes impactantes et rapide :** chaque action **est dynamique** au lieu de compter les dégâts.  
+✅ **Encourager des solutions créatives :** au lieu de **la diminution de points de vie**, vous devez trouver **des moyens de tourner l'affrontement en votre faveur**.  
+✅ **Ajouter de l'imprévisible :** comme **chaque action est un jet d'Oracle distinct**, les conflits peuvent prendre une tournure inattendue.
 
+### Quand l'utiliser
 
-??
+Utilisez cette approche si vous voulez **une résolution fluide et pleine d'improvisation**, concentrée sur **des décisions tactiques et le momentum**, plutôt qu'un combat structuré avec des va-et-vient.
 
+Elle est particulièrement efficace pour :  
+- **les courses poursuites et les cambriolages**, où chaque action fait monter les enjeux.
+- **les négociations tendues**, où chaque argument à le pouvoir de tout changer.
+- **les batailles dans lesquelles l'environnement a un rôle majeur.**
 
-## Quand l'utiliser
-
-
-??
-
+Cette façon de faire **garde le conflit rapide, réactif, et engageant**, où chaque choix a un impact, **et sans suivre un décompte de points**. 🚀
 
 ## Gérer un conflit avec plusieurs adversaires
 
-??
+Tous les conflits n'impliquent pas **un contre un**, parfois le Protagoniste devra faire face **à de multiples adversaires** en même temps. Comment gérer ça va dépendre du **contexte narratif** et du niveau de complexité désiré.
 
+### **Option 1 : voir les adversaires comme une seule entité**
 
-## **Option 1 : voir les adversaires comme une seule entité**
+📌 **Idéal pour : Mobs, minions, groupes coordonnés**
 
+Un moyen simple de gérer plusieurs opposants et de **les traiter comme un seul "personnage"**, avec :  
+- **un Concept et des Compétences communes** (*Équipe de mercenaires d'élite, Essaim de cultiste, Formation de police anti-émeute*).
+- **des points de Chance partagés**, pour représenter **leur potentiel global**.
+- **une Fragilité** en lien avec leur **nombre**, plus le groupe est grand, plus il est compliqué de se coordonner efficacement.
 
-??
+✅ **Avantages :** garder la scène dynamique et prévenir les jets de dés inutiles.  
+❌ **Inconvénients :** manque de mise en avant des menaces, l'opposition peut paraître abstraite.
 
+### **Option 2 : gérer les adversaire séparemment**
 
+📌 **Idéal pour : lieutenant, petit groupes avec un rôle spécial, équipes rivales**
 
-## **Option 2 : gérer les adversaire séparemment**
+Si chaque opposant est bien distinct, **traitez leur actions séparemment**, avec :  
+- **une réserve de Chance distincte** pour chaque adversaire clé (*un commandant, un chasseur de prime rival, un dueliste de talent*)
+- **un mélange de plusieurs méthodes de résolution du conflit**, vous pouvez gérer les **sbires** comme une seul entité, mais utiliser Chance et Dégâts pour le **Boss**.
+- **l'Oracle pour dicter le comportement des groupes** (*Est-ce qu'ils combattent à l'unisson ? Est-ce qu'ils gardent la formation ?*).
 
+✅ **Avantages :** le conflit est plus tactique et cinématique.  
+❌ **Inconvénients :** cela peut ralentir le jeu si ce n'est pas bien maîtrisé.
 
-??
+### 📌 Exemple : combat contre une équipe de mercenaires
 
-## 📌 Exemple : combat contre une équipe de mercenaires
+> Zahra est **prise dans une embuscade par cinq mercenaires de la corporation**. Au lieu de faire un jet pour chacun d'entre eux, vous pouvez les traiter comme **une seule unité** avec comme Concept **équipe d'intervention tactique** et la Compétence **manœuvres coordonnées**.  
+>  
+> 🎲 L'Oracle détermine leur **stratégie** : *Est-ce qu'ils se dispersent pour la cerner ?* *Est-ce qu'ils ouvrent le feu immédiatement ?*  
+>  
+> Alors que le combat fait rage :  
+> ✅ L'attaque de Zahra **réduit leur Chance partagée rapidement**.  
+> ✅ Si elle exploite leur Fragilité (**mauvaise coordination quand sous pression**), elle peut **les forcer à battre en retraite** au lieu de les affronter jusqu'au dernier.
 
+### Pourquoi utiliser ces méthodes ?
 
-??
+✅ **Garder les groupes gérables**, faire les jets pour chaque groupe peut ralentir drastiquement le jeu.  
+✅ **Maintenir le rythme narratif**, pour vous concentrer  sur **la tension de la scène** plutôt que sur les mécaniques de jeu.  
+✅ **Donner de la flexibilité**, que vous considériez les ennemis comme une seule entité ou séparemment, le système s'adapte à la situation.
 
-
-## Pourquoi utiliser ces méthodes ??
-
-
-??
-
+La chose à retenir ? **Un conflit devrait servir l'histoire, et non la plomber.** Que vous traitiez les adversaires comme **un essaim, une unité, ou des personnages distincts**, l'objectif est de **garder l'action en mouvement** tout en conservant les enjeux bien présents.
 
 # Chance & Dégâts
 
-??
+Si un **conflit implique un risque et de l'attrition** (fatigue, usure, durée), vous pouvez utiliser **la Chance** pour vous permettre de suivre l'évolution de la situation.
 
+🎲 **Au moment de l'engagement dans un conflit :**  
+- Faites un jet de Dés, comme avec l'Oracle, pour déterminer si le Protagoniste **arrive à ses fins**.
+- Si c'est un succès, il inflige des dégâts. S'il échoue, il en subit.
+
+📉 **La Chance représente la résilience, l'endurance, le destin.** Un personnage qui épuise sa Chance est **défait**, ce qui signifie, suivant le contexte :  
+- dans un **combat**, qu'il est KO.
+- dans une **joute verbale**, qu'il doit concéder la défaite.
+- dans une **poursuite**, qu'il a perdu la piste.
 
 ## Comment fonctionne les Dégâts
 
+Utilisez la table suivante pour déterminer **les Dégâts, subis ou infligés :
 
-??
+| **Résultat de l'Oracle** | **Dégâts** |
+|---|---|
+| **Oui, et ...**   | Inflige **3** dégât à son adversaire |
+| **Oui ...**       | Inflige **2** dégât à son adversaire |
+| **Oui, mais ...** | Inflige **1** dégât à son adversaire |
+| **Non, mais ...** | Subit **1** dégât de la part de son adversaire |
+| **Non ...**       | Subit **2** dégât de la part de son adversaire |
+| **Non, et ...**   | Subit **3** dégât de la part de son adversaire |
 
+🛑 **Lorsque la Chance atteint 0, le personnage a perdu le confit !**
+
+À **0 de Chance**, l'**histoire dicte les conséquences**, tel que :  
+
+- Est-ce que le personnage est **capturé** ?
+- Est-il **gravement blessé** ?
+- Est-ce qu'il **bât en retraite et se regroupe** ?
 
 ## 📌 Exemple : combat de rue
 
-
-??
-
+> Zahra fait face à un **voyou dans une allée**. Le voyou a les Tags *Artiste martial*, *Combat à mains nues*, *Félin*, et *Petit*.  
+>  
+> 🎲 Zahra **attaque avec un couteau** (elle a l'Avantage), et obtient **(5) (6) [4]** → **"Oui, et ..."**  
+> ✅ **Elle réussit et inflige 3 dégâts !** (La Chance du voyou descend de 6 à 3)
+>  
+> 🎲 Le voyou **contre-attaque avec un coup de pied** (il a l'avantage), et obtient **(3) (2) [2]** → **"Oui, mais ..."**  
+> ✅ **Zahra encaisse 1 dégât !** (Sa Chance tombe de 6 à 5)  
+>  
+> Qui va gagner ? Le combat continue !
 
 ## Pourquoi utiliser Chance & Dégâts ?
 
-
-??
-
-
+✅ **Rendre le conflit dynamique**, au lieu d'une simple réponse oui/non, la perte de Chance ajoute une **progressivement plus de tension**.  
+✅ **Avoir des résultats plus flexibles**, perdre un conflit ne signifie pas la mort, mais que l'histoire prend un nouveau tournant.  
+✅ **Adapter à différents cas de figure**, si c'est un duel, une course-poursuite, une négociation, **la Chance permet de voir quand un personnage est poussé dans ses retanchements**.
 
 ## **La Chance et les conséquences narrative**
 
-??
-
+La Chance ne fonctionne pas comme une **barre de point de vie**, elle représente **la capacité d'un personnage à éviter ma mauvaise fortune, à manipuler le destin, ou endurer un coup du sort**. Quand la Chance s'épuise, c'est un signal **que l'histoire change de direction**, pas nécessairement **une blessure ou la mort**.
 
 ## Qu'est-ce qui arrive quand un personnage n'a plus de Chance ?
 
+📌 **Perdre toute sa Chance ne veut pas dire mort soudaine**, c'est un signal que l'aventure prend un tournant dramatique. L'Oracle et le contexte de l'histoire vont vous guider dans la suite des événements.
 
-??
+- **En plein combat ?** → le personnage peut être capturé, mis inconscient, ou forcé de fuir.
+- **En pleine poursuite ?** → il perd la trace de sa cible.
+- **En plein débat ?** → il est battu et doit concéder la défaite.
+- **En plein cambriolage ?** → il déclenche une alarme ou laisse derrière lui un indice crucial
 
-
+Au moment où la Chance **atteint zéro**, ne faites plus de jet, **le conflit a atteint une conclusion**. Maintenant, posez-vous cette question : **qu'est-ce qui fait sens dans l'histoire ?**
 
 ## 📌 Exemple : à bout de Chance
 
+> Zahra est **en plein duel avec le chasseur de prime** au milieu des ruines d'une station abandonnée.  
+>  
+>  🎲 Le combat s'intensifie, et **la Chance de Zahra tombe à 0**. L'Oracle ne va plus déterminer la suite de l'échange, son destin est scellé.  
+>  
+> ✅ Au lieu de mourir, elle est **désarmée et clouée à une cloison**. Le chasseur de prime sourit, et la traîne jusqu'à son vaisseau, **et un nouveau défi commence : comment Zahra va-t-elle s'échapper ?**
 
-??
+🛑 **Gardez l'histoire vivante, ne la terminez pas sur un "vous avez perdu".** Arriver à court de Chance n'est pas la fin, c'est un tournant dans la narration.
 
+## **Voir la Chance en tant que mécanique narrative**
 
+**✅ La Chance garde le conflit dynamique.** Pas de blessure ni de points de vie, juste de la construction de tension jusqu'au **point de rupture**.  
+**✅ Elle évite que le conflit ne s'éternise.** Une fois que la Chance est épuisée, l'histoire change de direction.  
+**✅ Elle ouvre la porte à l'inattendu.** Perdre sa Chance ouvre la porte à **de nouveaux obstacles, des paris, ou des conséquences surprenantes**.  
 
-## **Voir la Chance comme une mécanique narrative**
-
-
-??
-
-
+Quand vous utilisez **Chance & Dégâts**, ne pensez pas en terme de **"Combien de dégâts ? Par qui ? Comment ?"**, mais plutôt en **"comment ce moment change l'histoire ?"**
 
 # Déterminer l'ambiance de la prochaine scène
 
+À la fun d'une scène, vous connaissez probablement la direction que prend l'histoire. Si vous n'en êtes pas sûr, lancez **1d6** pour déterminer **l'ambiance et le ton** de la prochaine scène.
 
-??
-
-
+| 🎲 **D6** | **Type de la prochaine scène** | **Ce que ça signifie** |
+|:-:|:-:|:-|
+| **1-3** | **Scène dramatique** | Faire monter la tension, ajouter de nouveaux obstacles ou dangers. |
+| **4-5** | **Scène tranquille** | Une pause pour récupérer, réfléchir, ou planifier. |
+| **6** | **Pendant ce temps ...** | Changement de focus sur une nouvelle perspective ou sous-intrigue. |
 
 ## Explication sur les types de scènes
 
+🔴 **Scène dramatique (1-3)**  
+**L'action et la tension continuent**. La situation empire, de nouveaux obstacles émergent, ou un événement inattendu force le Protagoniste à s'adapter.
 
-??
+✅ **Utilisez quand :**  
+- un ennemi majeur fait une action.
+- l'environnement est modifié avec un nouvau danger.
+- les plans du Protagoniste sont déjoués.
 
+🟢 **Scène tranquille (4-5)**  
+C'est **le calme avant la tempête**. Le Protagoniste peut **se reposer, se regrouper, et se préparer** pour ce qui va suivre. Les dialogues, le développement de personnage, et les petites découvertes sont au centre de l'attention.
 
+✅ **Utilisez quand :**  
+- Le Protagoniste a besoin d'être soigné, de trouver des renseignements, ou de faire un plan.
+- Les relations s'approfondissent, ou changent.
+- Le monde réagit aux événements récents sans conflit immédiat.
+
+🔄 **Scène "pendant ce temps (6)**  
+Le **focus change** et quitte le Protagoniste, pointant vers **le grand méchant, les alliées, ou une forces cachées**. Ça permet **d'ajouter de la profondeur au monde** et d'introduire **de nouvelles menaces ou opportunités** avant que le Protagoniste n'en est connaissance.
+
+✅ **Utilisez quand :**  
+- L'enemi agit de manière décisive (*un assassin qui prend ses ordre*)
+- Une sous-intrigue progresse (*la rébellion planifie sa prochaine attaque*)
+- Un changement important se produit dans le monde (*une tempête s'annonce à l'horizon*)
 
 ## 📌 Exemple : un Twist narratif
 
+> Zahra **accept l'offre d'un agent de la corporation**, mais que se passe-t-il ensuite ? Elle fait un jet **1d6 → 6** : **Pendant ce temps ...**  
+> Au lieu de suivre Zahra, la caméra se tourne vers **Tobias Wethern, son ancien mentor**, qui **engage un tueur à gage pour l'éliminer, elle**.
 
-??
-
+Une scène **"Pendant ce temps ..." ajoute de la tension**, Zahra ne sait pas qu'elle est désormais une cible, mais le **joueur le sait**. Ça crée une ironie dramatique et dessine les prochains conflits.
 
 ## Pourquoi utilisez ce système ?
 
-
-??
-
+✅ **Garder le rythme :** toutes les scènes n'ont pas besoin d'être bourrées d'actions ou au contraire lentes et plus détendue, il faut de la variété.  
+✅ **Ajouter de la profondeur au monde :** une scène "Pendant ce temps ..." va rendre le monde plus vivant, s'étendant bien au-delà des actions du Protagoniste.  
+✅ **Encourager la narration :** en suivant les jets, vous allez introduire de nouveau twists que vous n'auriez peut-être pas imaginer sinon.
 
 # Questions ouvertes & Inspiration
 
+Parfois il n'est pas possible de résoudre l'incertitude par **une question fermée (oui/non)**. Quand vous avez besoin d'inspiration ou d'inattendu, ou que vous souhaitez **générer de nouvelles idées**, faites un jet de **2d6 sur chacune des tables suivantes** (Verbe, Nom, et optionnellement Adjectif) pour créer un prompt.
 
-??
+Cette méthode est utile quand :  
+- vous avez besoin **d'un twist d'intrigue** mais n'avez aucune idée de ce que ça pourrait être.
+- l'Oracle vous donne une réponse vague, et vous voulez **approfondir**.
+- vous essayez de trouver **des connexions imprévues** entre différents éléments de l'histoire.
 
+🔹 **Faites au moins un jet sur Verbe et Nom.** Ajouter Adjectif pour plus de nuances.  
+🔹 **Interpréter librement.** Le résultat n'a pas à être littéral !
 
+| Verbe | 1 | 2 | 3 | 4 | 5 | 6 |
+|:----:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | Injecter | Passer | Posséder | Diviser | Enterrer | Emprunter |
+| 2 | Continuer | Apprendre | Demander | Multiplier | Recevoir | Imaginer |
+| 3 | Développer | Se comporter | Remplacer | Endommager | Collecter | Tourner |
+| 4 | Partager | Aider | Jouer | Expliquer | Améliorer | Tousser |
+| 5 | Faire face | Étendre | Trouver | Rassembler | Préférer | Dépendre |
+| 6 | Glisser | Vouloir | Manquer | Sécher | Employer | Détruire |
 
-## 📌 Exemple : ??
+| Adjectif | 1 | 2 | 3 | 4 | 5 | 6 |
+|:----:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | Fréquent | Faussé | Obscène | Rare | Rigide | Long terme |
+| 2 | Éthéré | Sophistiqué | Droit | Sachant | Étonnant | Ordinaire |
+| 3 | Descriptif | Insidieux | Pauvre | Fier | Réfléchissant | Amusant |
+| 4 | Soyeux | Sans valeur | Fixe | Relaché | Volontaire | Froid |
+| 5 | Silencieux | Tempêteux | Effrayant | Délirant | Inné | Tardif |
+| 6 | Magnifique | Arrogant | Malsain | Énorme | Truculent | Séduisant |
 
+| Noms | 1 | 2 | 3 | 4 | 5 | 6 |
+|:----:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1 | Cause | Scène | Changement | Poésie | Frisson | Repère |
+| 2 | Font | Événement | Maison | Sac | Mesure | Naissance |
+| 3 | Prose | Mouvement | Échange | Mémoire | Chance | Chute |
+| 4 | Instrument | Ami | Discussion | Liquide | Fait | Prix |
+| 5 | Mot | Matin | Limite | Chambre | Système | Camp |
+| 6 | Clé | Revenu | Usage | Humeur | Déclaration | Argument |
 
-??
+## 📌 Exemple : chercher de l'aide désespéremment
 
+> **Question :** *"Est-ce que Zahra peut compter sur des amis pour l'aider contre le tueur à gage ?"*  
+> 🎲 **Jet :** 2-4 (**multiplier**) et 3-2 (**mouvement**) → **mouvement multiple**  
 
+✅ Interprétation : Zahra **doit bouger et vite** pour rencontrer un contact de confiance avant qu'il se soit trop tard.
+
+> **Résultat final :** elle court voir **Melina Reade, une hackeuse notoire** qui pourrait lui fournir de précieux renseignements, mais arriver jusqu'à elle dans les temps ne va pas être facile !
 
 # Quand l'histoire se termine
 
@@ -982,40 +1106,56 @@ Utilisez cet outil si :
 ### 📌 Exemple : Générer une aventure
 
 🎲 **Jets :**  
-1. **Univers :** ??
+- **Univers :** *Aventure Médival Fantastique*
+- **Ton :** *Étrange et paranormal*
+- **Éléments :** *Vaste empire, Différentes factions*
+- **Opposition :** *(le jet n'était pas clair, partons plutôt sur une interprétation à partir de l'univers, peut-être un culte secret ?)*
+- **Actions :** *Rechercher + (le second jet n'était pas clair, partons sur "dissimulé" ?)*
 
+✅ **Résultat :**
 
-??
-
+> L'histoire prend place sur une **terre vaste et mythique, avec des empires sur le déclin**, où **des factions secrètes manœuvrent dans les ombres pour le pouvoir**. Le Protagoniste, un mage errant, est **en quête d'un savoir ancien**, mais se faisant, il va **mettre à jour la vérité à propos d'un culte secret qui tire les ficelles de l'histoire**.
 
 ### Pourquoi utiliser le Générateur d'Aventures ?
 
+✅ **Inspiration immédiate :** pas besoin de planifier à l'avance, faites et un jet et c'est parti !  
+✅ **Encourager la créativité :** le générateur vous aide à explorer de nouveaux univers et de nouvelles histoires.  
+✅ **Donner un coup de frais à votre jeu :** chaque aventure est assurée d'être différente.
 
-??
+Utilisez-le **en tant que point de départ**, et définissez ensuite l'histoire pendant le jeu. *Loner* prosère dans **la narration émergente**, et le Générateur d'Aventure est l'étincelle qui peut tout faire démarrer.
 
 ## Table 1 : Univers
 
-
 |   | 1 | 2 | 3 | 4 | 5 | 6 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-??
-
+| 1 | Désért post-apo | Royaume Médiéval Fantastique | Intrigue et guerre médiévale | Mégacorporation cyberpunk | Colonie spatiale futuriste | Cité noire et surnaturelle |
+| 2 | Histoire alternative | Piraterie | Frontière de l'Ouest sauvage | Domaine sombre et fantastique | Cité dystopique et futuristique | Mythologie grecque |
+| 3 | Space Opera | Japon féodal | Survie et zombie | Métropole & superhéros | Espionnage et guerre froide | Syndicat du crime moderne |
+| 4 | École de magie pour jeunes mages | Horreur et folie | Quête épique | Androides et organismes cybernétiques | Horreurs cosmiques lovecraftiennes | Aventure médiéval fantastique |
+| 5 | Fantastique urbain | Station spatiale abandonnée | Colonisation américaine | Légendes et créatures mythiques | Arts martiaux | Carnaval de l'horreur |
+| 6 | Exploration et aventure sous-marine | Planète jungle | Ère victorienne steampunk | Paradoxes du voyage dans le temps | Batailles intergalactiques | Survie en milieu sauvage |
 
 ## Table 2 : Ambiances
 
 |   | 1 | 2 | 3 | 4 | 5 | 6 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-??
-
+| 1 | Sombre et noir | Poétique et mélancolique | Léger et humoristique | Absurde et excentrique | Réaliste et rugueux | Violent et brutal |
+| 2 | Épic et grandiose | Majestueux et inspirant | Surprenant et haletant | Chaotique et rapide | Énigmatique et mystérieux | Introspectif et philosophique |
+| 3 | Aventureux et bourré d'action | Héroïque et audacieux | Romantique et capricieux | Tragique et mélancolique | Térrifiant et horrifique | Oppressant et clautrophobique |
+| 4 | Technologique et lisse | Optimiste et utopiste | Grunge et sale | Sombre et sans espoir | Gothique et sinistre | Cosmique et insondable |
+| 5 | Surréaliste et merveilleux | Psychadélique et hallucinogène | Futuristique et dystopique | Cynique et satyrique | Nostalgique et intemporel | Folklorique et mythique |
+| 6 | Étrange et paranormal | Déroutant et inquiétant | Martial et discipliné | Froid et détaché | Gracieux et élégant | Cérémonieux et ritualisé |
 
 ## Table 3 : Éléments
 
-
 |   | 1 | 2 | 3 | 4 | 5 | 6 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-?? (table 1)
-
-
+| 1 | Magique | Monstres | Anciennes reliques | Chateau médiéval | Technologie futuriste | Vaisseau spatial |
+| 2 | Anciennes ruines | Connaissances interdites | Société secrète | Dangereuse quête | Bande d'aventuriers | Forces dissimulées |
+| 3 | Trésor caché | Magie noire | Créatures mystiques | Pouvoirs surnaturels | Bataille épique | Intrigue |
+| 4 | Personnage suspect | Terre ravagée | Jungle dangereuse | Intrigue politique | Domination du monde | Voyage surprenant |
+| 5 | Sombres secrets | Amour interdit | Conflit intense | Prouesse mortelle | Puissants artefacts | Voyages épiques |
+| 6 | Twists imprévisibles | Personnages dynamiques | Factions différentes | Vastes empires | Héros épiques | Créatures légendaires |
 
 |   | 1 | 2 | 3 | 4 | 5 | 6 |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
