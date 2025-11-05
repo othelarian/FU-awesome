@@ -30,7 +30,7 @@ exclude: true
 | --- | ------------------------------- | ------------------------------- | ------------------------------------- | -------------------------- | ----------------------- | ----------------------------   |
 | 1   | Assassin silencieux             | Guerrier marqué par les combats | Enchanteur errant                     | Coupeur de bourse agile    | Bretteuse vaillante     | Maîtresse de lame mélancolique |
 | 2   | Vétéran aguerri                 | Paladin lié par serment         | Duelliste gracieuse                   | Berserker frénétique       | Parle-sauvage solitaire | Faiseur de miracles zélé       |
-| 3   | Arcaniste hors la loi           | Courtisan intriguant            | Capitaine de première ligne audacieux | Inquisiteur fanatique      | Voyant tourmenté        | Envoyé langue-d’argent  |
+| 3   | Arcaniste hors la loi           | Courtisan intriguant            | Capitaine de première ligne audacieux | Inquisiteur fanatique      | Voyant tourmenté        | Envoyé langue-d’argent         |
 | 4   | Scalde (barde) inspiré          | Cambrioleur à la main vive      | Mercenaire au sang froid              | Maître d’érudition curieux | Gladiateur Imposant     | Fanatique loyal                |
 | 5   | Voyageur touché par les esprits | Ascète discipliné               | Éclaireur dompteur de bêtes           | Espion masqué              | Dance-lame Elfe         | Bricoleur de génie             |
 | 6   | Corsaire usé par la mer         | Matriarche royale               | Fou masqué avec des secrets           | Maître tacticien           | Navigateur endurci      | Artisan renommé                |
