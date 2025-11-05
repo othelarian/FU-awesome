@@ -24,8 +24,8 @@ exclude: true
 |   | 1                          | 2                        | 3                        | 4                     | 5                        | 6                           |
 |---|----------------------------|--------------------------|--------------------------|-----------------------|--------------------------|-----------------------------|
 | 1 | Agent répudié              | Assassin élégant         | Hacker mercenaire        | Espion grillé         | Analyste sous couverture | Trafiquant                  |
-| 2 | Agent dormant              | Conspirateur Cryptique   | Techno-Saboteur          | Infiltrateur charmant | Expert en double jeu     | Relique de la guerre froide |
-| 3 | Actif à la mémoire effacée | Courtier de l'ombre      | Taupe infiltrée          | Séductrice débonnaire | Spécialiste du nettoyage | Chirurgien de terrain       |
+| 2 | Agent dormant              | Conspirateur Cryptique   | Techno-Saboteur          | Infiltré charmant     | Expert en double jeu     | Relique de la guerre froide |
+| 3 | Actif à la mémoire effacée | Intermédiaire caché      | Taupe infiltrée          | Séductrice débonnaire | Spécialiste du nettoyage | Chirurgien de terrain       |
 | 4 | Caméléon diplomatique      | Expert en interrogatoire | Renégat du MI6           | Fugitif de la CIA     | Médiateur d'entreprise   | Messager maquillé           |
 | 5 | Technicien cambrioleur     | Fantôme en silence radio | Accro de la surveillance | Imposteur glamour     | Analyste anti-terroriste | Nettoyeur méticuleux        |
 | 6 | Traqueur urbain            | Intercepteur insomniaque | Psychologue Profiler     | Patriote disgracié    | Héritier du KGB          | Négociateur de haut niveau  |
@@ -37,31 +37,31 @@ exclude: true
 | 1 | Espionnage      | Discrétion            | Interrogatoire          | Crochetage                | Déguisement             | Contre-espionnage        |
 | 2 | Séduction       | Armes à feu           | Arts martiaux           | Surveillance              | Décryptage              | Bricoler des gadgets     |
 | 3 | Hacking         | Filature              | Infiltration            | Conduite de combat        | Explosifs               | Techniques d'évasion     |
-| 4 | Persuasion      | Maitrise des langues  | Distraction             | Sociologie appliquée      | Exploitation des drones | Connaissances médicales  |
+| 4 | Persuasion      | Maîtrise des langues  | Distraction             | Sociologie appliquée      | Exploitation des drones | Connaissances médicales  |
 | 5 | Médecine légale | Extraction de données | Imitation vocale        | Désamorçage de bombes     | Pose de pièges          | Manipulation des toxines |
 | 6 | Bluff           | Parkour               | Analyse cryptographique | Planification stratégique | Tireur rapide           | Outil improvisé          |
 
 ### Fragilités
 
-|   | 1                                 | 2                          | 3                                | 4                             | 5                             | 6                          |
-|---|-----------------------------------|----------------------------|----------------------------------|-------------------------------|-------------------------------|----------------------------|
-| 1 | Crise identitaire                 | Burnout                    | Paranoïa                         | Complexe de culpabilité       | Difficultés à faire confiance | Amnésie                    |
-| 2 | Comportement addictifs            | Syndrome post-traumatique  | Toc                              | Détachement émotionnel        | Tremblements                  | Insomnie chronique         |
-| 3 | Flashbacks                        | Excès de confiance en soi  | Panique sous le feu              | Auto-Sabotage                 | Loyauté secrète               | Hanté par son passé        |
-| 4 | Hésitations morales               | Tendance à la manipulation | Allégeances multiples            | Cauchemars                    | Accro aux règles              | Réticence à tuer           |
-| 5 | Célèbre pour une opération foirée | Vindicatif                 | Accorde facilement sa confiance  | Technophobe                   | Blessure chronique            | Explosions émotionnelles   |
-| 6 | Entend des voix                   | Stress d'une double vie    | Peur d'être découvert            | Phobie d'une panne de gadget  | Attitude froide               | Traumatisme bureaucratique |
+|   | 1                                   | 2                          | 3                               | 4                            | 5                             | 6                          |
+|---|-------------------------------------|----------------------------|---------------------------------|------------------------------|-------------------------------|----------------------------|
+| 1 | Crise identitaire                   | Burn-out                   | Paranoïa                        | Complexe de culpabilité      | Difficultés à faire confiance | Amnésie                    |
+| 2 | Comportement addictifs              | Syndrome post-traumatique  | Toc                             | Détachement émotionnel       | Tremblements                  | Insomnie chronique         |
+| 3 | Flash-back                          | Excès de confiance en soi  | Panique sous le feu             | Auto-Sabotage                | Loyauté secrète               | Hanté par son passé        |
+| 4 | Hésitations morales                 | Tendance à la manipulation | Allégeances multiples           | Cauchemars                   | Accro aux règles              | Réticence à tuer           |
+| 5 | Célèbre suite à une opération ratée | Vindicatif                 | Accorde facilement sa confiance | Technophobe                  | Blessure chronique            | Explosions émotionnelles   |
+| 6 | Entend des voix                     | Stress d'une double vie    | Peur d'être découvert           | Phobie d'une panne de gadget | Attitude froide               | Traumatisme bureaucratique |
 
-### Equipement
+### Équipement
 
-|   | 1                            | 2                 | 3                      | 4                                        | 5                   | 6                      |
-|---|------------------------------|-------------------|------------------------|------------------------------------------|---------------------|------------------------|
-| 1 | Pistolet silencieux          | Détecteur de bugs | Passeport falsifié     | Kit de crochetage                        | Micro-enregistreur  | Téléphone intraçable   |
-| 2 | LAme dissimulée              | Pistolet grappin  | Lunettes tactiques     | Tablette cryptée                         | Brouilleur GPS      | Grenade flashbang      |
-| 3 | Fléchettes à tête chercheuse | Kit d'écoute      | Kit de déguisement     | Injecteur d'antidote                     | Masque à gaz        | Drone de surveillance  |
-| 4 | Anneau à empoisonnement      | Montre creuse     | Brouilleur de signal   | Dispositif d'impulsion électromagnétique | Taser de poing      | Pistolet tranquilisant |
-| 5 | Imitateur RFID               | Caméra cachées    | Veste en Kevlar        | Lunettes infrarouges                     | Dent au cyanure     | Liasse de billets      |
-| 6 | Arme d'assaut compacte       | Scanner rétinien  | Explosif télécommandés | Kit de soin                              | Pastilles fumigènes | Plateforme de piratage |
+|   | 1                            | 2                 | 3                      | 4                                        | 5                   | 6                       |
+|---|------------------------------|-------------------|------------------------|------------------------------------------|---------------------|-------------------------|
+| 1 | Pistolet silencieux          | Détecteur de bugs | Passeport falsifié     | Kit de crochetage                        | Micro-enregistreur  | Téléphone intraçable    |
+| 2 | Lame dissimulée              | Pistolet grappin  | Lunettes tactiques     | Tablette cryptée                         | Brouilleur GPS      | Grenade flash-bang      |
+| 3 | Fléchettes à tête chercheuse | Kit d'écoute      | Kit de déguisement     | Injecteur d'antidote                     | Masque à gaz        | Drone de surveillance   |
+| 4 | Anneau à empoisonnement      | Montre creuse     | Brouilleur de signal   | Dispositif d'impulsion électromagnétique | Taser de poing      | Pistolet tranquillisant |
+| 5 | Imitateur RFID               | Caméra cachées    | Veste en Kevlar        | Lunettes infrarouges                     | Dent au cyanure     | Liasse de billets       |
+| 6 | Arme d'assaut compacte       | Scanner rétinien  | Explosif télécommandés | Kit de soin                              | Pastilles fumigènes | Plateforme de piratage  |
 
 ### Noms
 
@@ -115,18 +115,19 @@ exclude: true
 
 Votre protagoniste commence chaque mission avec une couverture qui lui est assignée. Quand il réalise une action qui pourrait l'exposer, lancez un dé sur l'oracle des risques. Si la réponse est négative ou mitigée, votre couverture commence à s'effilocher.
 
-- Votre couverture peut avoir trois états : Intacte, Compromise, Repérée
+- Votre couverture peut avoir trois états : Intacte, Fragile, Compromise
 - A chaque fois que vous agissez "à découvert", ou que vous attirez l'attention, consultez l'Oracle et ajustez l'état.
-- Une couverture Repérée lance immédiatement une extraction, une poursuite ou une capture (L'oracle décide laquelle)
+- Une couverture Compromise lance immédiatement une extraction, une poursuite ou une capture (L'oracle décide laquelle)
 
-> Astuce   
+> Astuce
+>
 > Décrivez comment votre action s'adapte à la couverture — Pas juste ce que vous faites mais comment vous vous arrangez pour que ça ait l'air normal.
 
 ### Interrogatoire
 
-Si vous êtes capturé, vous entrez dans une séquence d'interrogatoire. Vous devez répondre aux questions posées par vos ravisseurs. Pour chaque question : 
+Si vous êtes capturé, vous entrez dans une séquence d'interrogatoire. Vous devez répondre aux questions posées par vos ravisseurs. Pour chaque question :
 
-- Vous pouvez choisir de Mentir, d'Eluder ou de Confesser.
+- Vous pouvez choisir de Mentir, d'Éluder ou de Confesser.
 - Consultez l'oracle après chaque tentative? Sur un échec, vos ravisseurs apprennent quelque chose — de vrai ou de faut, c'est l'Oracle qui choisit.
 - Après trois questions, lancez les dés pour savoir si vous êtes relâché, si vous vous échappez ou si vous restez emprisonné.
 
@@ -136,7 +137,7 @@ Si vous êtes capturé, vous entrez dans une séquence d'interrogatoire. Vous de
 
 ### Tensions Politiques
 
-Chaque mission altère le climat géopolitique. Après une mission : 
+Chaque mission altère le climat géopolitique. Après une mission :
 
 - Lancez les dés sur l'Oracle pour savoir si vos actions ont stabilisé, perturbé ou exacerbé les tensions politiques.
 - Les Tension peuvent avoir trois états : Stable → Perturbées→ En ébullition
@@ -150,7 +151,7 @@ Chaque mission altère le climat géopolitique. Après une mission :
 
 ### Le Direction Générale
 
--  Concept : Agence de renseignement traditionnelle fracturée par des purges internes
+- Concept : Agence de renseignement traditionnelle fracturée par des purges internes
 - Compétences : Techniques d'espionnage, Manipulation psychologique
 - Fragilités : Affaibli par la méfiance interne
 - Équipements : Fichiers cryptés à l'ancienne, Manutentionnaires agés
@@ -160,17 +161,17 @@ Chaque mission altère le climat géopolitique. Après une mission :
 
 ### Le Bloc Ascendant
 
--  Concept : Pouvoir émergeant qui exploite l'espace digital et l'ingénierie sociale
+- Concept : Pouvoir émergeant qui exploite l'espace digital et l'ingénierie sociale
 - Compétences : Infiltration du réseau, Surveillance IA
-- Fragilités : Hyperconfiance dans les algorithmes
+- Fragilités : Surconfiance dans les algorithmes
 - Équipements :  Micrologiciels du marché noir, réseaux de renseignement prédictifs
 - Objectif : Domination globale de l'information
 - Motivation : Stabilité via le contrôle
-- Némésis : L'Echo Souterrain
+- Némésis : L’Écho Souterrain
 
-### L'Echo Souterrain
+### L’Écho Souterrain
 
--  Concept : Résistance décentralisée qui réunit des lanceurs d'alerte, des ex-agents et des fugitifs du digital
+- Concept : Résistance décentralisée qui réunit des lanceurs d'alerte, des ex-agents et des fugitifs du digital
 - Compétences : Coordination en guerrilla, Contre-propagande
 - Fragilités : Réseaux de confiance fragmenté
 - Équipements : Technologies de brouillage, Transferts en peer-to-peer
@@ -180,8 +181,8 @@ Chaque mission altère le climat géopolitique. Après une mission :
 
 ### La Cour Voilée
 
--  Concept : Cabale d'élites de toute nationalités qui exercent leur influence à travers les financements privés et la culture
-- Compétences : Traffic d'influence, Symbolisme cryptique
+- Concept : Cabale d'élites de toute nationalités qui exercent leur influence à travers les financements privés et la culture
+- Compétences : Trafic d'influence, Symbolisme cryptique
 - Fragilités : Arrogance ritualisée
 - Équipements : Réseaux de clubs privés, Codes traditionnels
 - Objectif : Façonner l'histoire dans l'ombre
@@ -190,29 +191,29 @@ Chaque mission altère le climat géopolitique. Après une mission :
 
 ### La Solution Kestrel
 
--  Concept : Entreprise d'espionnage privée qui travaille avec toutes les parties d'un conflit
+- Concept : Entreprise d'espionnage privée qui travaille avec toutes les parties d'un conflit
 - Compétences : Extractions, Opérations sou faux pavillon
 - Fragilités : Loyauté envers le profit
-- Équipements : Ensemble d'équipements adaptatifs,  Fuites d'informations controlées
+- Équipements : Ensemble d'équipements adaptatifs,  Fuites d'informations contrôlées
 - Objectif : Entretenir la guerre des secrets
 - Motivation : Dominer le marché de l'espionnage privé
 - Némésis : Tous ceux qu'elle ne peut pas facturer
 
 ### Le Pacte des Cendres
 
--  Concept : Fanatiques extrêmistes de l'effacement — effacer l'histoire, détruire les archives, démanteler les systèmes
+- Concept : Fanatiques extrémistes de l'effacement — effacer l'histoire, détruire les archives, démanteler les systèmes
 - Compétences : Sabotage, Infiltration de fanatiques
 - Fragilités : Pulsion auto-destructrice
 - Équipements : Ver informatique, outils de purge de mémoire
 - Objectif : Brûler les connaissances du vieux monde
 - Motivation : La purification par l'oubli
-- Némésis : Aussi bien l'Echo Souterrain que la Court Voilée
+- Némésis : Aussi bien l’Écho Souterrain que la Court Voilée
 
 ## PNJ
 
 ### Sophia Dubois
 
--  Concept : Fausse diplomate
+- Concept : Fausse diplomate
 - Compétences : Subversion sociale, Manipulation des enchères
 - Fragilités : Secrètement endettée
 - Équipements : Boucles d'oreilles piégées, Manifeste falsifié
@@ -222,7 +223,7 @@ Chaque mission altère le climat géopolitique. Après une mission :
 
 ### Jack Zhang
 
--  Concept : Codeur Fantôme
+- Concept : Codeur Fantôme
 - Compétences : Infiltration de réseaux, Obscurcissement de code
 - Fragilités : Cherche la célébrité
 - Équipements : Drone enregistreur de frappe, Répétiteur de signal
@@ -232,7 +233,7 @@ Chaque mission altère le climat géopolitique. Après une mission :
 
 ### Dmitri Volkov
 
--  Concept : Ancien courtier du GRU (services secret russe)
+- Concept : Ancien informateur du GRU (services secret russe)
 - Compétences : Logistique, Bluff
 - Fragilités : Hanté par sa loyauté
 - Équipements : Casier verrouillé, Liste cryptée
@@ -242,7 +243,7 @@ Chaque mission altère le climat géopolitique. Après une mission :
 
 ### Maria Gutierrez
 
--  Concept : Tueuse à gage
+- Concept : Tueuse à gage
 - Compétences : Disparition, Assassinat
 - Fragilités : Trous de mémoire
 - Équipements : Registre de ses contrat, Brouilleur rétinien
@@ -252,7 +253,7 @@ Chaque mission altère le climat géopolitique. Après une mission :
 
 ### William Buchanan
 
--  Concept : Légende déchue
+- Concept : Légende déchue
 - Compétences : Déguisement, Changement de code
 - Fragilités : Routines obsolètes
 - Équipements : Fausse nécrologie, Ordonnance de mise sous séquestre
@@ -262,7 +263,7 @@ Chaque mission altère le climat géopolitique. Après une mission :
 
 ### Suki Kim
 
--  Concept : Infiltré masqué
+- Concept : Infiltré masqué
 - Compétences : Mimétisme, bureaucratie
 - Fragilités : Reliquats émotionnels
 - Équipements : Mémoires invisibles, Trésor familial volé
@@ -274,178 +275,133 @@ Chaque mission altère le climat géopolitique. Après une mission :
 
 ### Réseaux de chantage
 
--  Concept : Extorqueurs clandestins
+- Concept : Extorqueurs clandestins
 - Compétences : Coercition (contrainte), Collecte de renseignements
 - Fragilités : Avide de pouvoir
 - Équipements : Micros cachés, Photos compromettantes
-- Objectif : Controle par la contrainte
+- Objectif : Contrôle par la contrainte
 - Motivation : Cupidité, Influence
 - Némésis : Lanceurs d'alerte, Fuites
 
 ### Tueurs à gages
 
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Equipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
+- Concept : Éliminateurs sous contrat
+- Compétences : Discrétion, Exécution
+- Fragilités : Vision étroite de la situation
+- Équipements : Toxines, Armes silencieuses
+- Objectif : Neutraliser la cible
+- Motivation : Argent, Vengeance
+- Némésis : Équipe de sécurité, Cibles fantômes
 
+### Cellules de codeurs
 
-* Concept: Hired Eliminators
-* Skills: Stealth, Execution
-* Frailty: Tunnel Vision
-* Gear: Toxins, Suppressed Arms
-* Goal: Target neutralization
-* Motive: Money, revenge
-* Nemesis: Security teams, ghost targets
+- Concept : Hackers illégaux
+- Compétences : Intrusion et déploiement, Cacher ses traces
+- Fragilités : Opèrent dans des chambres d'écho
+- Équipements : Organisation en réseau, Plateforme de falsification
+- Objectif : Déstabiliser, Démasquer, Perturber
+- Motivation : Idéalisme, Sabotage
+- Némésis : IA de Contre-espionnage, raids coordonnés
 
-### Cyber cellules
+### Actifs Free-lances
 
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Équipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
-
-
-* Concept: Rogue Hackers
-* Skills: Breach & Spread, Obfuscation
-* Frailty: Operate in echo chambers
-* Gear: Mesh nodes, spoofing rigs
-* Goal: Disrupt, expose, destabilize
-* Motive: Idealism, sabotage
-* Nemesis: Counterintel AI, kinetic raids
-
-### Activistes Freelances
-
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Équipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
-
-
-* Concept: Tactical Mercs
-* Skills: Small Unit Ops, Extraction
-* Frailty: No loyalty
-* Gear: Modular armor, flashbangs
-* Goal: Execute contracts
-* Motive: Payment, chaos
-* Nemesis: Intelligence handlers, rival squads
+- Concept : Mercenaires tactiques
+- Compétences : Opérations en petit groupe, Extraction
+- Fragilités : Pas de loyauté
+- Équipements : Armure modulaire, Pistolet flash-bang
+- Objectif : Exécuter le contrat
+- Motivation : Payement, chaos
+- Némésis : Agents de renseignement, Équipes rivales
 
 ### Messagers transfrontaliers
 
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Équipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
-
-
-* Concept: Logistics Ghosts
-* Skills: Smuggling, Terrain Mastery
-* Frailty: Complacent
-* Gear: Coded manifests, rebranded crates
-* Goal: Move the untraceable
-* Motive: Survival, profit
-* Nemesis: Customs agents, bounty hunters
+- Concept : Fantômes logistiques
+- Compétences : Contrebande, Maîtrise du terrain
+- Fragilités : Complaisant
+- Équipements : Manifeste codé, casiers maquillés
+- Objectif : Déplacer l'intraçable
+- Motivation : Survivre, Profit
+- Némésis : Agent de douanes, Chasseurs de prime
 
 ### Renégats intégrés
 
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Équipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
+- Concept : Saboteurs en interne
+- Compétences : Fausse piste, Couverture renforcée
+- Fragilités : Parie sur la confiance
+- Équipements : Fausses références, Caches de rechange
+- Objectif : Renverser ses ennemis de l’intérieur
+- Motivation : Idéologie, Chantage
+- Némésis : Unités d'évaluation, Loyalistes
 
+## Lieux
 
-* Concept: Internal Saboteurs
-* Skills: Misdirection, Deep Cover
-* Frailty: Gambling with trust
-* Gear: Forged credentials, burner caches
-* Goal: Subvert from within
-* Motive: Ideology, blackmail
-* Nemesis: Vetting units, loyalists
+### L'Ambassade
 
-## Locations
+* Officiellement, une façade pour la diplomatie, officieusement, un nid d'appareils de surveillance, de menaces voilées et d'arrangement à huis clos.
+* Rencontres possibles : Attachés culturels, Agents de liaison, Techniciens de surveillance se faisant passer pour des employés.
 
-### The Embassy
+### Le Bazar
 
-* An official front for diplomacy, unofficially a nest of surveillance devices, veiled threats, and closed-door deals.
-* Possible encounters: Cultural Attaché, Agency Liaison, Surveillance Tech posing as Clerk
+* Un labyrinthe volatile fait de marchandages murmurés, de regards froids et d'étals fluctuants — idéal pour couvrir des échanges et pour la possibilité de dénégation.
+* Rencontres possibles : Intermédiaires, Informateurs, Agents disgraciés en cavale, Équipe de diversion se faisant passer pour des vendeurs
 
-### The Bazaar
+### Le Refuge
 
-* A volatile maze of whispered deals, cold stares, and vanishing stalls — ideal for covert exchanges and plausible deniability.
-* Possible encounters: Information Broker, Disgraced Agent in Hiding, Distraction Team posing as Vendors
+* D'apparence banale à l'extérieur, l'intérieur raconte des histoires à travers les éraflures, l'huile pour à fusil, et les trousses médicales à moitié désinfectées — jamais vraiment sécurisées
+* Rencontres possibles : Agent de terrain paranoïaque, Actif compromis, Majordome silencieux
 
-### The Safehouse
+### Le Complexe Exécutif
 
-* Nondescript from the outside, the inside tells stories in scratches, gun oil, and half-sanitized medical kits — never truly safe.
-* Possible encounters: Paranoid Field Operative, Burned Asset, Silent Quartermaster
+* Un périmètre de décorum qui cache le cœur du commandement — ici, la politique est façonnée sous les menaces veloutées et le soft power.
+* Rencontres possibles : Intermédiaire du Pouvoir politique, Consultant privé en espionnage, Micros cachés
 
-### The Executive Compound
+### La Zone Grise
 
-* A perimeter of decorum hides a core of control — policy is shaped here under velvet threats and soft power.
-* Possible encounters: Political Powerbroker, Private Intelligence Consultant, Hidden Microphone
+* Un district d'immeubles abandonnés aux lampadaires clignotants. Connu pour être à la fois abandonné et exploité par les agents de tous bords.
+* Rencontres possibles : Informateurs de rue, Traites jouant double jeu, Drones de surveillance survolant les toits.
 
-### The Grey Sector
+### Le labo noir
 
-* A district of abandoned buildings and flickering streetlamps, known to be both avoided and exploited by operatives of every stripe.
-* Possible encounters: Street-Level Informant, Double-Crosser, Surveillance Drone Skimming Rooftops
+* Au-delà de toute juridiction et de l'éthique, ce site souterrain fait des tests dont personne n'admet l'existence. Ce lieu respire le secret.
+* Rencontres possibles : Techniciens nerveux, IA de sécurité en phase de test, Quelque chose de pas tout à fait humain.
 
-### The Black Lab
+## Prémices d'aventure
 
-* Beyond jurisdiction and ethics, this subterranean site runs tests no one admits exist — the lights hum with secrecy.
-* Possible encounters: Nervous Technician, Security AI in Test Mode, Something Not Fully Human
-
-## Adventure Seeds
-
-| D66 | Adventure                                                                                                 |
-|-----|-----------------------------------------------------------------------------------------------------------|
-| 11  | Infiltrate a diplomatic gala and extract a defector hiding in plain sight — before their cover collapses. |
-| 12  | A forged memo sparks a scandal. Retrieve the original document before it reaches the press.               |
-| 13  | Your former handler resurfaces with a job and no explanation. Say yes, or risk losing your identity.      |
-| 14  | A data vault hidden in a shuttered bookstore may hold the truth behind a blacklisted operation.           |
-| 15  | Steal a prototype listening device from an ally’s embassy — then decide who gets it.                      |
-| 16  | The safehouse is compromised. Burn the evidence, but someone inside may not be who they claim.            |
-| 21  | Surveillance footage shows you at a crime scene — but you were never there. Prove it.                     |
-| 22  | A ghost agent transmits from a dead network. Trace the signal before it disappears again.                 |
-| 23  | A staged hostage rescue masks a smuggling op. You're sent in — but to stop which part?                    |
-| 24  | The mole you unmasked has vanished. Your contact insists they were never real.                            |
-| 25  | A message hidden in a vintage broadcast suggests a war-era asset is still active — and watching you.      |
-| 26  | A poisoned official collapses mid-speech. You have 12 hours to trace the vector before you're blamed.     |
-| 31  | An encrypted case was dropped in the wrong dead drop. Retrieve it before rival handlers act.              |
-| 32  | You’re hired to tail a diplomat. They’re already tailing someone else — and so are you.                   |
-| 33  | The target is a child born into a fabricated identity. Extract them, or erase the file.                   |
-| 34  | A former asset demands protection — in exchange for blackmail material you didn’t know existed.           |
-| 35  | Your cover ID receives an official invitation to a secret summit. You weren’t supposed to be known.       |
-| 36  | A routine brush pass transfers a drive. It contains footage of your last unsanctioned kill.               |
-| 41  | Sabotage an arms deal between two factions — but don’t let either know it was you.                        |
-| 42  | A deep-cover operative breaks silence. Their voice sounds like someone you trusted and buried.            |
-| 43  | A faction wants you to plant intel on a rival. Another pays you to intercept it. Both are watching.       |
-| 44  | The airport is locked down. One passenger has classified tech in their luggage. Guess who.                |
-| 45  | You’re offered immunity in exchange for a list of active agents — including your current identity.        |
-| 46  | A package arrives addressed to your alias. Inside: your real birth certificate and a listening device.    |
-| 51  | A foreign news outlet publishes details from a mission you haven’t completed yet. Find the leak.          |
-| 52  | Your mission: escort a scientist across hostile territory. They insist you're part of an experiment.      |
-| 53  | A key witness is being held in an asylum. They speak only in Cold War ciphers.                            |
-| 54  | A minor bureaucrat is too well-informed. Dig into their past before they dig into yours.                  |
-| 55  | A rogue satellite comes online. It has your old team's encrypted logs — and someone’s using them.         |
-| 56  | You’ve been framed for an assassination. The evidence is airtight — and planted by your own side.         |
-| 61  | An encrypted letter arrives weekly, signed by someone who died in a botched mission you led.              |
-| 62  | An underground courier service moves secrets for hire. Infiltrate it without being archived.              |
-| 63  | A defector’s memoirs contain details only you should know. Redact the book — or its author.               |
-| 64  | A facial recognition algorithm tags you in surveillance footage from six years ago — on the wrong side.   |
-| 65  | A ghost file resurfaces in the archive: classified under your real name. You never wrote it.              |
-| 66  | Someone is impersonating you across three countries. Trace them — or become them.                         |
+| D66 | Aventure                                                                                                                                                   |
+|-----|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 11  | Vous devez infiltrer un gala diplomatique et extraire un déserteur qui se cache en plein jour - avant que sa couverture ne soit compromise.                |
+| 12  | Un mémo connu comme falsifié déclenche un scandale. Récupérez le document original avant qu'il ne parvienne à la presse.                                   |
+| 13  | Votre ancien employeur refait surface avec une mission et aucune explication. Dites oui, ou vous risquez de perdre votre identité.                         |
+| 14  | Un coffre de données cachées dans une librairie fermée pourrait receler la vérité sur une opération interdite.                                             |
+| 15  | Volez un prototype d'instrument d'écoute dans l'ambassade d'un allié - et décidez ensuite de qui l'obtiendra.                                              |
+| 16  | Le Refuge est compromis. Vous brûlez les preuves, mais quelqu'un à l'intérieur pourrait bien être une taupe.                                               |
+| 21  | Des photos de surveillance vous montrent sur une scène de crime - mais vous n'y avez jamais mis les pieds. Prouvez-le.                                     |
+| 22  | Un agent fantôme envoie une transmission depuis un réseau mort. Tracez le signal avant qu'il disparaisse de nouveau.                                       |
+| 23  | Un sauvetage d'otages masque une opération de contrebande. Vous y êtes envoyé - mais pour arrêter laquelle de ces opérations ?                             |
+| 24  | La taupe que vous avez démasquée a disparue. Vos contacts insistent, ils déclarent qu'elle n'a jamais existé.                                              |
+| 25  | Un message caché dans un enregistrement d'époque suggère qu'un actif de l'époque de la guerre est encore en activité - et il vous surveille.               |
+| 26  | Un officiel s’effondre au milieu d'un discours, empoisonné. Vous avez 12 heures pour trouver l'empoisonneur avant qu'on vous accuse .                      |
+| 31  | Un fichier crypté a été balancé sur le mauvais dead-drop. Récupérez le avant que vos rivaux n'agissent.                                                    |
+| 32  | Vous êtes embauché pour suivre un diplomate. Il prend lui même quelqu'un d'autre en filature, et par la force des chose, vous suivez aussi cette personne. |
+| 33  | La cible est un enfant né sous une identité fictive. Extractez-le ou effacez le fichier.                                                                   |
+| 34  | Un ancien actif demande votre protection - en échange de moyens d’extorsion dont vous ignoriez l'existence.                                                |
+| 35  | Votre identité de couverture reçoit une invitation officielle pour un sommet secret. Vous n'étiez pas sensé être connu.                                    |
+| 36  | Un patrouille de routine transfère un dossier. Il contient des images de votre dernier meurtre non autorisé.                                               |
+| 41  | Vous devez saboter une transaction d'armes entre deux factions - mais ne laissez aucun des deux savoir que c'est vous le coupable.                         |
+| 42  | Un agent sous couverture renforcée brise le silence. Sa voix ressemble à celle de quelqu'un à qui vous faisiez confiance et que vous aviez oublié.         |
+| 43  | Une faction veut que vous lui rapportiez des informations sur un rival. Une autre vous paye pour les intercepter. Les deux vous surveillent.               |
+| 44  | L’aéroport est bouclé. Un des passagers a des technologies classées secret défense dans ses bagages. Devinez qui ?                                         |
+| 45  | On vous offre l'immunité en échange d'une liste d'agents actifs - qui inclue votre identité actuelle.                                                      |
+| 46  | Un paquet arrive, adressé à votre alias. A l'intérieur : votre certificat de naissance et un dispositif d'écoute.                                          |
+| 51  | Un média étranger publie des détails sur une mission que vous n'avez pas encore terminé. Trouvez la fuite.                                                 |
+| 52  | Votre mission : escorter un scientifique à travers un territoire hostile. Il n'arrête pas de répéter que vous faites partie d'une expérience.              |
+| 53  | Un témoin clef est détenu dans un asile. Il s'exprime uniquement avec des cryptogrammes de la Guerre Froide.                                               |
+| 54  | Un bureaucrate mineur est trop bien informé. Creusez dans son passé avant qu'il ne fasse de même dans le votre.                                            |
+| 55  | Un satellite illégal est mis en ligne. Ce sont les identifiants cryptés de votre ancienne équipe - et quelqu'un est en train de les utiliser.              |
+| 56  | Vous avez été accusé d'assassinat à tort. Les preuves sont irréfutables - et elles ont été fabriquées par vos alliés.                                      |
+| 61  | Chaque semaine vous recevez une lettre cryptée, signée de la main d'une personne morte pendant une mission que vous dirigiez.                              |
+| 62  | Un service de messagerie clandestin transporte des secrets contre rémunération. Infiltrez-le et évitez de disparaître.                                     |
+| 63  | Les mémoires d'un déserteur contient des détails que vous seul devriez connaître. Censurez le livre - ou son auteur.                                       |
+| 64  | Un algorithme de reconnaissance faciale vous retrouve sur des images de surveillance datant de six ans en arrière - du coté ennemi.                        |
+| 65  | Un dossier fantôme resurgit des archives : classé sous votre véritable nom. Vous ne l'avez jamais écrit.                                                   |
+| 66  | Quelqu'un usurpe votre identité à travers trois pays. Traquez-le - ou prenez sa place.                                                                     |
