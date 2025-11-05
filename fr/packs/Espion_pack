@@ -24,7 +24,7 @@ exclude: true
 |   | 1                          | 2                        | 3                        | 4                     | 5                        | 6                           |
 |---|----------------------------|--------------------------|--------------------------|-----------------------|--------------------------|-----------------------------|
 | 1 | Agent répudié              | Assassin élégant         | Hacker mercenaire        | Espion grillé         | Analyste sous couverture | Trafiquant                  |
-| 2 | Agent dormant              | Conspirateur Cryptide    | Techno-Saboteur          | Infiltrateur charmant | Expert en double jeu     | Relique de la guerre froide |
+| 2 | Agent dormant              | Conspirateur Cryptique   | Techno-Saboteur          | Infiltrateur charmant | Expert en double jeu     | Relique de la guerre froide |
 | 3 | Actif à la mémoire effacée | Courtier de l'ombre      | Taupe infiltrée          | Séductrice débonnaire | Spécialiste du nettoyage | Chirurgien de terrain       |
 | 4 | Caméléon diplomatique      | Expert en interrogatoire | Renégat du MI6           | Fugitif de la CIA     | Médiateur d'entreprise   | Messager maquillé           |
 | 5 | Technicien cambrioleur     | Fantôme en silence radio | Accro de la surveillance | Imposteur glamour     | Analyste anti-terroriste | Nettoyeur méticuleux        |
@@ -115,9 +115,9 @@ exclude: true
 
 Votre protagoniste commence chaque mission avec une couverture qui lui est assignée. Quand il réalise une action qui pourrait l'exposer, lancez un dé sur l'oracle des risques. Si la réponse est négative ou mitigée, votre couverture commence à s'effilocher.
 
-- Votre couverture peut avoir trois états : Intacte, Compromise, Grillée
+- Votre couverture peut avoir trois états : Intacte, Compromise, Repérée
 - A chaque fois que vous agissez "à découvert", ou que vous attirez l'attention, consultez l'Oracle et ajustez l'état.
-- Une couverture Grillée lance immédiatement une extraction, une poursuite ou une capture (L'oracle décide laquelle)
+- Une couverture Repérée lance immédiatement une extraction, une poursuite ou une capture (L'oracle décide laquelle)
 
 > Astuce   
 > Décrivez comment votre action s'adapte à la couverture — Pas juste ce que vous faites mais comment vous vous arrangez pour que ça ait l'air normal.
@@ -148,257 +148,141 @@ Chaque mission altère le climat géopolitique. Après une mission :
 
 ## Factions
 
-### Le Direction générale
+### Le Direction Générale
 
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Equipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
+-  Concept : Agence de renseignement traditionnelle fracturée par des purges internes
+- Compétences : Techniques d'espionnage, Manipulation psychologique
+- Fragilités : Affaibli par la méfiance interne
+- Équipements : Fichiers cryptés à l'ancienne, Manutentionnaires agés
+- Objectif : Survivre à l'évolution de l'ordre mondial
+- Motivation : Survie institutionnelle avant tout
+- Némésis : Le Bloc Ascendant
 
-- Concept: Legacy intelligence agency fractured by internal purges.
-- Skills: Tradecraft, Psychological Manipulation
-- Frailty: Wounded by internal distrust
-- Gear: Old-school encrypted files, aging handlers
-- Goal: Survive the shifting world order
-- Motive: Institutional survival above all
-- Nemesis: The Ascendant Bloc
+### Le Bloc Ascendant
 
-### The Ascendant Bloc
+-  Concept : Pouvoir émergeant qui exploite l'espace digital et l'ingénierie sociale
+- Compétences : Infiltration du réseau, Surveillance IA
+- Fragilités : Hyperconfiance dans les algorithmes
+- Équipements :  Micrologiciels du marché noir, réseaux de renseignement prédictifs
+- Objectif : Domination globale de l'information
+- Motivation : Stabilité via le contrôle
+- Némésis : L'Echo Souterrain
 
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Equipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
+### L'Echo Souterrain
 
+-  Concept : Résistance décentralisée qui réunit des lanceurs d'alerte, des ex-agents et des fugitifs du digital
+- Compétences : Coordination en guerrilla, Contre-propagande
+- Fragilités : Réseaux de confiance fragmenté
+- Équipements : Technologies de brouillage, Transferts en peer-to-peer
+- Objectif : Mettre à jour les systèmes de manipulation
+- Motivation : Liberté par la transparence radicale
+- Némésis : Le Bloc Ascendant
 
-* Concept: Rising power harnessing digital control and social engineering.
-* Skills: Network infiltration, AI surveillance
-* Frailty: Overconfidence in algorithms
-* Gear: Black-market firmware, predictive intel grids
-* Goal: Total information dominance
-* Motive: Stability through control
-* Nemesis: The Underground Echo
+### La Cour Voilée
 
-### The Underground Echo
+-  Concept : Cabale d'élites de toute nationalités qui exercent leur influence à travers les financements privés et la culture
+- Compétences : Traffic d'influence, Symbolisme cryptique
+- Fragilités : Arrogance ritualisée
+- Équipements : Réseaux de clubs privés, Codes traditionnels
+- Objectif : Façonner l'histoire dans l'ombre
+- Motivation : L'héritage, la continuité, la domination
+- Némésis : La Direction Générale
 
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Equipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
+### La Solution Kestrel
 
+-  Concept : Entreprise d'espionnage privée qui travaille avec toutes les parties d'un conflit
+- Compétences : Extractions, Opérations sou faux pavillon
+- Fragilités : Loyauté envers le profit
+- Équipements : Ensemble d'équipements adaptatifs,  Fuites d'informations controlées
+- Objectif : Entretenir la guerre des secrets
+- Motivation : Dominer le marché de l'espionnage privé
+- Némésis : Tous ceux qu'elle ne peut pas facturer
 
-* Concept: Decentralized resistance of whistleblowers, ex-operatives, and digital fugitives.
-* Skills: Guerrilla coordination, Counter-propaganda
-* Frailty: Fragmented trust networks
-* Gear: Burner tech, peer-to-peer drops
-* Goal: Expose systems of manipulation
-* Motive: Freedom through radical transparency
-* Nemesis: The Ascendant Bloc
+### Le Pacte des Cendres
 
-### The Veiled Court
+-  Concept : Fanatiques extrêmistes de l'effacement — effacer l'histoire, détruire les archives, démanteler les systèmes
+- Compétences : Sabotage, Infiltration de fanatiques
+- Fragilités : Pulsion auto-destructrice
+- Équipements : Ver informatique, outils de purge de mémoire
+- Objectif : Brûler les connaissances du vieux monde
+- Motivation : La purification par l'oubli
+- Némésis : Aussi bien l'Echo Souterrain que la Court Voilée
 
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Equipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
-
-
-* Concept: Elite, multinational cabal exerting influence through private finance and culture.
-* Skills: Influence peddling, Cryptic symbolism
-* Frailty: Ritualized arrogance
-* Gear: Private club networks, heirloom codes
-* Goal: Shape history from behind the curtain
-* Motive: Legacy, continuity, dominion
-* Nemesis: The Directorate
-
-### Kestrel Solutions
-
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Equipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
-
-
-* Concept: Private espionage contractor working both sides of any conflict.
-* Skills: Extraction, False Flag Operations
-* Frailty: Loyalty to profit
-* Gear: Adaptive gear suites, controlled leaks
-* Goal: Sustain the war of secrets
-* Motive: Market domination of intelligence-for-hire
-* Nemesis: Anyone they can't bill
-
-### The Covenant of Ash
-
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Equipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
-
-
-* Concept: Extremist zealots of erasure — erase history, destroy archives, dismantle systems.
-* Skills: Sabotage, Fanatic infiltration
-* Frailty: Self-destructive impulse
-* Gear: Black flame virus, memory purging tools
-* Goal: Burn the old world’s knowledge
-* Motive: Cleansing through oblivion
-* Nemesis: The Echo and the Court alike
-
-## NPCs
+## PNJ
 
 ### Sophia Dubois
 
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Equipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
-
-
-* Concept: Rogue Diplomat
-* Skills: Social Subversion, Auction Rigging
-* Frailty: Secretly Indebted
-* Gear: Bugged Earring, Forged Manifests
-* Goal: Erase Past
-* Motive: Survival
-* Nemesis: Burned Protégé
+-  Concept : Fausse diplomate
+- Compétences : Subversion sociale, Manipulation des enchères
+- Fragilités : Secrètement endettée
+- Équipements : Boucles d'oreilles piégées, Manifeste falsifié
+- Objectif : Effacer le passé
+- Motivation : Survivre
+- Némésis : Le Protégé Brûlé
 
 ### Jack Zhang
 
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Equipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
-
-
-* Concept: Ghost Coder
-* Skills: Network Infiltration, Code Obfuscation
-* Frailty: Fame-Seeking
-* Gear: Keylogger Drone, Signal Repeater
-* Goal: Leak the Vault
-* Motive: Recognition
-* Nemesis: Rogue AI
+-  Concept : Codeur Fantôme
+- Compétences : Infiltration de réseaux, Obscurcissement de code
+- Fragilités : Cherche la célébrité
+- Équipements : Drone enregistreur de frappe, Répétiteur de signal
+- Objectif : Entrer dans la chambre forte
+- Motivation : Reconnaissance
+- Némésis : IA Malveillante
 
 ### Dmitri Volkov
 
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Equipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
-
-
-* Concept: Ex-GRU Broker
-* Skills: Logistics, Bluffing
-* Frailty: Haunted Loyalty
-* Gear: Sealed Crate, Encrypted List
-* Goal: Honor a Debt
-* Motive: Redemption
-* Nemesis: GRU General
+-  Concept : Ancien courtier du GRU (services secret russe)
+- Compétences : Logistique, Bluff
+- Fragilités : Hanté par sa loyauté
+- Équipements : Casier verrouillé, Liste cryptée
+- Objectif : Dette d'honneur
+- Motivation : Rédemption
+- Némésis : Général du GRU
 
 ### Maria Gutierrez
 
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Equipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
-
-
-* Concept: Freelance Killer
-* Skills: Disappearance, Termination
-* Frailty: Memory Gaps
-* Gear: Kill Ledger, Retinal Scrambler
-* Goal: Find Lost Year
-* Motive: Truth
-* Nemesis: Unknown Handler
+-  Concept : Tueuse à gage
+- Compétences : Disparition, Assassinat
+- Fragilités : Trous de mémoire
+- Équipements : Registre de ses contrat, Brouilleur rétinien
+- Objectif : Retrouver la mémoire de son année perdue
+- Motivation : La vérité
+- Némésis : Employeurs inconnus
 
 ### William Buchanan
 
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Equipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
-
-
-* Concept: Faded Legend
-* Skills: Disguise, Code-Switching
-* Frailty: Obsolete Habits
-* Gear: Fake Obituary, Lockbox Orders
-* Goal: Finish Old Mission
-* Motive: Redemption
-* Nemesis: Young Operative
+-  Concept : Légende déchue
+- Compétences : Déguisement, Changement de code
+- Fragilités : Routines obsolètes
+- Équipements : Fausse nécrologie, Ordonnance de mise sous séquestre
+- Objectif : Finir une vieille mission
+- Motivation : Rédemption
+- Némésis : Les jeunes agents
 
 ### Suki Kim
 
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Equipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
+-  Concept : Infiltré masqué
+- Compétences : Mimétisme, bureaucratie
+- Fragilités : Reliquats émotionnels
+- Équipements : Mémoires invisibles, Trésor familial volé
+- Objectif : Découvrir son identité
+- Motivation : Auto-guérison
+- Némésis : Adelphe inconnu
 
+## Acteurs malveillants
 
-* Concept: Masked Infiltrator
-* Skills: Mimicry, Bureaucracy
-* Frailty: Emotional Residue
-* Gear: Invisible Memoirs, Stolen Heirloom
-* Goal: Discover Identity
-* Motive: Self-Recovery
-* Nemesis: Unknown Sibling
+### Réseaux de chantage
 
-## Threat Actors
+-  Concept : Extorqueurs clandestins
+- Compétences : Coercition (contrainte), Collecte de renseignements
+- Fragilités : Avide de pouvoir
+- Équipements : Micros cachés, Photos compromettantes
+- Objectif : Controle par la contrainte
+- Motivation : Cupidité, Influence
+- Némésis : Lanceurs d'alerte, Fuites
 
-### Blackmail Rings
-
--  Concept : 
-- Compétences : 
-- Fragilités : 
-- Equipements : 
-- Objectif : 
-- Motivation : 
-- Némésis : 
-
-
-* Concept: Covert Extortionists
-* Skills: Coercion, Intel Gathering
-* Frailty: Power Drunk
-* Gear: Hidden Mics, Compromising Footage
-* Goal: Control through leverage
-* Motive: Greed, leverage
-* Nemesis: Whistleblowers, leaks
-
-### Contract Killers
+### Tueurs à gages
 
 -  Concept : 
 - Compétences : 
@@ -417,12 +301,12 @@ Chaque mission altère le climat géopolitique. Après une mission :
 * Motive: Money, revenge
 * Nemesis: Security teams, ghost targets
 
-### Cyber Cells
+### Cyber cellules
 
 -  Concept : 
 - Compétences : 
 - Fragilités : 
-- Equipements : 
+- Équipements : 
 - Objectif : 
 - Motivation : 
 - Némésis : 
@@ -436,12 +320,12 @@ Chaque mission altère le climat géopolitique. Après une mission :
 * Motive: Idealism, sabotage
 * Nemesis: Counterintel AI, kinetic raids
 
-### Freelance Militants
+### Activistes Freelances
 
 -  Concept : 
 - Compétences : 
 - Fragilités : 
-- Equipements : 
+- Équipements : 
 - Objectif : 
 - Motivation : 
 - Némésis : 
@@ -455,12 +339,12 @@ Chaque mission altère le climat géopolitique. Après une mission :
 * Motive: Payment, chaos
 * Nemesis: Intelligence handlers, rival squads
 
-### Cross-Border Runners
+### Messagers transfrontaliers
 
 -  Concept : 
 - Compétences : 
 - Fragilités : 
-- Equipements : 
+- Équipements : 
 - Objectif : 
 - Motivation : 
 - Némésis : 
@@ -474,12 +358,12 @@ Chaque mission altère le climat géopolitique. Après une mission :
 * Motive: Survival, profit
 * Nemesis: Customs agents, bounty hunters
 
-### Embedded Turncoats
+### Renégats intégrés
 
 -  Concept : 
 - Compétences : 
 - Fragilités : 
-- Equipements : 
+- Équipements : 
 - Objectif : 
 - Motivation : 
 - Némésis : 
