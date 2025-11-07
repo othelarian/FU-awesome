@@ -1328,7 +1328,7 @@ Cette approche permet à *Loner* d'être jouer **de manière entièrement narrat
   - ❌ **Risque > Chance → Non**  
   - ⚠️ **Les deux < 4 → Oui, mais ... / Non, mais ...**  
   - ⭐ **Les deux > 3 → Oui, et ... / Non, et ...**  
-  - 🔄 **Égaux → Oui, but ... +1 au Compteur de Twists**  
+  - 🔄 **Égaux → Oui, mais ... +1 au Compteur de Twists**  
 
 ### **🛠️ Création de personnage**  
 
