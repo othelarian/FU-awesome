@@ -26,48 +26,48 @@ exclude: true
 
 ### Concepts
 
-| | 1 | 2 | 3                     | 4                     | 5                      | 6                        |
-| --- | --------------------- | ---------------------- | --------------------- | --------------------- | ---------------------- | ------------------------ |
-| 1   | Assassin silencieux | Guerrier marqué par les combats | Enchanteur errant | Coupeur de bourse agile | Bretteuse vaillante | Maîtresse de lame mélancolique |
-| 2   | Vétéran aguerri | Paladin lié par serment | Duelliste gracieuse | Berserker frénétique | Parle-sauvage solitaire | Faiseur de miracles zélé |
-| 3   | Arcaniste hors la loi | Courtisan intriguant | Capitaine de première ligne audacieux | Inquisiteur fanatique | Envoyé langue-d’argent |
-| 4   | Scalde (barde) inspiré | Cambrioleur à la main vive | Mercenaire au sang froid | Maître d’érudition curieux | Gladiateur Imposant | Fanatique loyal |
-| 5   | Voyageur touché par les esprits | Ascète discipliné | Éclaireur dompteur de bêtes | Espion masqué | Dance-lame Elfe | Bricoleur de génie |
-| 6   | Corsaire usé par la mer | Matriarche royale | Fou masqué avec des secrets | Maître tacticien | Navigateur endurci | Artisan renommé |
+|     | 1                               | 2                               | 3                                     | 4                          | 5                       | 6                              |
+| --- | ------------------------------- | ------------------------------- | ------------------------------------- | -------------------------- | ----------------------- | ----------------------------   |
+| 1   | Assassin silencieux             | Guerrier marqué par les combats | Enchanteur errant                     | Coupeur de bourse agile    | Bretteuse vaillante     | Maîtresse de lame mélancolique |
+| 2   | Vétéran aguerri                 | Paladin lié par serment         | Duelliste gracieuse                   | Berserker frénétique       | Parle-sauvage solitaire | Faiseur de miracles zélé       |
+| 3   | Arcaniste hors la loi           | Courtisan intriguant            | Capitaine de première ligne audacieux | Inquisiteur fanatique      | Voyant tourmenté        | Envoyé langue-d’argent         |
+| 4   | Scalde (barde) inspiré          | Cambrioleur à la main vive      | Mercenaire au sang froid              | Maître d’érudition curieux | Gladiateur Imposant     | Fanatique loyal                |
+| 5   | Voyageur touché par les esprits | Ascète discipliné               | Éclaireur dompteur de bêtes           | Espion masqué              | Dance-lame Elfe         | Bricoleur de génie             |
+| 6   | Corsaire usé par la mer         | Matriarche royale               | Fou masqué avec des secrets           | Maître tacticien           | Navigateur endurci      | Artisan renommé                |
 
 ### Compétences
 
 
-|     | 1                | 2             | 3               | 4             | 5                  | 6                |
-| --- | ---------------- | ------------- | --------------- | ------------- | ------------------ | ---------------- |
-| 1   | Maîtrise de l’épée    | Herboristerie     | Maîtrise des bêtes   | Menace        | Tannerie       | Astrologie     |
-| 2   | Tir à l’arc       | Cueillette      | Manipulation des montures | Commandement       | Couture         | Médecine de terrain   |
-| 3   | Bagarre         | Art du voyage    | cartographie       | Sens du champ de bataille | Taille des gemmes     | Façonnage des éléments  |
-| 4   | Crochetage      | Maîtrise des pièges  | Orientation      | Construction  | Sculpture des runes       | Changeur de forme    |
-| 5   | Tissage de sort     | Lancer de filet   | Connaissance du terrain    | Travail du métal  | Illusions          | Lien avec les esprits   |
-| 6   | Préparation de potions    | Cuisine de camp | Persuasion      | Travail du bois     | Nécromancie         | Connaissances anatomiques  |
+|     | 1                      | 2                   | 3                         | 4                         | 5                   | 6                         |
+| --- | ---------------------- | ------------------- | ------------------------- | ------------------------- | ------------------- | ------------------------- |
+| 1   | Maîtrise de l’épée     | Herboristerie       | Maîtrise des bêtes        | Menace                    | Tannerie            | Astrologie                |
+| 2   | Tir à l’arc            | Cueillette          | Manipulation des montures | Commandement              | Couture             | Médecine de terrain       |
+| 3   | Bagarre                | Art du voyage       | cartographie              | Sens du champ de bataille | Taille des gemmes   | Façonnage des éléments    |
+| 4   | Crochetage             | Maîtrise des pièges | Orientation               | Construction              | Sculpture des runes | Changeur de forme         |
+| 5   | Tissage de sort        | Lancer de filet     | Connaissance du terrain   | Travail du métal          | Illusions           | Lien avec les esprits     |
+| 6   | Préparation de potions | Cuisine de camp     | Persuasion                | Travail du bois           | Nécromancie         | Connaissances anatomiques |
 
 ### Fragilités
 
-|     | 1            | 2              | 3              | 4                   | 5          | 6             |
-| --- | ------------ | -------------- | -------------- | ------------------- | ---------- | ------------- |
-| 1   | Fier        | Peu fiable     | Indécis     | Perfectionniste       | Célèbre  | Tête brûlée    |
-| 2   | Timide | Paresseux       | Crédule       | Méfiant         | Vindicatif   | Secret     |
-| 3   | Avide     | Égoïste   | Apathique      | Malveillant            | Excessivement indulgent | Nerveux     |
-| 4   | Envieux      | Obstiné      | Brutal           | Autoritaire         | Luxurieux    | Imprudent      |
-| 5   | Possessif   | Téméraire           | Vantard        | Intransigeant        | Paresseux       | Étroit d'esprit |
-| 6   | Trompeur    | Naïf          | Cynique         | Peu sûr de lui            | Arrogant   | Intolérant       |
+|     | 1            | 2          | 3         | 4               | 5                       | 6               |
+| --- | ------------ | ---------- | ----------| ----------------| ----------------------- | --------------- |
+| 1   | Fier         | Peu fiable | Indécis   | Perfectionniste | Célèbre                 | Tête brûlée     |
+| 2   | Timide       | Paresseux  | Crédule   | Méfiant         | Vindicatif              | Secret          |
+| 3   | Avide        | Égoïste    | Apathique | Malveillant     | Excessivement indulgent | Nerveux         |
+| 4   | Envieux      | Obstiné    | Brutal    | Autoritaire     | Luxurieux               | Imprudent       |
+| 5   | Possessif    | Téméraire  | Vantard   | Intransigeant   | Paresseux               | Étroit d'esprit |
+| 6   | Trompeur     | Naïf       | Cynique   | Peu sûr de lui  | Arrogant                | Intolérant      |
 
 ### Équipement 
 
-|     | 1             | 2           | 3                | 4            | 5           | 6                     |
-| --- | ------------- | ----------- | ---------------- | ------------ | ----------- | --------------------- |
-| 1   | Epée Longue     | Arc de chasse | Arbalète de poing | Dague courbée | Lance de chasse  | Hache à barbe          |
-| 2   | Morgenstern  | Fléau à pointes | Bouclier rond | Casque de fer    | Cote de mailles   | Brassard renforcés   |
-| 3   |Jambières     | Bottes silencieuses | Cape à capuche | Sac de voyage | carquois  | Flèches à pointes larges |
-| 4   | Carreaux d’arbalète | Corde d’escalade | Grappin | Lanterne à huile  | Torche en cire  | Silex et amadou |
-| 5   | Flasque d’eau | viande séchée | Sac de couchage en laine | Tente de toile | Boussole runique | Carte dessinée à la main |
-| 6   | Lentille du devin | Téléscope | Outre d’élixir | Trousse de premiers secours | Outils de voleur | Luth orné |
+|     | 1                   | 2                   | 3                        | 4                           | 5                | 6                        |
+| --- | ------------------- | ------------------- | ------------------------ | --------------------------- | ---------------- | ------------------------ |
+| 1   | Épée Longue         | Arc de chasse       | Arbalète de poing        | Dague courbée               | Lance de chasse  | Hache à barbe            |
+| 2   | Morgenstern         | Fléau à pointes     | Bouclier rond            | Casque de fer               | Cote de mailles  | Brassard renforcés       |
+| 3   |Jambières            | Bottes silencieuses | Cape à capuche           | Sac de voyage               | Carquois         | Flèches à pointes larges |
+| 4   | Carreaux d’arbalète | Corde d’escalade    | Grappin                  | Lanterne à huile            | Torche en cire   | Silex et amadou          |
+| 5   | Flasque d’eau       | viande séchée       | Sac de couchage en laine | Tente de toile              | Boussole runique | Carte dessinée à la main |
+| 6   | Lentille du devin   | Télescope           | Outre d’élixir           | Trousse de premiers secours | Outils de voleur | Luth orné                |
 
 ### Noms
 
@@ -95,25 +95,25 @@ exclude: true
 
 #### Noms de famille
 
-|     | 1          | 2            | 3             | 4              | 5              | 6              |
-| --- | ---------- | ------------ | ------------- | -------------- | -------------- | -------------- |
-| 1   | Coeurdacier  | Simplevent  | Duskbane      | Vidruisseau | Brisorage    | Valdépine      |
-| 2   | Grismarais    | Ombrenuit | Emberlain     | Fondegarde | Rocpelé  | Rougemarche       |
-| 3   | Aubévoir | Cendreplume   |  Murmelune | Vexley         | Ventnouveau      | Hauteflamme |
-| 4   | Malcorbeau | Boidor   | Volehiver   | Creulac | Sombremont      | Mordragon       |
-| 5   | Castellépine | Tourbeclair   | Quesnescu | Bourbebois       | Grondefange        | Grivrétang        |
-| 6   | Tertrenoir| Clochargent  | Runelame     | Tristepuit     | Voildacier       | Cendrebois       |
+|     | 1            | 2           | 3         | 4           | 5           | 6           |
+| --- | ------------ | ----------- | --------- | ----------- | ----------- | ----------- |
+| 1   | Coeurdacier  | Simplevent  | Duskbane  | Vidruisseau | Brisorage   | Valdépine   |
+| 2   | Grismarais   | Ombrenuit   | Emberlain | Fondegarde  | Rocpelé     | Rougemarche |
+| 3   | Aubévoir     | Cendreplume | Murmelune | Vexley      | Ventnouveau | Hauteflamme |
+| 4   | Malcorbeau   | Boidor      | Volehiver | Creulac     | Sombremont  | Mordragon   |
+| 5   | Castellépine | Tourbeclair | Quesnescu | Bourbebois  | Grondefange | Grivrétang  |
+| 6   | Tertrenoir   | Clochargent | Runelame  | Tristepuit  | Voildacier  | Cendrebois  |
 
 ###  Surnoms
 
-|     | 1         | 2           | 3            | 4             | 5              | 6             |
-| --- | --------- | ----------- | ------------ | ------------- | -------------- | ------------- |
-| 1   | le Rouge   | Long-yeux   | Cape de cendres     | Langue de feu  | le Murmurant | Dendacier       |
-| 2   | Une-oreille   | Renard | Croc étincelant   | Marche-poussière    | Dure-main | Étoile-né |
-| 3   | Tom le Noir | Marche d’argent  | Œilcreux   | Monte-nuage    | Dent tranchante | la Silencieuse |
-| 4   | Tête-d'or | Flétrissure  | Lamevent   | Enfant de l’Orage | Face de roc | Cauchemar     |
-| 5   | Le Pâle | Trois orteils | Crin de feu | Ourse-griffe | Voix-sombre | l’Invisible   |
-| 6   | Rieur    |  Langue fourchue  | Hurle-ciel  | la Noire    | Ramasse-os | le Dernier Espoir |
+|     | 1           | 2               | 3               | 4                 | 5               | 6                  |
+| --- | ----------- | --------------- | --------------- | ----------------- | --------------- | ------------------ |
+| 1   | le Rouge    | Long-yeux       | Cape de cendres | Langue de feu     | le Murmurant    | Dendacier          |
+| 2   | Une-oreille | Renard          | Croc étincelant | Marche-poussière  | Dure-main       | Enfant des étoiles |
+| 3   | Tom le Noir | Marche d’argent | Œilcreux        | Monte-nuage       | Dent tranchante | la Silencieuse     |
+| 4   | Tête-d'or   | Flétrissure     | Lamevent        | Enfant de l’Orage | Face de roc     | Cauchemar          |
+| 5   | Le Pâle     | Trois orteils   | Crin de feu     | Ourse-griffe      | Voix-sombre     | l’Invisible        |
+| 6   | Rieur       | Langue fourchue | Hurle-ciel      | la Noire          | Ramasse-os      | le Dernier Espoir  |
 
 ## Règles spéciale : La magie
 
@@ -132,42 +132,42 @@ Un personnage peut canaliser sa **Chance** pour lancer un sort ou activer une ca
 
 | D66 | Sorts |
 | --- | ----- |
-| 11 | **Soin** (1 Chance) – Restaure un peu de la santé d’une créature que vous touchez |
-| 12 | **Lumière** (1 Chance) – Crée une lueur flottante qui illumine une petite zone pour une heure |
-| 13 | **Identifier** (1 Chance) – Révèle la nature et les propriétés magiques d’un objet ou d’un enchantement |
-| 14 | **Éclair** (1 Chance) – Lance une gerbe d’énergie élémentaire sur une seule cible |
-| 15 | **Détection de la magie** (1 Chance) – Vous ressentez les effets et les auras magiques dans les environs |
-| 16 | **Armure du mage** (2 Chance) – Invoque un bouclier de force qui absorbe les dégâts physiques |
-| 21 | **Lévitation** (2 Chance) – Défiez la gravité pour une durée limitée, en flottant au-dessus du sol |
-| 22 | **Peur** (2 Chance) – Vous inspirez la peur à une créature, l’obligeant à fuir ou à hésiter |
-| 23 | **Illusion** (2 Chance) – Créer un son ou une image mineure qui trouble les sens |
-| 24 | **Charme** (2 Chance) – Adoucie momentanément les disposition d’une créature à votre égard |
-| 25 | **Invisibilité** (3 Chance) – Vous êtes hors de vue pour un court moment ou jusqu’à ce que vous réalisiez une action |
-| 26 | **Téléportation** (4 Chance) – Vous vous déplacez instantanément à un endroit visible |
-| 31 | **Boule de feu** (3 Chance) – Vous déchaînez une explosion ardente qui engloutit une petite zone |
-| 32 | **Invocation** (3 Chance) – Vous appeler une petite créature qui vous aide dans une tâche |
-| 33 | **Enchantement** (2 Chance) – Vous imprégnez un objet avec un effet magique temporaire|
-| 34 | **Divination** (2 Chance) – Vous obtenez des information sur une personne, un lieu ou un mystère |
-| 35 | **Abjuration** (3 Chance) – Vous protégez une création ou un lieu des effets magiques nocifs  |
-| 36 | **Conjuration** (4 Chance) – Vous invoquez un objet ou un outil simple dans votre main |
-| 41 | **Nécromancie** (4 Chance) – Vous influencez les morts, ou commandez les morts vivants faibles |
-| 42 | **Transmutation** (4 Chance) – Vous altérez la forme ou la nature d’une créature ou d’un objet |
-| 43 | **Évocation** (4 Chance) – Vous conjurez une explosion soudaine de puissance élémentaire |
-| 44 | **Grande Illusion** (4 Chance) – Vous créez une illusion convaincante qui affecte plusieurs sens |
-| 45 | **Altération** (4 Chance) – Vous changez votre propre apparence,votre voix, ou des traits mineurs |
-| 46 | **Restauration** (4 Chance) – Vous réparez ou purifiez une créature, un objet ou l’environnement |
-| 51 | **Saut** (2 Chance) – Vous propulsez une cible ou vous même à n’importe quel point à porté |
-| 52 | **Cercle de Protection** (3 Chance) – Vous créez une barrière qui repousse les esprits et les forces divines |
-| 53 | **Vision nocturne** (1 Chance) – Confère la capacité à une créature de voir dans la nuit complète |
-| 54 | **Vague assourdissante** (2 Chance) – Assourdit toutes les créatures dans un petit rayon|
-| 55 | **Verrou** (1 Chance) – Vous ouvrez ou fermez à volonté un objet non magique et non verrouillé |
-| 56 | **Déguisement** (3 Chance) – Vous prenez l’apparence d’une créature que vous avez déjà vue |
-| 61 | **Mirage** (3 Chance) – Projète une illusion simple et silencieuse pour distraire ou tromper |
-| 62 | **Purger le Texte** (2 Chance) – Efface du texte banal ou arcanique de n’importe quelle surface |
-| 63 | **Abri** (4 Chance) – Invoque une structure protectrice qui dure jusqu’à 24 heures|
-| 64 | **Maître de la Gravité** (4 Chance) – Vous manipulez une cible dans l’espace, en la soulevant ou en l’abaissant |
-| 65 | **Orage de Glace** (2 Chance) – Vous invoque une grêle de pointes gelées pour frapper vos ennemis |
-| 66 | **Fabrication** (4 Chance) – Vous transformez des matériaux bruts en un objet manufacturé de votre choix |
+| 11  | **Soin** (1 Chance) – Restaure un peu de la santé d’une créature que vous touchez |
+| 12  | **Lumière** (1 Chance) – Crée une lueur flottante qui illumine une petite zone pour une heure |
+| 13  | **Identifier** (1 Chance) – Révèle la nature et les propriétés magiques d’un objet ou d’un enchantement |
+| 14  | **Éclair** (1 Chance) – Lance une gerbe d’énergie élémentaire sur une seule cible |
+| 15  | **Détection de la magie** (1 Chance) – Vous ressentez les effets et les auras magiques dans les environs |
+| 16  | **Armure du mage** (2 Chance) – Invoque un bouclier de force qui absorbe les dégâts physiques |
+| 21  | **Lévitation** (2 Chance) – Défiez la gravité pour une durée limitée, en flottant au-dessus du sol |
+| 22  | **Peur** (2 Chance) – Vous inspirez la peur à une créature, l’obligeant à fuir ou à hésiter |
+| 23  | **Illusion** (2 Chance) – Créer un son ou une image mineure qui trouble les sens |
+| 24  | **Charme** (2 Chance) – Adoucie momentanément les disposition d’une créature à votre égard |
+| 25  | **Invisibilité** (3 Chance) – Vous êtes hors de vue pour un court moment ou jusqu’à ce que vous réalisiez une action |
+| 26  | **Téléportation** (4 Chance) – Vous vous déplacez instantanément à un endroit visible |
+| 31  | **Boule de feu** (3 Chance) – Vous déchaînez une explosion ardente qui engloutit une petite zone |
+| 32  | **Invocation** (3 Chance) – Vous appeler une petite créature qui vous aide dans une tâche |
+| 33  | **Enchantement** (2 Chance) – Vous imprégnez un objet avec un effet magique temporaire|
+| 34  | **Divination** (2 Chance) – Vous obtenez des information sur une personne, un lieu ou un mystère |
+| 35  | **Abjuration** (3 Chance) – Vous protégez une création ou un lieu des effets magiques nocifs  |
+| 36  | **Conjuration** (4 Chance) – Vous invoquez un objet ou un outil simple dans votre main |
+| 41  | **Nécromancie** (4 Chance) – Vous influencez les morts, ou commandez les morts vivants faibles |
+| 42  | **Transmutation** (4 Chance) – Vous altérez la forme ou la nature d’une créature ou d’un objet |
+| 43  | **Évocation** (4 Chance) – Vous conjurez une explosion soudaine de puissance élémentaire |
+| 44  | **Grande Illusion** (4 Chance) – Vous créez une illusion convaincante qui affecte plusieurs sens |
+| 45  | **Altération** (4 Chance) – Vous changez votre propre apparence,votre voix, ou des traits mineurs |
+| 46  | **Restauration** (4 Chance) – Vous réparez ou purifiez une créature, un objet ou l’environnement |
+| 51  | **Saut** (2 Chance) – Vous propulsez une cible ou vous même à n’importe quel point à porté |
+| 52  | **Cercle de Protection** (3 Chance) – Vous créez une barrière qui repousse les esprits et les forces divines |
+| 53  | **Vision nocturne** (1 Chance) – Confère la capacité à une créature de voir dans la nuit complète |
+| 54  | **Vague assourdissante** (2 Chance) – Assourdit toutes les créatures dans un petit rayon|
+| 55  | **Verrou** (1 Chance) – Vous ouvrez ou fermez à volonté un objet non magique et non verrouillé |
+| 56  | **Déguisement** (3 Chance) – Vous prenez l’apparence d’une créature que vous avez déjà vue |
+| 61  | **Mirage** (3 Chance) – Projète une illusion simple et silencieuse pour distraire ou tromper |
+| 62  | **Purger le Texte** (2 Chance) – Efface du texte banal ou arcanique de n’importe quelle surface |
+| 63  | **Abri** (4 Chance) – Invoque une structure protectrice qui dure jusqu’à 24 heures|
+| 64  | **Maître de la Gravité** (4 Chance) – Vous manipulez une cible dans l’espace, en la soulevant ou en l’abaissant |
+| 65  | **Orage de Glace** (2 Chance) – Vous invoque une grêle de pointes gelées pour frapper vos ennemis |
+| 66  | **Fabrication** (4 Chance) – Vous transformez des matériaux bruts en un objet manufacturé de votre choix |
 
 ## Factions
 
@@ -246,7 +246,7 @@ Un personnage peut canaliser sa **Chance** pour lancer un sort ou activer une ca
 - **Concept :** Archiviste Pale
 - **Compétences :** Connaissances interdites, Extraction de souvenirs
 - **Fragilité :** Se flétrit dans la lumière du jour
-- **Équipement :** Voile noir, Tome enchainé des Échos
+- **Équipement :** Voile noir, Tome Mémoriel des Échos
 - **Objectif :** Mettre la main sur des zones de Magie Sauvage
 - **Motivation :** Libérer la véritable origine de la magie - quel qu'en soit le prix
 - **Némésis :** Les Cercles Brisés, qui l'ont exilée après l'incident de la Flamme Creuse
@@ -278,10 +278,10 @@ Un personnage peut canaliser sa **Chance** pour lancer un sort ou activer une ca
 - **Motivation :** Venger l'incendie des Grisbois
 - **Némésis :** Les Maisons Nobles qui continuent à exploiter les forêts sauvages pour ses charpentes et son chauffage
 
-### Le Gardien Ysryn de la Voûte des Échos
+### Ysryn, Gardien de la Voûte des Échos
 - **Concept :** Oracle des Pages Perdues
 - **Compétences :** Langues Anciennes, Dissimuler la vérité
-- **Fragilité :** Ses souvenirs ne sont pas les siens
+- **Fragilité :** Ses souvenirs ne sont pas réellement les siens
 - **Équipement :** Anneau serti d'une Pierre Murmurante, Masque d'acier silencieux
 - **Objectif :** Préserver les vérités dangereuses et interdire leur usage
 - **Motivation :** Empêcher Aldorath de répéter son histoire passée
